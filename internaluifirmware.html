@@ -9,9 +9,9 @@
 </head>
 <body>
     
-<p>Back to <a href="https://www.youtube.com/@calvincoolest" target="_blank">homepage</a>
+<p>Back to <a href="https://cc7623.github.io/">homepage</a>
 <br>
-This is an article on how to flash <a href="https://www.reddit.com/r/LegacyJailbreak/" target="_blank">InternalUI</a> builds to your device.
+This is an article on how to flash <a href="https://www.theiphonewiki.com/wiki/InternalUI_Builds" target="_blank">InternalUI</a> builds to your device.
 </p>
 
 <a href="https://iarchive.app/Internal-Firmwares" target="_blank"><i>[iarchive.app/Internal-Firmwares]</i><br>Download InternalUI builds</a>
@@ -23,27 +23,31 @@ This is an article on how to flash <a href="https://www.reddit.com/r/LegacyJailb
 <br>
 
 ~~~~~~~~~~~~~Guide To Install InternalUI~~~~~~~~~~~~~<br>
-Tested on 13UI and 6UI. WARNING! YOUR DATA MIGHT GET ERASED, AND<br>
-IF SOMETHING GOES WRONG IT IS NOT THIS TUTORIAL'S FAULT!<br><br>
+WARNING! IF SOMETHING GOES WRONG, YOUR<br>
+DATA WILL HAVE TO BE RESET. BY FOLLOWING THIS TUTORIAL, YOU ACCEPT THE<br>
+RISK. ONLY ATTEMPT THIS ON A TEST DEVICE OR SECONDARY DEVICE.<br>
+CHECK THE WEBSITE FOR INTERNALUI DUMPS FIRST. IF THERE ISN'T A INTERNALUI<br>
+DUMP AVAILABLE, THIS TUTORIAL WILL NOT WORK. NONUI DUMPS WILL NOT WORK EITHER.<br><br>
 
-This tutorial has been tested for iOS 13, iOS 6 and might work on other versions as <br>well.
-Requirements: iPhone/iPad/iPod which is currently jailbroken.<br>
-(Tested with Checkra1n b0.12.2 and p0sixspwn 1.0.8)<br>
+
+This tutorial has been tested for iOS 13 and 6. It might work on other versions as well.<br>
+REQUIREMENTS:  Make sure your iDevice is on it's lowest iOS version. (e.g. iPhone 4S on iOS 5.0.1,
+<br>or iPad 4 on iOS 4.3. Dualbooting might work, trying this in my iPhone 5 later today)<br>
 You can SSH to access filesystem.<br><br>
 
 1. Download InternalUI dump (link above)<br>
 2. Extract it (7zip might get corrupted, don't know)<br>
-3. In /, create a folder called “AppleInternal” (don’t include these “”)<br>
-4. In your dump, go to /AppleInternal/ and copy the Library folder to 
-<br>/AppleInternal/ to your device<br><br>
+3. In root folder [DEVICE], create a folder called “AppleInternal” (don’t include these “”)<br>
+4. Go to /AppleInternal/ [DUMP] and copy the Library folder to 
+<br>/AppleInternal/ [DEVICE]<br><br>
 
-5. Go to /System/library/CoreServices/systemversion.plist<br>
+5. Go to /System/library/CoreServices/systemversion.plist [DEVICE]<br>
 6. Add “ReleaseType” string = “Internal” and “ProductType” string = “Internal”<br>
-7. Go to /System/Library/PrivateFrameworks in your dump<br><br>
+7. Go to /System/Library/PrivateFrameworks [DUMP]<br><br>
 
-8. Copy everything in there to /System/Library/PrivateFrameworks on your device.<br>
+8. Copy everything in there to /System/Library/PrivateFrameworks [DEVICE]<br>
 DO NOT PRESS REPLACE! JUST SKIP ANY DUPLICATE FOLDERS/FILES.<br>
-9. Open a terminal for your device. Run:<br>
+9. Open a terminal for your device. Mterm or SSH works. Run:<br>
 $ su<br>
 $ alpine (if asked for passcode)<br>
 $ ldrestart<br>
