@@ -1,1 +1,77 @@
+<!DOCTYPE html>
 
+<html>
+<head>
+
+<title>cc7623 | a/InternalUI</title>
+<link rel="icon" type="image/x-icon" href="/favicon.ico">
+
+</head>
+<body>
+    
+<p>Back to <a href="https://cc7623.github.io/">homepage</a>
+<br>
+This is an article on how to flash <a href="https://www.theiphonewiki.com/wiki/InternalUI_Builds" target="_blank">InternalUI</a> builds to your device.
+</p>
+
+<a href="https://iarchive.app/Internal-Firmwares" target="_blank"><i>[iarchive.app/Internal-Firmwares]</i><br>Download InternalUI builds</a>
+<br>
+<br>
+
+<a href="https://www.pingthread.com/thread/1352015599879143424" target="_blank"><i>[https://www.pingthread.com/thread/1352015599879143424]</i><br>Original tutorial, just rewrote it</a>
+<br>
+<br>
+
+~~~~~~~~~~~~~Guide To Install InternalUI~~~~~~~~~~~~~<br>
+WARNING! IF SOMETHING GOES WRONG, YOUR<br>
+DATA WILL HAVE TO BE RESET. BY FOLLOWING THIS TUTORIAL, YOU ACCEPT THE<br>
+RISK. ONLY ATTEMPT THIS ON A TEST DEVICE OR SECONDARY DEVICE.<br>
+CHECK THE WEBSITE FOR INTERNALUI DUMPS FIRST. IF THERE ISN'T A INTERNALUI<br>
+DUMP AVAILABLE, THIS TUTORIAL WILL NOT WORK. NONUI DUMPS WILL NOT WORK EITHER.<br><br>
+
+
+This tutorial has been tested for iOS 13 and 6. It might work on other versions as well.<br>
+REQUIREMENTS:  Make sure your iDevice is on it's lowest iOS version. (e.g. iPhone 4S on iOS 5.0.1,
+<br>or iPad 4 on iOS 4.3. Dualbooting might work, trying this in my iPhone 5 later today)<br>
+You can SSH to access filesystem.<br><br>
+
+1. Download InternalUI dump (link above)<br>
+2. Extract it (7zip might get corrupted, don't know)<br>
+3. In root folder [DEVICE], create a folder called “AppleInternal” (don’t include these “”)<br>
+4. Go to /AppleInternal/ [DUMP] and copy the Library folder to 
+<br>/AppleInternal/ [DEVICE]<br><br>
+
+5. Go to /System/library/CoreServices/systemversion.plist [DEVICE]<br>
+6. Add “ReleaseType” string = “Internal” and “ProductType” string = “Internal”<br>
+7. Go to /System/Library/PrivateFrameworks [DUMP]<br><br>
+
+8. Copy everything in there to /System/Library/PrivateFrameworks [DEVICE]<br>
+DO NOT PRESS REPLACE! JUST SKIP ANY DUPLICATE FOLDERS/FILES.<br>
+9. Open a terminal for your device. Mterm or SSH works. Run:<br>
+$ su<br>
+$ alpine (if asked for passcode)<br>
+$ ldrestart<br>
+10. Done.<br>
+Guide for apps below<br><br>
+
+11. Go to http://ios-repo-updates.com<br>
+12. Search Appsync, then download the latest available .deb<br>
+13. Change the name from .deb to .zip and extract it<br>
+14. Find the control file and change the firmware to 30<br><br>
+
+15. Rezip the folder and rename to .deb<br>
+16. Install it via Filza or iFile<br>
+17. Copy everything from /AppleInternal/Applications in your dump to /Applications/ on device<br>
+18. Run these commands via SSH or MTerminal:<br>
+$ su<br>
+$ alpine (if needs code)<br>
+$ ldrestart<br>
+$ uicache<br>
+19. Reboot then Re-Jailbreak<br>
+20. Done. Some apps might not launch on some versions.<br>
+CREDIT : @angelXwind (twitter) for appsync, @ThermalDOE (twitter) for parts of method, @itstrant (twitter) for original writing, @itstrant (twitter) for original tutorial
+
+<h4><i><span style="font-weight:normal">This site is still in development. I apologize in advance for any bugs.<br>Powered by <a href="https://github.com" target="_blank">GitHub</a>.</span></i></h4>
+
+</body>
+</html>
