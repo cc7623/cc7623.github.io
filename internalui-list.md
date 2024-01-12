@@ -13,8 +13,8 @@ iPhone 6s Plus: 15C50 (InternalUI)
 
 iPhone 8: 17A508 (InternalUI)
 
-iPhone X: 16C49 (InternalUI), 17A512 (InternalUI)
-iPhone XS: 16B92 (InternalUI)
+iPhone X: 16C49 (InternalUI), 17A512 (InternalUI)\
+iPhone XS: 16B92 (InternalUI)\
 iPhone XS Max: 17B45a (InternalUI)
 
 iPhone 11: 18A188 (InternalUI)
