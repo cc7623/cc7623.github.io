@@ -71,10 +71,8 @@ $ ldrestart<br>
 
 FOR IOS 7:<br>
 "<i>You don't have to edit anything in Appsync package,<br>
-just install the latest version of Appsync Unified. Also, after copying over all the internal apps,</i>(we'll copy over later)<i><br>
-make sure to open terminal on the iPhone, cd to /AppleInternal/Applications and "chown 755 ." (without quotes, include period), otherwise all internal apps would<br>
-crash with exit code 13."</i><br>
-(taken from <a href="https://www.reddit.com/r/Apple_Internal/comments/18ss7lg/comment/kf9bei8/?utm_source=reddit&utm_medium=web2x&context=3">Reddit</a>)<br><br>
+just install the latest version of Appsync Unified. [...]"</i><br>
+(italic text taken from <a href="https://www.reddit.com/r/Apple_Internal/comments/18ss7lg/comment/kf9bei8/?utm_source=reddit&utm_medium=web2x&context=3">Reddit</a>)<br><br>
 
 NOT IOS 7:<br>
 13. Change the name from .deb to .zip and extract it<br>
@@ -86,6 +84,13 @@ NOT IOS 7:<br>
 $ su<br>
 $ alpine (if needs password)<br>
 $ ldrestart<br>
+
+FOR IOS 7:<br>
+"<i>[...] Also, after copying over all the internal apps,<br>
+make sure to open terminal on the iPhone, cd to /Applications/ and "chown 755 ." (without quotes, include period), otherwise all internal apps would<br>
+crash with exit code 13."</i> After running chown, run uicache and reboot.<br>
+(italic text taken from <a href="https://www.reddit.com/r/Apple_Internal/comments/18ss7lg/comment/kf9bei8/?utm_source=reddit&utm_medium=web2x&context=3">Reddit</a>)<br><br>
+
 $ uicache<br>
 19. Reboot.<br>
 20. Done. Some apps might not launch on some versions of iOS.<br><br>
