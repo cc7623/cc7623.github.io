@@ -31,5 +31,5 @@ iPod Touch 4: [8B117, iOS 4.1](https://iarchive.app/Download/8B117.zpaq)
 
 ========================================================
 
-###### Sorry if this text feels kind of off from the original tutorial. I was too lazy to write this page in HTML, so I wrote it in MarkDown.
+###### Sorry if this page feels kind of off from the original tutorial. I was too lazy to write this page in HTML, so I wrote it in MarkDown.
 ###### Also learning CSS atm so my website will not look like it's from the 1990s
