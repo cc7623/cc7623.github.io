@@ -1,7 +1,7 @@
 IF YOUR DEVICE IS NOT LISTED HERE, THIS TUTORIAL WILL NOT WORK.
 IF YOUR DEVICE IS LISTED HERE, HEAD OVER TO THE DOWNLOADS SECTION.
 NONUI DUMPS WILL NOT WORK EITHER.
-Taken from [iarchive.app](iarchive.app/Internal-Firmwares)
+Taken from [iarchive.app/Internal-Firmwares](iarchive.app/Internal-Firmwares)
 
 =====================iPhone Firmwares=====================
 
