@@ -33,19 +33,26 @@ DUMP AVAILABLE, THIS TUTORIAL WILL NOT WORK. NONUI DUMPS WILL NOT WORK EITHER.<b
 
 This tutorial has been tested for iOS 13 and 7. It might work on other versions as well.<br>
 REQUIREMENTS: Visit the link above where you can download the InternalUI builds.<br>
-It will show (example): "11A465 (InternalUI) ⇩​ Download" search up the Build ID (11A465).<br>
-In this example, it's iOS 7.0. Dualboot or downgrade to that stock iOS version for your device.<br>
+It will show (example): "iPhone 5: [...] 11A465 (InternalUI) ⇩​ Download" search up the Build ID (11A465).<br>
+In this EXAMPLE, it's iOS 7.0. Dualboot or downgrade to that stock iOS version for your device.<br>
 
 ========PART I: INSTALLING INTERNAL SETTINGS========<br><br>
     
 1. Download InternalUI dump (link above)<br>
-2. Extract it (7zip might get corrupted, don't know)<br>
+2. Extract it (7zip or WinRAR work)<br>
 3. In root folder [DEVICE], create a folder called “AppleInternal” (don’t include these “”)<br>
 4. Go to /AppleInternal/ [DUMP] and copy the Library folder to 
 <br>/AppleInternal/ [DEVICE]<br><br>
 
 5. Go to /System/library/CoreServices/systemversion.plist [DEVICE]<br>
 6. Add “ReleaseType” string = “Internal” and “ProductType” string = “Internal”<br>
+"""<br>
+    <key>ReleaseType</key><br>
+    <string>Internal</string><br>
+    <key>ProductType</key><br>
+    <string>Internal</string><br>
+"""<br>
+Or just CTRL + C/CTRL + V
 7. Go to /System/Library/PrivateFrameworks [DUMP]<br><br>
 
 8. Copy everything in there to /System/Library/PrivateFrameworks [DEVICE]<br>
@@ -67,8 +74,9 @@ You don't have to edit anything in Appsync package,<br>
 just install the latest version of Appsync Unified. Also, after copying over all the internal apps,<br>
 make sure to open terminal on the iPhone, cd to /AppleInternal/Applications and "chown 755 ." (without quotes, include period), otherwise all internal apps would<br>
 crash with exit code 13.<br><br>
-(taken from <a href="https://www.reddit.com/r/Apple_Internal/comments/18ss7lg/comment/kf9bei8/?utm_source=reddit&utm_medium=web2x&context=3">Reddit</a>)
+(taken from <a href="https://www.reddit.com/r/Apple_Internal/comments/18ss7lg/comment/kf9bei8/?utm_source=reddit&utm_medium=web2x&context=3">Reddit</a>)<br><br>
 
+NOT IOS 7:<br>
 13. Change the name from .deb to .zip and extract it<br>
 14. Find the control file and change the firmware to 30<br><br>
 
@@ -77,12 +85,15 @@ crash with exit code 13.<br><br>
 17. Copy everything from /AppleInternal/Applications in your dump to /Applications/ on device<br>
 18. Run these commands via SSH or MTerminal:<br>
 $ su<br>
-$ alpine (if needs code)<br>
+$ alpine (if needs password)<br>
 $ ldrestart<br>
 $ uicache<br>
-19. Reboot then Re-Jailbreak<br>
-20. Done. Some apps might not launch on some versions.<br>
-CREDIT : @angelXwind (twitter) for appsync, @ThermalDOE (twitter) for parts of method, @itstrant (twitter) for original writing
+19. Reboot.<br>
+20. Done. Some apps might not launch on some versions of iOS.<br><br>
+
+CREDIT: @angelXwind (twitter) for appsync, @ThermalDOE (twitter) for parts of method, @itstrant (twitter) for most writing, /u/Andreyhg (Reddit) for iOS 7 app instructions<br>
+and me, @calvincoolest (YT) /u/East-Box-8015 (Reddit) for compiling all this info together and changing up @itstrant's tutorial a bit<br>
+Thank you all! <3<br>
 
 <h4><i><span style="font-weight:normal">This site is still in development. I apologize in advance for any bugs.<br>Powered by <a href="https://github.com" target="_blank">GitHub</a>.</span></i></h4>
 
