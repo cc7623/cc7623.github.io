@@ -28,3 +28,7 @@ iPad 2: [11B554a, iOS 7.0.4](https://iarchive.app/Download/11B554a.zip)
 =====================iPod Firmwares=====================
 
 iPod Touch 4: [8B117, iOS 4.1](https://iarchive.app/Download/8B117.zpaq)
+
+========================================================
+
+###### Sorry if this text feels kind of off from the original tutorial. I was too lazy to write this page in HTML, so I wrote it in MarkDown.
