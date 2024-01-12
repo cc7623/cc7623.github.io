@@ -81,10 +81,6 @@ NOT IOS 7:<br>
 16. Install it via Filza or iFile<br><br>
 
 17. Copy everything from /AppleInternal/Applications in your dump to /Applications/ on device<br>
-18. Run these commands via SSH or MTerminal:<br>
-$ su<br>
-$ alpine (if needs password)<br>
-$ ldrestart<br>
 
 FOR IOS 7:<br>
 "<i>[...] Also, after copying over all the internal apps,<br>
@@ -92,6 +88,10 @@ make sure to open terminal on the iPhone, cd to /Applications/ and "chown 755 ."
 crash with exit code 13."</i> After running chown, run uicache and reboot.<br>
 (italic text taken from <a href="https://www.reddit.com/r/Apple_Internal/comments/18ss7lg/comment/kf9bei8/?utm_source=reddit&utm_medium=web2x&context=3">Reddit</a>)<br><br>
 
+18. Run these commands via SSH or MTerminal:<br>
+$ su<br>
+$ alpine (if needs password)<br>
+$ ldrestart (wait for respring)<br>
 $ uicache<br>
 19. Reboot.<br>
 20. Done. Some apps might not launch on some versions of iOS.<br><br>
