@@ -1,7 +1,7 @@
 These are all the public InternalUI dumps. If your device isn't listed here,\
 it either only has a NonUI dump or it doesn't have any dump (NonUI or InternalUI)\
 present on the website. Click on a build ID to download it.\
-Download links from [iarchive.app/Internal-Firmwares](iarchive.app/Internal-Firmwares)
+Download links from [iarchive.app/Internal-Firmwares](https://iarchive.app/Internal-Firmwares)
 
 ====================iPhone Firmwares====================
 
