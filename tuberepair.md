@@ -22,4 +22,4 @@ UNINSTALL "TUBEFIXER" AND "CLASSIC YT APP" FROM IPG BEFORE STARTING.
 
 
 
-[YT on iOS 4? Will check this out soon :)](https://www.reddit.com/r/LegacyJailbreak/comments/194inh4/comment/khlq0w6/?utm_source=embedv2&utm_medium=comment_embed&utm_content=action_bar&embed_host_url=https%3A%2F%2Frebed.redditmedia.com%2Fembed)
+[(YT on iOS 4? Will check this out soon, might make a tutorial!)](https://www.reddit.com/r/LegacyJailbreak/comments/194inh4/comment/khlq0w6/?utm_source=embedv2&utm_medium=comment_embed&utm_content=action_bar&embed_host_url=https%3A%2F%2Frebed.redditmedia.com%2Fembed)
