@@ -12,3 +12,14 @@ UNINSTALL "TUBEFIXER" AND "CLASSIC YT APP" FROM IPG BEFORE STARTING.
 4. Next, type in your YT API key in the API KEY section. (https://www.youtube.com/watch?v=pP4zvduVAqo - How to get an YT API key)
 5. Lastly, as request header, type in "X-TubeRepair-API-Key".
 6. Respring and launch YT!
+
+
+
+
+
+
+
+
+
+
+[YT on iOS 4? Will check this out soon :)](https://www.reddit.com/r/LegacyJailbreak/comments/194inh4/comment/khlq0w6/?utm_source=embedv2&utm_medium=comment_embed&utm_content=action_bar&embed_host_url=https%3A%2F%2Frebed.redditmedia.com%2Fembed)
