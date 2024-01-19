@@ -1,5 +1,5 @@
 TUBEREPAIR LETS YOU REVIVE OLD YOUTUBE ON IOS 5 & 6!\
-TubeRepair by bag.xml has been released & is now in beta.\
+TubeRepair by bag.xml has just been released & is now in beta. (as of now, it's only been around for abt a day.)\
 [Original Reddit post by bag.xml](https://www.reddit.com/r/LegacyJailbreak/comments/194inh4/a_snippet_of_whats_about_to_come_discussion/)\
 This completely revives the YT app for iOS 5.1.1 and now you can\
 use YT with no bugs, just like it was back in the 2010's.
