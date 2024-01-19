@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+
+<title>cc7623 | Illegal Apps?</title>
+<link rel="icon" type="image/x-icon" href="/favicon.ico">
+
+</head>
+<body>
+    
+<p>Back to <a href="https://cc7623.github.io/">homepage</a>
+<br>
+This is an article on how to flash unsupported apps to your device. (e.g. Weather/Stocks/Phone/Passbook on iPad, or PhotoBooth/Facetime on iPhone.)
+</p>
+
+This tutorial has been tested for iOS 6. It might work on other versions as well.<br>
+
+========PART I: UNZIPPING IPSW========<br><br>
+    
+1. Download IPSW. If you're downloading, make sure it's on the same iOS Back to <a href="https://cc7623.github.io/applist">Check Here!</a><br>
+2. Download iDecrypt for <a href="https://github.com/cc7623/cc7623.github.io/raw/main/downloads/iDecrypt-Mac-build91-bennyyboi.zip">Mac</a> or <a href="https://github.com/cc7623/cc7623.github.io/blob/main/downloads/iDecryptWinv2.2.zip">Windows</a><br>
+3. In root folder [DEVICE], create a folder called “AppleInternal” (don’t include these “”)<br>
+4. Go to /AppleInternal/ [DUMP] and copy the Library folder to 
+<br>/AppleInternal/ [DEVICE]<br><br>
+
+5. Go to /System/library/CoreServices/systemversion.plist [DEVICE]<br>
+6. Add “ReleaseType” string = “Internal” and “ProductType” string = “Internal”<br>
+"""<br>
+    &lt;key&gt;ReleaseType&lt;/key&gt;<br>
+    &lt;string&gt;Internal&lt;/string&gt;<br>
+    &lt;key&gt;ProductType&lt;/key&gt;<br>
+    &lt;string&gt;Internal&lt;/string&gt;<br>
+"""<br>
+7. Go to /System/Library/PrivateFrameworks [DUMP]<br><br>
+8. Copy everything in there to /System/Library/PrivateFrameworks [DEVICE]<br>
+USE 3UTOOLS! DO NOT USE iFUNBOX! IT WILL REPLACE EVERYTHING WITHOUT ASKING.<br>
+DO NOT PRESS REPLACE! JUST SKIP ANY DUPLICATE FOLDERS/FILES.<br>
+9. Open a terminal for your device. Mterm or SSH works. Run:<br>
+$ su<br>
+$ alpine (if asked for passcode)<br>
+$ ldrestart<br>
+10. Done.<br><br>
+
+========PART II: INSTALLING APPS========<br><br>
+
+11. Go to http://ios-repo-updates.com<br>
+12. Search Appsync Unified, then download the latest available .deb file.<br><br>
+
+FOR IOS 7:<br>
+"<i>You don't have to edit anything in Appsync package,<br>
+just install the latest version of Appsync Unified. [...]"</i><br>
+(italic text taken from <a href="https://www.reddit.com/r/Apple_Internal/comments/18ss7lg/comment/kf9bei8/?utm_source=reddit&utm_medium=web2x&context=3">Reddit</a>)<br><br>
+
+NOT IOS 7:<br>
+<i>13. Change the name from .deb to .zip and extract it<br>
+14. Find the control file and change the firmware to 30<br>
+15. Rezip the folder and rename to .deb<br>
+16. Install it via Filza or iFile</i><br><br>
+
+17. Copy everything from /AppleInternal/Applications in your dump to /Applications/ on device<br><br>
+
+FOR IOS 7:<br>
+"<i>[...] Also, after copying over all the internal apps,<br>
+make sure to open terminal on the iPhone, cd to /Applications/ and "chown 755 ." (without quotes, include period), otherwise all internal apps would<br>
+crash with exit code 13."</i> After running chown, run uicache and reboot.<br>
+(italic text taken from <a href="https://www.reddit.com/r/Apple_Internal/comments/18ss7lg/comment/kf9bei8/?utm_source=reddit&utm_medium=web2x&context=3">Reddit</a>)<br><br>
+
+18. Run these commands via SSH or MTerminal:<br>
+$ su<br>
+$ alpine (if needs password)<br>
+$ ldrestart (wait for respring)<br>
+$ uicache<br>
+19. Reboot.<br>
+20. Done. Some apps might not launch on some versions of iOS.<br><br>
+
+CREDIT: @angelXwind (twitter) for appsync, @ThermalDOE (twitter) for parts of method, @itstrant (twitter) for most writing, /u/Andreyhg (Reddit) for iOS 7 app instructions<br>
+and me, /u/East-Box-8015, for compiling all this info together.<br>
+Hope this helps! <3<br>
+
+<h4><i><span style="font-weight:normal">This site is still in development. I apologize in advance for any bugs.<br>Powered by <a href="https://github.com" target="_blank">GitHub</a>.</span></i></h4>
+
+</body>
+</html>
