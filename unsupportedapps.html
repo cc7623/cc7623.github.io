@@ -3,7 +3,7 @@
 <html>
 <head>
 
-<title>cc7623 | Illegal Apps?</title>
+<title>cc7623 | Exclusive Apps?</title>
 <link rel="icon" type="image/x-icon" href="/favicon.ico">
 
 </head>
@@ -14,67 +14,49 @@
 This is an article on how to flash unsupported apps to your device. (e.g. Weather/Stocks/Phone/Passbook on iPad, or PhotoBooth/Facetime on iPhone.)
 </p>
 
-This tutorial has been tested for iOS 6. It might work on other versions as well.<br><br>
+This tutorial has been tested for iOS 6. It might work on other versions as well.<br>
+ONLY WORKS ON INTEL MACS. iDecrypt has not worked in my testing, but you can try it.<br>
+Downloads for <a href="https://github.com/cc7623/cc7623.github.io/raw/main/downloads/iDecrypt-Mac-build91-bennyyboi.zip">Mac</a> and <a href="https://github.com/cc7623/cc7623.github.io/blob/main/downloads/iDecryptWinv2.2.zip">Windows</a> are hosted on my server.<br><br>
 
-========PART I: UNZIPPING IPSW========<br><br>
-    
+========PART 1: UNZIPPING IPSW========<br>
 1. Download IPSW. <a href="https://cc7623.github.io/applist">Check Here!</a><br>
-2. Download iDecrypt for <a href="https://github.com/cc7623/cc7623.github.io/raw/main/downloads/iDecrypt-Mac-build91-bennyyboi.zip">Mac</a> or <a href="https://github.com/cc7623/cc7623.github.io/blob/main/downloads/iDecryptWinv2.2.zip">Windows</a><br>
-3. In root folder [DEVICE], create a folder called “AppleInternal” (don’t include these “”)<br>
-4. Go to /AppleInternal/ [DUMP] and copy the Library folder to 
-<br>/AppleInternal/ [DEVICE]<br><br>
+2. With your IPSW, change the extension to .ZIP & open it w/ WinRAR or 7zip.<br>
+3. You'll see 3 .DMG files. Find the biggest one in size & extract it.<br><br>
 
-5. Go to /System/library/CoreServices/systemversion.plist [DEVICE]<br>
-6. Add “ReleaseType” string = “Internal” and “ProductType” string = “Internal”<br>
-"""<br>
-    &lt;key&gt;ReleaseType&lt;/key&gt;<br>
-    &lt;string&gt;Internal&lt;/string&gt;<br>
-    &lt;key&gt;ProductType&lt;/key&gt;<br>
-    &lt;string&gt;Internal&lt;/string&gt;<br>
-"""<br>
-7. Go to /System/Library/PrivateFrameworks [DUMP]<br><br>
-8. Copy everything in there to /System/Library/PrivateFrameworks [DEVICE]<br>
-USE 3UTOOLS! DO NOT USE iFUNBOX! IT WILL REPLACE EVERYTHING WITHOUT ASKING.<br>
-DO NOT PRESS REPLACE! JUST SKIP ANY DUPLICATE FOLDERS/FILES.<br>
-9. Open a terminal for your device. Mterm or SSH works. Run:<br>
-$ su<br>
-$ alpine (if asked for passcode)<br>
-$ ldrestart<br>
-10. Done.<br><br>
+========PART 1.5: IDECRYPT ROUTE: (Windows or MacOS)========<br>
+1a. Download iDecrypt<br>
+2a. Visit this <a href="https://www.theiphonewiki.com/wiki/Firmware_Keys#:~:text=available%20for%20download.-,1.x,16.x,-See%20also">link</a> to get your Firmware Key.<br>
+3a. Click on your IPSW's iOS version (mine is 6.x)<br>
+4a. Find your IPSW's device model & specific iOS version (e.g. iPad2,1 / iOS 6.1.3)<br>
+5a. Copy ROOTFS key.<br>
+6a. Open iDecrypt & select the DMG you extracted earlier<br>
+7a. Paste in the key.<br>
+8a. Select destination path<br>
+9a. Decrypt.<br><br>
 
-========PART II: INSTALLING APPS========<br><br>
+========PART 1.5: DMGtool ROUTE: (MacOS, Intel-specific)========<br>
+1b. Download DMGtool & save it to your desktop. Rename it from DMG to DMGtool to save confusion.<br>
+<a href="https://www.reddit.com/r/jailbreak/comments/ujnq1c/comment/i7kdf60/?utm_source=share&utm_medium=web2x&context=3">Reddit thread</a>, <a href="https://drive.google.com/file/d/1FpqwPiB-MmWhytxb3Ph6LlY4Lib7Gw-q/view">Original download</a>, <a href="https://drive.google.com/file/d/1FpqwPiB-MmWhytxb3Ph6LlY4Lib7Gw-q/view">Local download (hosted by me)</a><br>
+2b. Visit this <a href="https://www.theiphonewiki.com/wiki/Firmware_Keys#:~:text=available%20for%20download.-,1.x,16.x,-See%20also">link</a> to get your Firmware Key.<br>
+3b. Click on your IPSW's iOS version (mine is 6.x)<br>
+4b. Find your IPSW's device model & specific iOS version (e.g. iPad2,1 / iOS 6.1.3)<br>
+5b. Copy ROOTFS key.<br>
+6b. Open Terminal on your Mac.<br>
+7b. CD to the directory of the DMGtool file.<br>
+8b. "chmod 755 /user/username/Desktop/dmgtool"<br>
+9b. The icon should change from a white sheet to a terminal.<br>
+10b. Have your extracted DMG, key, and DMGtool ready.<br>Make sure that your extracted DMG & DMGtool are in the same directory.<br>
+11b. Enter the command: "dmgtool extract (replace w/ filename of extracted DMG).dmg decrypted_rootfs.dmg -k (your key)"<br>
+E.g. "dmg extract 058-24110-023.dmg output.dmg -k 7f68bec2637d5ac0837e38878a8a411c72131fc6394b5a84fd0f878f54f97af3801f34fd"<br>
+If everything goes well, you should have an unencrypted filesystem<br>
+(decrypted_rootfs.dmg) that you can browse freely.<br><br>
 
-11. Go to http://ios-repo-updates.com<br>
-12. Search Appsync Unified, then download the latest available .deb file.<br><br>
+========PART 2: INSTALLING APPS========<br><br>
 
-FOR IOS 7:<br>
-"<i>You don't have to edit anything in Appsync package,<br>
-just install the latest version of Appsync Unified. [...]"</i><br>
-(italic text taken from <a href="https://www.reddit.com/r/Apple_Internal/comments/18ss7lg/comment/kf9bei8/?utm_source=reddit&utm_medium=web2x&context=3">Reddit</a>)<br><br>
+still workin' on it bro
+will update when done
 
-NOT IOS 7:<br>
-<i>13. Change the name from .deb to .zip and extract it<br>
-14. Find the control file and change the firmware to 30<br>
-15. Rezip the folder and rename to .deb<br>
-16. Install it via Filza or iFile</i><br><br>
-
-17. Copy everything from /AppleInternal/Applications in your dump to /Applications/ on device<br><br>
-
-FOR IOS 7:<br>
-"<i>[...] Also, after copying over all the internal apps,<br>
-make sure to open terminal on the iPhone, cd to /Applications/ and "chown 755 ." (without quotes, include period), otherwise all internal apps would<br>
-crash with exit code 13."</i> After running chown, run uicache and reboot.<br>
-(italic text taken from <a href="https://www.reddit.com/r/Apple_Internal/comments/18ss7lg/comment/kf9bei8/?utm_source=reddit&utm_medium=web2x&context=3">Reddit</a>)<br><br>
-
-18. Run these commands via SSH or MTerminal:<br>
-$ su<br>
-$ alpine (if needs password)<br>
-$ ldrestart (wait for respring)<br>
-$ uicache<br>
-19. Reboot.<br>
-20. Done. Some apps might not launch on some versions of iOS.<br><br>
-
-CREDIT: @angelXwind (twitter) for appsync, @ThermalDOE (twitter) for parts of method, @itstrant (twitter) for most writing, /u/Andreyhg (Reddit) for iOS 7 app instructions<br>
+CREDIT: /u/ichitaso/ for DMGtool, /u/bennyyboi for iDecrypt, /u/Anbar48 for downloads, (took them from <a href="https://mtmdev.org/forum/index.php?threads/how-to-decrypt-or-extract-ipsw-on-mac-or-windows.2461/#:~:text=Attachments,KB%20%C2%B7%20Views%3A%2081" target="_blank">mtmdev.org</a>)<br>
 and me, /u/East-Box-8015, for compiling all this info together.<br>
 Hope this helps! <3<br>
 
