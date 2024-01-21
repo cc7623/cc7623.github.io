@@ -1,4 +1,4 @@
-What? my app store's broken on iOS 6?
+What? My app store's broken?
 
 
 This problem affects (AFAIK) iOS 4, 5, and 6.
