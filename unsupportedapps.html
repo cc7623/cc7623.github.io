@@ -14,7 +14,7 @@
 This is an article on how to flash unsupported apps to your device. (e.g. Weather/Stocks/Phone/Passbook on iPad, or PhotoBooth/Facetime on iPhone.)
 </p>
 
-This tutorial has been tested for iOS 6. It might work on other versions as well.<br>
+This tutorial has not been tested. It might work on other versions as well.<br>
 ONLY WORKS ON INTEL MACS. iDecrypt has not worked in my testing, but you can try it.<br>
 Downloads for <a href="https://github.com/cc7623/cc7623.github.io/raw/main/downloads/iDecrypt-Mac-build91-bennyyboi.zip">Mac</a> and <a href="https://github.com/cc7623/cc7623.github.io/blob/main/downloads/iDecryptWinv2.2.zip">Windows</a> are hosted on my server.<br><br>
 
@@ -23,7 +23,7 @@ Downloads for <a href="https://github.com/cc7623/cc7623.github.io/raw/main/downl
 2. With your IPSW, change the extension to .ZIP & open it w/ WinRAR or 7zip.<br>
 3. You'll see 3 .DMG files. Find the biggest one in size & extract it.<br><br>
 
-========PART 1.5: IDECRYPT ROUTE: (Windows or MacOS)========<br>
+========PART 1.5: iDECRYPT ROUTE: (Windows or MacOS)========<br>
 1a. Download iDecrypt<br>
 2a. Visit this <a href="https://www.theiphonewiki.com/wiki/Firmware_Keys#:~:text=available%20for%20download.-,1.x,16.x,-See%20also">link</a> to get your Firmware Key.<br>
 3a. Click on your IPSW's iOS version (mine is 6.x)<br>
@@ -34,9 +34,9 @@ Downloads for <a href="https://github.com/cc7623/cc7623.github.io/raw/main/downl
 8a. Select destination path<br>
 9a. Decrypt.<br><br>
 
-========PART 1.5: DMGtool ROUTE: (MacOS, Intel-specific)========<br>
+========PART 1.5: DMGtool ROUTE: (MacOS, Intel-only)========<br>
 1b. Download DMGtool & save it to your desktop. Rename it from DMG to DMGtool to save confusion.<br>
-<a href="https://www.reddit.com/r/jailbreak/comments/ujnq1c/comment/i7kdf60/?utm_source=share&utm_medium=web2x&context=3">Reddit thread</a>, <a href="https://drive.google.com/file/d/1FpqwPiB-MmWhytxb3Ph6LlY4Lib7Gw-q/view">Original download</a>, <a href="https://drive.google.com/file/d/1FpqwPiB-MmWhytxb3Ph6LlY4Lib7Gw-q/view">Local download (hosted by me)</a><br>
+<a href="https://www.reddit.com/r/jailbreak/comments/ujnq1c/comment/i7kdf60/?utm_source=share&utm_medium=web2x&context=3">Reddit thread</a>, <a href="https://drive.google.com/file/d/1FpqwPiB-MmWhytxb3Ph6LlY4Lib7Gw-q/view">Original download</a>, <a href="REPLACE LINK">Bacxup download (hosted by me)</a><br>
 2b. Visit this <a href="https://www.theiphonewiki.com/wiki/Firmware_Keys#:~:text=available%20for%20download.-,1.x,16.x,-See%20also">link</a> to get your Firmware Key.<br>
 3b. Click on your IPSW's iOS version (mine is 6.x)<br>
 4b. Find your IPSW's device model & specific iOS version (e.g. iPad2,1 / iOS 6.1.3)<br>
@@ -53,14 +53,32 @@ If everything goes well, you should have an unencrypted filesystem<br>
 
 ========PART 2: INSTALLING APPS========<br><br>
 
-still workin' on it<br>
-will update when done<br><br>
+1c. Download AppSyncUnified.deb from cydia.akemi.ai. DO NOT INSTALL YET.<br>
+1c1. Change the name from .deb to .zip and extract it<br>
+1c2. Find the control file and change the firmware to 30<br>
+1c3. Rezip the folder and rename to .deb<br>
+1c4. Install it via Filza or iFile<br>
+2c. Open a file browser for your device. iFunbox or 3utools work.<br>
+3c. Open decrypted_rootfs.dmg that you previously extracted.<br>
+4c. Head to /Applications/ [DMG] and extract the app you want on your other device.<br>
+5c. Open /Applications/ [DEVICE] and drop in the app you just extracted from the DMG.<br>
+6c. Respring when done. If you don't see that app icon, reboot.<br>
+7c. After reboot, check to see if you have that app icon. If not, delete the .app file you previously placed in there, decrypt rootfs, and try again.<br>
+8c. Open the app. If it crashes, that's okay.<br>
+9c. Head to terminal.<br>
+$ cd /Applications/<br>
+$ su<br>
+Password: (your password, default is "alpine")<br>
+$ chmod 755 .<br>
+$ uicache<br>
+$ ldrestart<br>
+10c. Done! Enjoy.<br><br>
 
 CREDIT: /u/ichitaso/ for DMGtool, /u/bennyyboi for iDecrypt, /u/Anbar48 for downloads, (took them from <a href="https://mtmdev.org/forum/index.php?threads/how-to-decrypt-or-extract-ipsw-on-mac-or-windows.2461/#:~:text=Attachments,KB%20%C2%B7%20Views%3A%2081" target="_blank">mtmdev.org</a>)<br>
 and me, /u/East-Box-8015, for compiling all this info together.<br>
 Hope this helps! <3<br>
 
-<h4><i><span style="font-weight:normal">This site is still in development. I apologize in advance for any bugs.<br>Powered by <a href="https://github.com/cc7623/cc7623.github.io" target="_blank">GitHub</a>.</span></i></h4>
+<h4><i><span style="font-weight:normal">This site is still in development. I apologize in advance for any bugs.<br>Powered by <a href="https://github.com" target="_blank">GitHub</a>.</span></i></h4>
 
 </body>
 </html>
