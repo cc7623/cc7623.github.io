@@ -1,1 +1,8 @@
+title: cc7623
+description: jailbreaking
+google_analytics: 
+show_downloads: true
 
+plugins:
+  - jekyll-include-cache
+  - gemfile
