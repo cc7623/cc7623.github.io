@@ -2,6 +2,7 @@ title: cc7623
 description: jailbreaking
 google_analytics: 
 show_downloads: true
+theme: jekyll-theme-minimal
 
 plugins:
   - jekyll-include-cache
