@@ -3,6 +3,7 @@ description: jailbreaking
 google_analytics: 
 show_downloads: true
 theme: jekyll-theme-minimal
+Retry-After: 1
 
 plugins:
   - jekyll-include-cache
