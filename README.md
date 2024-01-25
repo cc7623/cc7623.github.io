@@ -1,6 +1,7 @@
 ***
 
-*Just a small website with some articles and links for LegacyJailbreaking. Mostly AppleInternal/InternalUI stuff.*
+*Just a small website with some articles and links for LegacyJailbreaking. Mostly AppleInternal/InternalUI stuff.*  
+
 
 ***
 
@@ -25,3 +26,4 @@ Agenda:
 ***
 
 ###### *We'll see how it goes. @calvincoolest (YT), /u/East-Box-8015 (Reddit), cc7623 (Github)*
+###### *Check the deployments pane on the right for the most recent update.*
