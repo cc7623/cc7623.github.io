@@ -5,4 +5,4 @@
 
 ***
 
-###### There's nothing linked to the download buttons. If you press download, it'll download a whole copy of the website. I can't turn 'em off or change the download links, so just ignore them.
+##### Ignore the download buttons. I don't know how to turn 'em off. Working on it.
