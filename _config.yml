@@ -1,8 +1,8 @@
-title: cc7623
-description: jailbreaking
+title: cc7623's guide
+description: appleinternal / jailbreak (hacker theme go brrr)
 google_analytics: 
-show_downloads: true
-theme: jekyll-theme-minimal
+show_downloads: false
+theme: pages-themes/hacker@v0.2.0
 Retry-After: 1
 
 plugins:
