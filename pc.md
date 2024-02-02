@@ -1,9 +1,7 @@
-<!DOCTYPE html>
 
 <html>
 <head>
 
-<title>cc7623 | LDM</title>
 <link rel="icon" type="image/x-icon" href="/favicon.ico">
 <link rel="stylesheet" href="styles.css">
 
@@ -20,7 +18,7 @@
 <br>
 Here are a few links and tutorials to get started on <a href="https://www.reddit.com/r/LegacyJailbreak/" target="_blank">Legacy Jailbreaking</a> (links to /r/LegacyJailbreak).
 </p>
-<p>You are running the LDM site for mobile. Click <a href="https://cc7623.github.io/pc" target="_blank">here</a> if you're viewing on a computer.<br><br>
+<p>You are running the HD/MD/CSS site for PC. Click <a href="https://cc7623.github.io/">here</a> if you're viewing on mobile.<br><br>
 
 
 <a href="https://ios.cfw.guide/get-started" target="_blank"><i>[ios.cfw.guide]</i><br>get started w/ jailbreaking</a>
@@ -60,10 +58,6 @@ TUTORIALS
 <br>
 <br>
 <a href="https://cc7623.github.io/articles/remotecontrol"><i>[cc7623.github.io/articles/remotecontrol]</i><br>RDP w/ iPad</a>
-
-<h4><i><span style="font-weight:normal">I apologize for my website's bad graphics.<br>
-I will rewrite everything in MarkDown so my website doesn't look like it's from the 1990s.<br>
-I could also learn CSS but I'm too lazy to do that lol</span></i></h4>
 
 <h4><i><span style="font-weight:normal">This site is still in development. I apologize in advance for any bugs.<br>Powered by <a href="https://github.com/cc7623/cc7623.github.io" target="_blank">GitHub</a>.</span></i></h4>
 
