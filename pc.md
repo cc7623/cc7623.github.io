@@ -18,7 +18,7 @@
 <br>
 Here are a few links and tutorials to get started on <a href="https://www.reddit.com/r/LegacyJailbreak/" target="_blank">Legacy Jailbreaking</a> (links to /r/LegacyJailbreak).
 </p>
-<p>You are running the MD/CSS site for PC. Click <a href="https://cc7623.github.io/">here</a> if you're viewing on mobile.
+<p>You are running the MD/CSS site for PC. Click <a href="https://cc7623.github.io/">here</a> if you're viewing on mobile.<br><br>
 
 
 <a href="https://ios.cfw.guide/get-started" target="_blank"><i>[ios.cfw.guide]</i><br>get started w/ jailbreaking</a>
