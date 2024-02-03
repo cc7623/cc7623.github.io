@@ -20,6 +20,8 @@ Here are a few links and tutorials to get started on <a href="https://www.reddit
 </p>
 <p>You are running the MD/CSS site for PC. Click <a href="https://cc7623.github.io/">here</a> if you're viewing on mobile.<br><br>
 
+***
+
 <a href="https://ios.cfw.guide/get-started" target="_blank"><i>[ios.cfw.guide]</i><br>get started w/ jailbreaking</a>
 <br>
 <br>
@@ -44,6 +46,7 @@ Here are a few links and tutorials to get started on <a href="https://www.reddit
 <a href="https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig" target="_blank"><i>[mega.nz/folder/k4FAXCIB...]</i><br>Huge archive of firmwares, JBs, and Utilities</a>
 <br>
 <br>
+***
 TUTORIALS
 <br>
 <br>
@@ -57,5 +60,7 @@ TUTORIALS
 <br>
 <br>
 <a href="https://cc7623.github.io/articles/remotecontrol"><i>[cc7623.github.io/articles/remotecontrol]</i><br>RDP w/ iPad</a>
+
+***
 
 <h4><i><span style="font-weight:normal">This site is still in development. I apologize in advance for any bugs.<br>Powered by <a href="https://github.com/cc7623/cc7623.github.io" target="_blank">GitHub</a>.</span></i></h4>
