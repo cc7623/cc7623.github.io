@@ -36,7 +36,7 @@ Just put your three fingers in the areas there, and then choose reset.
 #### InternalUI/Switchboard/Demo Firmwares
 
 - [How to install InternalUI Firmwar3s](https://cc7623.github.io/internaluifirmware.html)  
-- [Sw1tchB0ard Firmwar3s/Dem0 Firmwar3s](https://archive.org/download/appintfirmwar3s)  
+- [Sw1tchB0ard/Dem0 Firmwar3s](https://archive.org/download/appintfirmwar3s)  
 - [InternalUI Dumps](https://cc7623.github.io/internalui-list)  
 
 ***
