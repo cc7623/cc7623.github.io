@@ -2,8 +2,13 @@ title: cc7623.github.io
 description: appleinternal / jailbreaking tutorials, guides, and news
 google_analytics: 
 show_downloads: false
-theme: jekyll-theme-hacker
+theme: jekyll-theme-console
 Retry-After: 60sec
+
+style: dark # dark (default), light or hacker
+listen_for_clients_preferred_style: true # false (default) or true
+
+footer: 'Site is still in development. Powered by GitHub.'
 
 plugins:
   - jekyll-include-cache
