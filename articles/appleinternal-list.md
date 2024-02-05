@@ -1,6 +1,6 @@
 
 ### All AppleInternal/AppleConnect/InternalUI/DemoMode software
-###### Searched far & wide across the internet for this. Still being updated; finding stuff, archiving it, and adding it here.
+###### Searched far & wide across the internet for this. Still being updated... finding stuff, archiving it, and adding it here.
 
 ***
 
@@ -33,6 +33,14 @@ Just put your three fingers in the areas there, and then choose reset.
 
 ***
 
+#### InternalUI/Switchboard/Demo Firmwares
+
+- [How to install InternalUI Firmwar3s](https://cc7623.github.io/internaluifirmware.html)  
+- [Sw1tchB0ard Firmwar3s/Dem0 Firmwar3s](https://archive.org/download/appintfirmwar3s)  
+- [InternalUI Dumps](https://cc7623.github.io/internalui-list)  
+
+***
+
 #### Applications:  
 
 IPAs:
@@ -46,3 +54,5 @@ IPAs:
 - [My own upload (archive.org)](https://archive.org/details/apple-internal-collection-reupload)
 
 MacOS apps:
+
+(upload and add later)
