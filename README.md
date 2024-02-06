@@ -1,6 +1,6 @@
 ***
 
-*Just a small website with some articles and links for LegacyJailbreaking. Mostly AppleInternal/InternalUI stuff.*  
+*Just a small website with some obscure tutorials and links. Mostly AppleInternal/InternalUI/DemoMode stuff.*  
 
 
 ***
