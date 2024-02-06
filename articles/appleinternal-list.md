@@ -4,6 +4,25 @@
 
 ***
 
+#### 40GB AppleInternal Collection
+
+Download [here](https://archive.org/details/apple-internal-collection).  
+
+`========How to extract it?========`  
+`Windows:`  
+1. Download LinuxFileViewer or Transmac.
+2. Right click the DMG file and open.
+(Thanks to [/u/Codix_](https://www.reddit.com/r/Apple_Internal/comments/tfvwh1/comment/kjbn81z/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button).)
+
+`Mac:`
+1. Double-click the DMG
+2. Click on the drive icon named "AppleInternal Collection." It should be on your desktop
+
+`Linux:`
+1. Just double-click it.
+
+***
+
 #### Put device in DemoMode:
 
 WARNING- This will erase all data on the device and you might not be able to unenroll.
@@ -50,9 +69,10 @@ IPAs:
 - [listing of AppleInternal.rar](https://ia800502.us.archive.org/view_archive.php?archive=/11/items/Apple-Internal-IPAs/AppleInternal.rar)
 - [32-bit AppleInternal Apps](https://ia902607.us.archive.org/view_archive.php?archive=/12/items/i-os-apps-20230603-t-195539-z-001/iOS%20Apps-20230603T195539Z-001.zip)
 - [iPad DemoApps, 16.4.1](https://web.archive.org/web/20230815000000*/https://cdn.thanos.lol/demoapps.zip)
-- [My own upload (github)](https://github.com/cc7623/AppleIntApps/releases/download/e/Apple.Connect.IAP.Files.7z.001)
+- [Some prototype app dumps](https://github.com/cc7623/AppleIntApps/releases/tag/v1.0)
+- [My own upload (github)](https://github.com/cc7623/AppleIntApps/releases/tag/v2.0)
 - [My own upload (archive.org)](https://archive.org/details/apple-internal-collection-reupload)
 
 MacOS apps:
 
-(upload and add later)
+[https://github.com/cc7623/AppleIntApps/releases/tag/3.0](https://github.com/cc7623/AppleIntApps/releases/tag/3.0) (taken from 40gb appleinternal dump)
