@@ -2,6 +2,8 @@
 ### All AppleInternal/AppleConnect/InternalUI/DemoMode software
 ###### Searched far & wide across the internet for this. Still being updated... finding stuff, archiving it, and adding it here.
 
+Sections: [40GB AppleInternal Collection](https://cc7623.github.io/articles/appleinternal-list#40gb-appleinternal-collection), [Put Device In/Out of DemoMode](https://cc7623.github.io/articles/appleinternal-list#put-device-in-demomode), [Internal Firmwar3s](https://cc7623.github.io/articles/appleinternal-list#put-device-in-demomode), [Apps/IPAs (macOS/iOS)](https://cc7623.github.io/articles/appleinternal-list#applications), [DemoLoop](https://cc7623.github.io/articles/appleinternal-list#demoloops)
+
 ***
 
 #### 40GB AppleInternal Collection
@@ -76,3 +78,12 @@ IPAs:
 MacOS apps:
 
 [https://github.com/cc7623/AppleIntApps/releases/tag/3.0](https://github.com/cc7623/AppleIntApps/releases/tag/3.0) (taken from 40gb appleinternal dump)
+
+***
+
+#### DemoLoops:
+
+[For AppleTV](https://www.youtube.com/watch?v=2DDfL6uOUOw&list=PLQqOq_rtqRkRYWDvdqA2GZ5shDZs2MnWV)
+
+[Mac Tutorial, No Enroll](https://archive.org/details/no-enroll-mac-os-demoloop-apple-store-screen-saver-tutorial) (to view files used in video, scroll down & click `SHOW ALL`. `xmlfile.xml` is from the pastebin link shown in the video.)  
+
