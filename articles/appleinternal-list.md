@@ -1,6 +1,7 @@
 
 ### All AppleInternal/AppleConnect/InternalUI/DemoMode software
 ###### Searched far & wide across the internet for this. Still being updated... finding stuff, archiving it, and adding it here.
+###### Engaging in illegal activity is not condoned. This information is provided for educational purposes only. Use at your OWN RISK.
 
 Sections: [40GB AppleInternal Collection](https://cc7623.github.io/articles/appleinternal-list#40gb-appleinternal-collection), [Put Device In/Out of DemoMode](https://cc7623.github.io/articles/appleinternal-list#put-device-in-demomode), [Internal Firmwar3s](https://cc7623.github.io/articles/appleinternal-list#put-device-in-demomode), [Apps/IPAs (macOS/iOS)](https://cc7623.github.io/articles/appleinternal-list#applications), [DemoLoop](https://cc7623.github.io/articles/appleinternal-list#demoloops)
 
