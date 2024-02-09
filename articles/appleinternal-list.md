@@ -64,20 +64,18 @@ Just put your three fingers in the areas there, and then choose reset.
 
 #### Applications:  
 
-IPAs:
 - [DemoUnit, ACS, and NetworkCheck IPA](https://archive.org/download/demo-unit-v-2.3-5496-prod)
 - [Apple Internal Apps](https://archive.org/download/troubleshoot-plan-genius-v-1.0)
 - [listing of Apple_internal.zip](https://ia601203.us.archive.org/view_archive.php?archive=/7/items/apple-internal/Apple_internal.zip)
 - [listing of AppleInternal.rar](https://ia800502.us.archive.org/view_archive.php?archive=/11/items/Apple-Internal-IPAs/AppleInternal.rar)
 - [32-bit AppleInternal Apps](https://ia902607.us.archive.org/view_archive.php?archive=/12/items/i-os-apps-20230603-t-195539-z-001/iOS%20Apps-20230603T195539Z-001.zip)
 - [iPad DemoApps, 16.4.1](https://web.archive.org/web/20230815000000*/https://cdn.thanos.lol/demoapps.zip)
+- [iosdmpkgs, 14.5](https://archive.org/download/iosdmpkgs)
+- [iPhone 6s, 9.2.1](https://archive.org/details/imovie_202401)
 - [Some prototype app dumps](https://github.com/cc7623/AppleIntApps/releases/tag/v1.0)
 - [My own upload (github)](https://github.com/cc7623/AppleIntApps/releases/tag/v2.0)
 - [My own upload (archive.org)](https://archive.org/details/apple-internal-collection-reupload)
-
-MacOS apps:
-
-[https://github.com/cc7623/AppleIntApps/releases/tag/3.0](https://github.com/cc7623/AppleIntApps/releases/tag/3.0) (taken from 40gb appleinternal dump)
+- [https://github.com/cc7623/AppleIntApps/releases/tag/3.0 (macOS apps)](https://github.com/cc7623/AppleIntApps/releases/tag/3.0) (taken from 40gb appleinternal dump)
 
 ***
 
