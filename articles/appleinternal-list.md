@@ -85,5 +85,8 @@ MacOS apps:
 
 [For AppleTV](https://www.youtube.com/watch?v=2DDfL6uOUOw&list=PLQqOq_rtqRkRYWDvdqA2GZ5shDZs2MnWV)
 
-[Mac Tutorial, No Enroll](https://archive.org/details/no-enroll-mac-os-demoloop-apple-store-screen-saver-tutorial) (to view files used in video, scroll down & click `SHOW ALL`. `xmlfile.xml` is from the pastebin link shown in the video.)  
+[Mac Tutorial, No Enroll](https://archive.org/details/no-enroll-mac-os-demoloop-apple-store-screen-saver-tutorial) (to view files used in video, scroll down & click `SHOW ALL`. `xmlfile.xml` is from the pastebin link shown in the video. export & rename to `ScreenSaver.plist`. you will have to find the `demoloop` video by yourself for now. making a quick list of existing demoloop videos and uploading it soon.)  
 
+[iOS Tutorial, Enroll](https://www.theiphonewiki.com/wiki/Screen_Saver#:~:text=Installation%20Link%3A%0Ahttps%3A//demoupdate.apple.com/index.html) `ONLY WORKS ON DEVICES WHICH APPLE CURRENTLY SELLS NEW OR REFURBISHED.`
+
+***
