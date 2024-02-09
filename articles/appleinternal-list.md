@@ -81,9 +81,13 @@ Just put your three fingers in the areas there, and then choose reset.
 
 #### DemoLoops:
 
-[For AppleTV](https://www.youtube.com/watch?v=2DDfL6uOUOw&list=PLQqOq_rtqRkRYWDvdqA2GZ5shDZs2MnWV)
+[DemoLoop Videos](https://archive.org/details/iphone_portrait_202402)
+
+[AppleTV](https://www.idownloadblog.com/2016/01/18/apple-tv-store-demo-mode/#:~:text=How%20to%20get%20into%20retail%20Demo%20Mode%20on%20Apple%20TV)
 
 [Mac Tutorial, No Enroll](https://archive.org/details/no-enroll-mac-os-demoloop-apple-store-screen-saver-tutorial) (to view files used in video, scroll down & click `SHOW ALL`. `xmlfile.xml` is from the pastebin link shown in the video. export & rename to `ScreenSaver.plist`. you will have to find the `demoloop` video by yourself for now. making a quick list of existing demoloop videos and uploading it soon.)  
+
+[Mac Tutorial, Enroll](https://archive.org/details/audioless-mac-os-dcota-demounit-tutorial)
 
 [iOS Tutorial, Enroll](https://www.theiphonewiki.com/wiki/Screen_Saver#:~:text=Installation%20Link%3A%0Ahttps%3A//demoupdate.apple.com/index.html) `ONLY WORKS ON DEVICES WHICH APPLE CURRENTLY SELLS NEW OR REFURBISHED.`
 
