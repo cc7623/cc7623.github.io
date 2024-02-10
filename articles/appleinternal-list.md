@@ -3,7 +3,12 @@
 ###### Searched far & wide across the internet for this. Still being updated... finding stuff, archiving it, and adding it here.
 ###### Engaging in illegal activity is not condoned. This information is provided for educational purposes only. Use at your OWN RISK.
 
-Sections: [40GB AppleInternal Collection](https://cc7623.github.io/articles/appleinternal-list#40gb-appleinternal-collection), [Put Device In/Out of DemoMode](https://cc7623.github.io/articles/appleinternal-list#put-device-in-demomode), [Internal Firmwar3s](https://cc7623.github.io/articles/appleinternal-list#put-device-in-demomode), [Apps/IPAs (macOS/iOS)](https://cc7623.github.io/articles/appleinternal-list#applications), [DemoLoop](https://cc7623.github.io/articles/appleinternal-list#demoloops)
+`Sections`  
+[40GB AppleInternal Collection](https://cc7623.github.io/articles/appleinternal-list#40gb-appleinternal-collection)  
+[Put Device In/Out of DemoMode](https://cc7623.github.io/articles/appleinternal-list#put-device-in-demomode)  
+[Internal Firmwar3s](https://cc7623.github.io/articles/appleinternal-list#put-device-in-demomode)  
+[Apps/IPAs (macOS/iOS)](https://cc7623.github.io/articles/appleinternal-list#applications)  
+[DemoLoop](https://cc7623.github.io/articles/appleinternal-list#demoloops)
 
 ***
 
@@ -84,12 +89,12 @@ Just put your three fingers in the areas there, and then choose reset.
 
 [DemoLoop Videos](https://archive.org/details/iphone_portrait_202402)
 
-[AppleTV](https://www.idownloadblog.com/2016/01/18/apple-tv-store-demo-mode/#:~:text=How%20to%20get%20into%20retail%20Demo%20Mode%20on%20Apple%20TV)
+[AppleTV, Enroll](https://www.idownloadblog.com/2016/01/18/apple-tv-store-demo-mode/#:~:text=How%20to%20get%20into%20retail%20Demo%20Mode%20on%20Apple%20TV)
 
 [Mac Tutorial, No Enroll](https://archive.org/details/no-enroll-mac-os-demoloop-apple-store-screen-saver-tutorial) (to view files used in video, scroll down & click `SHOW ALL`. `xmlfile.xml` is from the pastebin link shown in the video. export & rename to `ScreenSaver.plist`. you will have to find the `demoloop` video by yourself for now. making a quick list of existing demoloop videos and uploading it soon.)  
 
 [Mac Tutorial, Enroll](https://archive.org/details/audioless-mac-os-dcota-demounit-tutorial)
 
-[iOS Tutorial, Enroll](https://www.theiphonewiki.com/wiki/Screen_Saver#:~:text=Installation%20Link%3A%0Ahttps%3A//demoupdate.apple.com/index.html) `ONLY WORKS ON DEVICES WHICH APPLE CURRENTLY SELLS NEW OR REFURBISHED.`
+[iOS Tutorial, Enroll](https://www.theiphonewiki.com/wiki/Screen_Saver#:~:text=Installation%20Link%3A%0Ahttps%3A//demoupdate.apple.com/index.html) `ONLY WORKS ON DEVICES WHICH APPLE CURRENTLY SELLS NEW OR REFURBISHED`
 
 ***
