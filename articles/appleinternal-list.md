@@ -4,7 +4,7 @@
 ###### Engaging in illegal activity is not condoned. This information is provided for educational purposes only. Use at your OWN RISK.
 
 `Sections`  
-[40GB AppleInternal Collection](https://cc7623.github.io/articles/appleinternal-list#40gb-appleinternal-collection)  
+[40GB AppleInternal Collection, How to extract](https://cc7623.github.io/articles/appleinternal-list#40gb-appleinternal-collection)  
 [Put Device In/Out of DemoMode](https://cc7623.github.io/articles/appleinternal-list#put-device-in-demomode)  
 [Internal Firmwar3s](https://cc7623.github.io/articles/appleinternal-list#put-device-in-demomode)  
 [Apps/IPAs (macOS/iOS)](https://cc7623.github.io/articles/appleinternal-list#applications)  
@@ -70,18 +70,22 @@ Just put your three fingers in the areas there, and then choose reset.
 
 #### Applications:  
 
-- [DemoUnit, ACS, and NetworkCheck IPA](https://archive.org/download/demo-unit-v-2.3-5496-prod)
-- [Apple Internal Apps](https://archive.org/download/troubleshoot-plan-genius-v-1.0)
-- [listing of Apple_internal.zip](https://ia601203.us.archive.org/view_archive.php?archive=/7/items/apple-internal/Apple_internal.zip)
-- [listing of AppleInternal.rar](https://ia800502.us.archive.org/view_archive.php?archive=/11/items/Apple-Internal-IPAs/AppleInternal.rar)
-- [32-bit AppleInternal Apps](https://ia902607.us.archive.org/view_archive.php?archive=/12/items/i-os-apps-20230603-t-195539-z-001/iOS%20Apps-20230603T195539Z-001.zip)
-- [iPad DemoApps, 16.4.1](https://web.archive.org/web/20230815000000*/https://cdn.thanos.lol/demoapps.zip)
-- [iosdmpkgs, 14.5](https://archive.org/download/iosdmpkgs)
-- [iPhone 6s, 9.2.1](https://archive.org/details/imovie_202401)
-- [Some prototype app dumps](https://github.com/cc7623/AppleIntApps/releases/tag/v1.0)
-- [My own upload (github)](https://github.com/cc7623/AppleIntApps/releases/tag/v2.0)
-- [My own upload (archive.org)](https://archive.org/details/apple-internal-collection-reupload)
-- [https://github.com/cc7623/AppleIntApps/releases/tag/3.0 (macOS apps)](https://github.com/cc7623/AppleIntApps/releases/tag/3.0) (taken from 40gb appleinternal dump)
+###### Most downloads say iOS 6+, but some might be over iOS 13(or 14,15, or even 16. I don't know).
+
+- [DemoUnit, ACS, and NetworkCheck IPA, `unknown version`](https://archive.org/download/demo-unit-v-2.3-5496-prod)
+- [Apple Internal Apps `6+`](https://archive.org/download/troubleshoot-plan-genius-v-1.0)
+- [listing of Apple_internal.zip, `6+`](https://ia601203.us.archive.org/view_archive.php?archive=/7/items/apple-internal/Apple_internal.zip)
+- [listing of AppleInternal.rar, `most 6+`](https://ia800502.us.archive.org/view_archive.php?archive=/11/items/Apple-Internal-IPAs/AppleInternal.rar)
+- [32-bit AppleInternal Apps, `6-10`](https://ia902607.us.archive.org/view_archive.php?archive=/12/items/i-os-apps-20230603-t-195539-z-001/iOS%20Apps-20230603T195539Z-001.zip)
+- [iPad DemoApps, `16.4.1`](https://web.archive.org/web/20230815000000*/https://cdn.thanos.lol/demoapps.zip)
+- [iosdmpkgs, `14.5`](https://archive.org/download/iosdmpkgs)
+- [iPhone 6s dump, `9.2.1`](https://archive.org/details/imovie_202401)
+- [Some prototype app dumps , `6`](https://github.com/cc7623/AppleIntApps/releases/tag/v1.0)
+- [My own upload (github, iOS `6`)](https://github.com/cc7623/AppleIntApps/releases/tag/v2.0)
+- [My own upload (archive.org, iOS `6`)](https://archive.org/details/apple-internal-collection-reupload)
+- [https://github.com/cc7623/AppleIntApps/releases/tag/3.0 (macOS apps), `unknown version`](https://github.com/cc7623/AppleIntApps/releases/tag/3.0) (taken from 40gb appleinternal dump)
+
+- 
 
 ***
 
