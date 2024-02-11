@@ -10,6 +10,8 @@
 
 2. Install the tweak from Galactic's Repo:
 
+DO ***NOT*** INSTALL THE CERTIFICATE BEFORE INSTALLING THE TWEAK!
+
 FOR iPhones:  
 iOS 6.0: `[Ad!D]Siri-iOS 6.0`  
 iOS 6.0.1: `SiriPort (Original) iOS6.0.1`  
