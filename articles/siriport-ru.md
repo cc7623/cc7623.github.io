@@ -4,7 +4,7 @@
 
 ***
 
-1. Add the "http://repo.galactic-server.info/" repo to Cydia.
+1. Add the "http://repo.galactic-server.info/" repo to Cydia. ("https://cc7623.github.io/siriport" for backup repo)
    
 ***
 
