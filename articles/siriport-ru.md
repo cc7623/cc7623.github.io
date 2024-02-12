@@ -26,7 +26,7 @@ iOS 6.1.x: `SiriPort iPad's (Original)`
 
 3. After installing, do NOT click `Restart SpringBoard`. Reboot your device via pwr+home buttons.
 
-4. Go to "https://web.archive.org/web/20120701064023/http://siriport.ru/apps/siriport/certinstall#home" or "https://cc7623.github.io/siriport-cert.html" on your iDevice. This is a Wayback machine archived website of the certificate you need to install. If you try to Install Certificate through the tweak's preferences, the link is down.
+4. Go to "https://web.archive.org/web/20120701064023/http://siriport.ru/apps/siriport/certinstall#home" or "https://cc7623.github.io/siriport-cert.html" on your iDevice. This is a Wayback machine archived website of the certificate you need to install. If you try to Install Certificate through the tweak's preferences, the link is down. Backups are [here](https://github.com/cc7623/siriport.ru-backup/releases/tag/1.0).
 
 5. Once the link in Step 2 is opened, tap "Install Certificate". Settings should automatically open up asking you to install the profile/certificate. Trust it.
 
