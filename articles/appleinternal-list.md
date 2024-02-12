@@ -2,6 +2,8 @@
 ### All AppleInternal/AppleConnect/InternalUI/DemoMode software
 ###### Searched far & wide across the internet for this. Still being updated... finding stuff, archiving it, and adding it here.
 ###### Engaging in illegal activity is not condoned. This information is provided for educational purposes only. Use at your OWN RISK.
+###### Website takes about 2hrs to push updates, IDK why and how to fix it.
+###### Last updated 2024-02-12 17:54:15
 
 `Sections`  
 [40GB AppleInternal Collection, How to extract](https://cc7623.github.io/articles/appleinternal-list#40gb-appleinternal-collection)  
@@ -89,12 +91,12 @@ Just put your three fingers in the areas there, and then choose reset.
 - [iPhone 6s dump, `9.2.1`](https://archive.org/details/imovie_202401)
 
 `App Store Demo Apps, x64`
-- [Seed](https://apps.apple.com/us/app/seed/id6449049254)
-- [Find My Certification Asst.](https://apps.apple.com/us/app/find-my-certification-asst/id1532296125)
-- [Car Keys Test](https://apps.apple.com/us/app/car-keys-tests/id1635860023)
-- [MagSafe Certification Asst.](https://apps.apple.com/us/app/magsafe-certification-asst/id1533467908)
-- [Accessory Developer Assistant](https://apps.apple.com/us/app/accessory-developer-assistant/id1635862694)
-- [GymKit Certification Assistant](https://apps.apple.com/en/app/gymkit-certification-assistant/id1537439501)
+- [Seed `16.0`](https://apps.apple.com/us/app/seed/id6449049254)
+- [Find My Certification Asst. `16.0`](https://apps.apple.com/us/app/find-my-certification-asst/id1532296125)
+- [Car Keys Test `16.1`](https://apps.apple.com/us/app/car-keys-tests/id1635860023)
+- [MagSafe Certification Asst. `15.0`](https://apps.apple.com/us/app/magsafe-certification-asst/id1533467908)
+- [Accessory Developer Assistant `16.1`](https://apps.apple.com/us/app/accessory-developer-assistant/id1635862694)
+- [GymKit Certification Assistant `16.1`](https://apps.apple.com/en/app/gymkit-certification-assistant/id1537439501)
 - [DemoUnit](https://demounit.apple.com/views/com.apple.ist.DemoUnit-iOS/download)
 - [DemoUnit ACS](https://demounit.apple.com/views/com.apple.ist.acs/download)
 - [DemoUnit Network Check](https://demounit.apple.com/views/com.apple.ist.networkcheck/download)
