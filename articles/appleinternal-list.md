@@ -72,20 +72,36 @@ Just put your three fingers in the areas there, and then choose reset.
 
 ###### Most downloads say iOS 6+, but some might be over iOS 13(or 14,15, or even 16. I don't know).
 
-- [DemoUnit, ACS, and NetworkCheck IPA, `unknown version`](https://archive.org/download/demo-unit-v-2.3-5496-prod)
+`x32 apps (IPAs)`
+
 - [Apple Internal Apps `6+`](https://archive.org/download/troubleshoot-plan-genius-v-1.0)
 - [listing of Apple_internal.zip, `6+`](https://ia601203.us.archive.org/view_archive.php?archive=/7/items/apple-internal/Apple_internal.zip)
 - [listing of AppleInternal.rar, `most 6+`](https://ia800502.us.archive.org/view_archive.php?archive=/11/items/Apple-Internal-IPAs/AppleInternal.rar)
 - [32-bit AppleInternal Apps, `6-10`](https://ia902607.us.archive.org/view_archive.php?archive=/12/items/i-os-apps-20230603-t-195539-z-001/iOS%20Apps-20230603T195539Z-001.zip)
-- [iPad DemoApps, `16.4.1`](https://web.archive.org/web/20230815000000*/https://cdn.thanos.lol/demoapps.zip)
-- [iosdmpkgs, `14.5`](https://archive.org/download/iosdmpkgs)
-- [iPhone 6s dump, `9.2.1`](https://archive.org/details/imovie_202401)
 - [Some prototype app dumps , `6`](https://github.com/cc7623/AppleIntApps/releases/tag/v1.0)
 - [My own upload (github, iOS `6`)](https://github.com/cc7623/AppleIntApps/releases/tag/v2.0)
 - [My own upload (archive.org, iOS `6`)](https://archive.org/details/apple-internal-collection-reupload)
+
+`x64 apps (IPAs)`
+- [DemoUnit, ACS, and NetworkCheck IPA, `unknown version`](https://archive.org/download/demo-unit-v-2.3-5496-prod)
+- [iPad DemoApps, `16.4.1`](https://web.archive.org/web/20230815000000*/https://cdn.thanos.lol/demoapps.zip)
+- [iosdmpkgs, `14.5`](https://archive.org/download/iosdmpkgs)
+- [iPhone 6s dump, `9.2.1`](https://archive.org/details/imovie_202401)
+
+`App Store Demo Apps, x64`
+- [Seed](https://apps.apple.com/us/app/seed/id6449049254)
+- [Find My Certification Asst.](https://apps.apple.com/us/app/find-my-certification-asst/id1532296125)
+- [Car Keys Test](https://apps.apple.com/us/app/car-keys-tests/id1635860023)
+- [MagSafe Certification Asst.](https://apps.apple.com/us/app/magsafe-certification-asst/id1533467908)
+- [Accessory Developer Assistant](https://apps.apple.com/us/app/accessory-developer-assistant/id1635862694)
+- [GymKit Certification Assistant](https://apps.apple.com/en/app/gymkit-certification-assistant/id1537439501)
+- [DemoUnit](https://demounit.apple.com/views/com.apple.ist.DemoUnit-iOS/download)
+- [DemoUnit ACS](https://demounit.apple.com/views/com.apple.ist.acs/download)
+- [DemoUnit Network Check](https://demounit.apple.com/views/com.apple.ist.networkcheck/download)
+
+`macOS Apps`
 - [https://github.com/cc7623/AppleIntApps/releases/tag/3.0 (macOS apps), `unknown version`](https://github.com/cc7623/AppleIntApps/releases/tag/3.0) (taken from 40gb appleinternal dump)
 
-- 
 
 ***
 
