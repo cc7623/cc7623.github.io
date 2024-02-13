@@ -2,7 +2,7 @@
 ### All AppleInternal/AppleConnect/InternalUI/DemoMode software
 ###### Searched far & wide across the internet for this. Still being updated... finding stuff, archiving it, and adding it here.
 ###### Engaging in illegal activity is not condoned. This information is provided for educational purposes only. Use at your OWN RISK.
-###### Last updated 2024-02-13 11:12:40 // Website takes about 2hrs to push updates, IDK why and how to fix it
+###### Last updated 2024-02-13 11:13:40 // Website takes about 2hrs to push updates, IDK why and how to fix it
 
 `Sections`  
 [40GB AppleInternal Collection, How to extract](https://cc7623.github.io/articles/appleinternal-list#40gb-appleinternal-collection)  
@@ -74,7 +74,7 @@ Just put your three fingers in the areas there, and then choose reset.
 ###### Most downloads say iOS 6+, but some might be over iOS 13(or 14,15, or even 16. I don't know).
 
 `x32 apps (IPAs)`  
-`Some links here might have x64 apps in their archives, but around 90% of the apps here are 32x for iOS 6.`
+`Some links here might have x64 apps in their archives, but around 90% of the apps in this section are 32x for iOS 6.`
 - [Apple Internal Apps `6+`](https://archive.org/download/troubleshoot-plan-genius-v-1.0)
 - [listing of Apple_internal.zip, `6+`](https://ia601203.us.archive.org/view_archive.php?archive=/7/items/apple-internal/Apple_internal.zip)
 - [listing of AppleInternal.rar, `most 6+`](https://ia800502.us.archive.org/view_archive.php?archive=/11/items/Apple-Internal-IPAs/AppleInternal.rar)
