@@ -10,6 +10,7 @@
 [Internal Firmwar3s](https://cc7623.github.io/articles/appleinternal-list#put-device-in-demomode)  
 [Apps/IPAs (macOS/iOS)](https://cc7623.github.io/articles/appleinternal-list#applications)  
 [DemoLoop](https://cc7623.github.io/articles/appleinternal-list#demoloops)
+[Apple Restore/MacOS Software] (coming soon)
 
 ***
 
