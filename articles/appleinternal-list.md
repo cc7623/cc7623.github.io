@@ -2,7 +2,7 @@
 ### All AppleInternal/AppleConnect/InternalUI/DemoMode software
 ###### Searched far & wide across the internet for this. Still being updated... finding stuff, archiving it, and adding it here.
 ###### Engaging in illegal activity is not condoned. This information is provided for educational purposes only. Use at your OWN RISK.
-###### Last updated 2024-02-13 11:13:40 // Website takes about 2hrs to push updates, IDK why and how to fix it
+###### Last modified 2024-02-13 11:17:40 // Website takes about 2hrs to push updates, IDK why and how to fix it
 
 `Sections`  
 [40GB AppleInternal Collection, How to extract](https://cc7623.github.io/articles/appleinternal-list#40gb-appleinternal-collection)  
