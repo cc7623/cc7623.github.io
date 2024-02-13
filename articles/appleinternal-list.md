@@ -2,8 +2,7 @@
 ### All AppleInternal/AppleConnect/InternalUI/DemoMode software
 ###### Searched far & wide across the internet for this. Still being updated... finding stuff, archiving it, and adding it here.
 ###### Engaging in illegal activity is not condoned. This information is provided for educational purposes only. Use at your OWN RISK.
-###### Website takes about 2hrs to push updates, IDK why and how to fix it.
-###### Last updated 2024-02-12 17:54:15
+###### Last updated 2024-02-13 11:12:40 // Website takes about 2hrs to push updates, IDK why and how to fix it
 
 `Sections`  
 [40GB AppleInternal Collection, How to extract](https://cc7623.github.io/articles/appleinternal-list#40gb-appleinternal-collection)  
@@ -74,8 +73,8 @@ Just put your three fingers in the areas there, and then choose reset.
 
 ###### Most downloads say iOS 6+, but some might be over iOS 13(or 14,15, or even 16. I don't know).
 
-`x32 apps (IPAs)`
-
+`x32 apps (IPAs)`  
+`Some links here might have x64 apps in their archives, but around 90% of the apps here are 32x for iOS 6.`
 - [Apple Internal Apps `6+`](https://archive.org/download/troubleshoot-plan-genius-v-1.0)
 - [listing of Apple_internal.zip, `6+`](https://ia601203.us.archive.org/view_archive.php?archive=/7/items/apple-internal/Apple_internal.zip)
 - [listing of AppleInternal.rar, `most 6+`](https://ia800502.us.archive.org/view_archive.php?archive=/11/items/Apple-Internal-IPAs/AppleInternal.rar)
@@ -90,16 +89,16 @@ Just put your three fingers in the areas there, and then choose reset.
 - [iosdmpkgs, `14.5`](https://archive.org/download/iosdmpkgs)
 - [iPhone 6s dump, `9.2.1`](https://archive.org/details/imovie_202401)
 
-`App Store Demo Apps, x64`
+`App Store Links, x64`
 - [Seed `16.0`](https://apps.apple.com/us/app/seed/id6449049254)
 - [Find My Certification Asst. `16.0`](https://apps.apple.com/us/app/find-my-certification-asst/id1532296125)
 - [Car Keys Test `16.1`](https://apps.apple.com/us/app/car-keys-tests/id1635860023)
 - [MagSafe Certification Asst. `15.0`](https://apps.apple.com/us/app/magsafe-certification-asst/id1533467908)
 - [Accessory Developer Assistant `16.1`](https://apps.apple.com/us/app/accessory-developer-assistant/id1635862694)
 - [GymKit Certification Assistant `16.1`](https://apps.apple.com/en/app/gymkit-certification-assistant/id1537439501)
-- [DemoUnit](https://demounit.apple.com/views/com.apple.ist.DemoUnit-iOS/download)
-- [DemoUnit ACS](https://demounit.apple.com/views/com.apple.ist.acs/download)
-- [DemoUnit Network Check](https://demounit.apple.com/views/com.apple.ist.networkcheck/download)
+- [DemoUnit `IPA, 17.0`](https://demounit.apple.com/views/com.apple.ist.DemoUnit-iOS/download)
+- [DemoUnit ACS `IPA, 17.0`](https://demounit.apple.com/views/com.apple.ist.acs/download)
+- [DemoUnit Network Check `IPA, 16.1`](https://demounit.apple.com/views/com.apple.ist.networkcheck/download)
 
 `macOS Apps`
 - [https://github.com/cc7623/AppleIntApps/releases/tag/3.0 (macOS apps), `unknown version`](https://github.com/cc7623/AppleIntApps/releases/tag/3.0) (taken from 40gb appleinternal dump)
