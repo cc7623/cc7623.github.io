@@ -2,14 +2,14 @@
 ### All AppleInternal/AppleConnect/InternalUI/DemoMode software
 ###### Searched far & wide across the internet for this. Still being updated... finding stuff, archiving it, and adding it here.
 ###### Engaging in illegal activity is not condoned. This information is provided for educational purposes only. Use at your OWN RISK.
-###### Last modified 2024-02-14 (happy valentines day ♡) 18:19:40 // Website takes about 2hrs to push updates, IDK why and how to fix it
+###### Last modified 2024-02-15 (happy valentine's day) 12:13:15 // Website takes about 2hrs to push updates, IDK why and how to fix it
 
 `Sections`  
 [40GB AppleInternal Collection, How to extract](https://cc7623.github.io/articles/appleinternal-list#40gb-appleinternal-collection)  
 [Put Device In/Out of DemoMode](https://cc7623.github.io/articles/appleinternal-list#put-device-in-demomode)  
 [Internal Firmwar3s](https://cc7623.github.io/articles/appleinternal-list#put-device-in-demomode)  
-[Apps/IPAs (macOS/iOS)](https://cc7623.github.io/articles/appleinternal-list#applications)  
-[DemoLoop](https://cc7623.github.io/articles/appleinternal-list#demoloops
+[Apps (`DMGs`) / `IPA`s (macOS/iOS)](https://cc7623.github.io/articles/appleinternal-list#applications)  
+[DemoLoop](https://cc7623.github.io/articles/appleinternal-list#demoloops)
 
 ***
 
@@ -90,7 +90,7 @@ Just put your three fingers in the areas there, and then choose reset.
 - [iPhone 6s dump, `9.2.1`](https://archive.org/details/imovie_202401)
 - [DemoUnit dumps; (version of IPA in alphabetical order) `17.0`, `T`, `15.2`](https://archive.org/download/appledemounit)
 
-`App Store Links, x64`
+`App Store Links, x64` ([credit](https://web.archive.org/web/20240212231956/https://old.reddit.com/r/Apple_Internal/comments/1ao7u00/the_apple_internal_apps_ive_got_installed/))
 - [Seed `16.0`](https://apps.apple.com/us/app/seed/id6449049254)
 - [Find My Certification Asst. `16.0`](https://apps.apple.com/us/app/find-my-certification-asst/id1532296125)
 - [Car Keys Test `16.1`](https://apps.apple.com/us/app/car-keys-tests/id1635860023)
@@ -109,6 +109,7 @@ Just put your three fingers in the areas there, and then choose reset.
 - [Angry Birds Retail Demo `osx12.3`](https://archive.org/download/com.rovio.abreloaded.retaildemo)
 - [Some MacOS DemoUnit apps `unknown version`](https://archive.org/download/appledemounit)
 - [PurpleRestore 3 `unknown version`](https://archive.org/details/PurpleRestore_3)
+- [Diagnosic Resources `multiple versions`](https://archive.org/download/diagnostic-resources)
 
 ***
 
@@ -123,5 +124,11 @@ Just put your three fingers in the areas there, and then choose reset.
 [Mac Tutorial, Enroll](https://archive.org/details/audioless-mac-os-dcota-demounit-tutorial)
 
 [iOS Tutorial, Enroll](https://www.theiphonewiki.com/wiki/Screen_Saver#:~:text=Installation%20Link%3A%0Ahttps%3A//demoupdate.apple.com/index.html) `ONLY WORKS ON DEVICES WHICH APPLE CURRENTLY SELLS NEW OR REFURBISHED`
+
+DemoLoops for iOS `16`-`16.1.2` [credit](https://twitter.com/Steph63163/status/1627215122308497408):
+- Alright, here's how to get DemoLoop for iOS 16-16.1.2.  First install this profile using [Apple Configurator](https://ia800200.us.archive.org/view_archive.php?archive=/31/items/apple-partner-demo-june-2024v-1.mobileprovision_202402/Apple%20Partner%20Demo%20June%202024v1.mobileprovision.zip).
+- Then install the DemoLoop application on the following site: https://demoupdate.apple.com/index.html
+- Once acquired, using AltStore or other, install FilzaEscaped16.
+- After that, when Filza is installed, get this [ApplicationSupport](https://archive.org/details/application-support_202402) folder, unzip it and add it instead of the existing one in the following directory: `/Var/mobile/Containers/Data/Application/com.Apple.ist.DemoLoop/Library`
 
 ***
