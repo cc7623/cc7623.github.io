@@ -2,7 +2,7 @@
 ### All AppleInternal/AppleConnect/InternalUI/DemoMode software
 ###### Searched far & wide across the internet for this. Still being updated... finding stuff, archiving it, and adding it here.
 ###### Engaging in illegal activity is not condoned. This information is provided for educational purposes only. Use at your OWN RISK.
-###### Last modified 2024-02-14 (happy valentines day ♡) 18:16:20 // Website takes about 2hrs to push updates, IDK why and how to fix it
+###### Last modified 2024-02-14 (happy valentines day ♡) 18:19:40 // Website takes about 2hrs to push updates, IDK why and how to fix it
 
 `Sections`  
 [40GB AppleInternal Collection, How to extract](https://cc7623.github.io/articles/appleinternal-list#40gb-appleinternal-collection)  
@@ -108,6 +108,8 @@ Just put your three fingers in the areas there, and then choose reset.
 - [Pricing `v2.1.4 (app ver)`](https://archive.org/download/com.apple.ist.windward-mac)
 - [Angry Birds Retail Demo `osx12.3`](https://archive.org/download/com.rovio.abreloaded.retaildemo)
 - [Some MacOS DemoUnit apps `unknown version`](https://archive.org/download/appledemounit)
+- [PurpleRestore 3 `unknown version`](https://archive.org/details/PurpleRestore_3)
+
 ***
 
 #### DemoLoops:
