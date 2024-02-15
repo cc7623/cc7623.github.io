@@ -2,15 +2,14 @@
 ### All AppleInternal/AppleConnect/InternalUI/DemoMode software
 ###### Searched far & wide across the internet for this. Still being updated... finding stuff, archiving it, and adding it here.
 ###### Engaging in illegal activity is not condoned. This information is provided for educational purposes only. Use at your OWN RISK.
-###### Last modified 2024-02-13 11:17:40 // Website takes about 2hrs to push updates, IDK why and how to fix it
+###### Last modified 2024-02-14 (happy valentines day ♡) 18:16:20 // Website takes about 2hrs to push updates, IDK why and how to fix it
 
 `Sections`  
 [40GB AppleInternal Collection, How to extract](https://cc7623.github.io/articles/appleinternal-list#40gb-appleinternal-collection)  
 [Put Device In/Out of DemoMode](https://cc7623.github.io/articles/appleinternal-list#put-device-in-demomode)  
 [Internal Firmwar3s](https://cc7623.github.io/articles/appleinternal-list#put-device-in-demomode)  
 [Apps/IPAs (macOS/iOS)](https://cc7623.github.io/articles/appleinternal-list#applications)  
-[DemoLoop](https://cc7623.github.io/articles/appleinternal-list#demoloops)
-[Apple Restore/MacOS Software] (coming soon)
+[DemoLoop](https://cc7623.github.io/articles/appleinternal-list#demoloops
 
 ***
 
@@ -89,6 +88,7 @@ Just put your three fingers in the areas there, and then choose reset.
 - [iPad DemoApps, `16.4.1`](https://web.archive.org/web/20230815000000*/https://cdn.thanos.lol/demoapps.zip)
 - [iosdmpkgs, `14.5`](https://archive.org/download/iosdmpkgs)
 - [iPhone 6s dump, `9.2.1`](https://archive.org/details/imovie_202401)
+- [DemoUnit dumps; (version of IPA in alphabetical order) `17.0`, `T`, `15.2`](https://archive.org/download/appledemounit)
 
 `App Store Links, x64`
 - [Seed `16.0`](https://apps.apple.com/us/app/seed/id6449049254)
@@ -102,9 +102,12 @@ Just put your three fingers in the areas there, and then choose reset.
 - [DemoUnit Network Check `IPA, 16.1`](https://demounit.apple.com/views/com.apple.ist.networkcheck/download)
 
 `macOS Apps`
-- [https://github.com/cc7623/AppleIntApps/releases/tag/3.0 (macOS apps), `unknown version`](https://github.com/cc7623/AppleIntApps/releases/tag/3.0) (taken from 40gb appleinternal dump)
-
-
+- [https://archive.org/download/macOSInternalApplications `unknown version`](https://archive.org/download/macOSInternalApplications)
+- [Reupload (from above)](https://github.com/cc7623/AppleIntApps/releases/tag/3.0) (taken from 40gb appleinternal dump)
+- [Random MacOS DemoApp `unknown version`](https://archive.org/details/macdoesthat)
+- [Pricing `v2.1.4 (app ver)`](https://archive.org/download/com.apple.ist.windward-mac)
+- [Angry Birds Retail Demo `osx12.3`](https://archive.org/download/com.rovio.abreloaded.retaildemo)
+- [Some MacOS DemoUnit apps `unknown version`](https://archive.org/download/appledemounit)
 ***
 
 #### DemoLoops:
