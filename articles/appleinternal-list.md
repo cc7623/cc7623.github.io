@@ -8,7 +8,7 @@
 [40GB AppleInternal Collection, How to extract](https://cc7623.github.io/articles/appleinternal-list#40gb-appleinternal-collection)  
 [Put Device In/Out of DemoMode](https://cc7623.github.io/articles/appleinternal-list#put-device-in-demomode)  
 [Internal Firmwar3s](https://cc7623.github.io/articles/appleinternal-list#put-device-in-demomode)  
-[Apps (`DMGs`) / `IPA`s (macOS/iOS)](https://cc7623.github.io/articles/appleinternal-list#applications)  
+[Apps (`DMGs`) / `IPAs` (macOS/iOS)](https://cc7623.github.io/articles/appleinternal-list#applications)  
 [DemoLoop](https://cc7623.github.io/articles/appleinternal-list#demoloops)
 
 ([In case this gets taken down](https://web.archive.org/web/20240221051026/https://cc7623.github.io/articles/appleinternal-list). It's a backup, which is also updated along with this website.)
