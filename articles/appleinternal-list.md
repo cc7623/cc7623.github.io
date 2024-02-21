@@ -4,12 +4,14 @@
 ###### Engaging in illegal activity is not condoned. This information is provided for __*educational purposes only*__. Use at your ***OWN RISK***.
 ###### If anything is missing or I forgot a piece of software, please [create an issue](https://github.com/cc7623/cc7623.github.io/labels/appleinternal%20addition%2Ffix).
 
-`Sections`  
+#### Sections:
 [40GB AppleInternal Collection, How to extract](https://cc7623.github.io/articles/appleinternal-list#40gb-appleinternal-collection)  
 [Put Device In/Out of DemoMode](https://cc7623.github.io/articles/appleinternal-list#put-device-in-demomode)  
 [Internal Firmwar3s](https://cc7623.github.io/articles/appleinternal-list#put-device-in-demomode)  
 [Apps (`DMGs`) / `IPA`s (macOS/iOS)](https://cc7623.github.io/articles/appleinternal-list#applications)  
 [DemoLoop](https://cc7623.github.io/articles/appleinternal-list#demoloops)
+
+([In case this gets taken down](https://web.archive.org/web/20240221051026/https://cc7623.github.io/articles/appleinternal-list). It's a backup, which is also updated along with this website.)
 
 ***
 
