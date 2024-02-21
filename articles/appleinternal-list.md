@@ -1,6 +1,5 @@
 
 ### All AppleInternal/AppleConnect/InternalUI/DemoMode software
-###### Searched far & wide across the internet for this. Still being updated... finding stuff, archiving it, and adding it here.
 ###### Engaging in illegal activity is not condoned. This information is provided for __*educational purposes only*__. Use at your ***OWN RISK***.
 ###### If anything is missing or I forgot a piece of software, please [create an issue](https://github.com/cc7623/cc7623.github.io/labels/appleinternal%20addition%2Ffix).
 
@@ -11,7 +10,7 @@
 [Apps (`DMGs`) / `IPAs` (macOS/iOS)](https://cc7623.github.io/articles/appleinternal-list#applications)  
 [DemoLoop](https://cc7623.github.io/articles/appleinternal-list#demoloops)
 
-([In case this gets taken down](https://web.archive.org/web/20240221051026/https://cc7623.github.io/articles/appleinternal-list). It's a backup, which is also updated along with this website.)
+[In case this site gets taken down (wayback machine)](https://web.archive.org/web/20240221051026/https://cc7623.github.io/articles/appleinternal-list)
 
 ***
 
@@ -19,7 +18,7 @@
 
 Download [here](https://archive.org/details/apple-internal-collection).  
 
-`========How to extract it?========`  
+========How to extract it?========  
 `Windows:`  
 1. Download LinuxFileViewer or Transmac.
 2. Right click the DMG file and open.
@@ -73,10 +72,10 @@ Just put your three fingers in the areas there, and then choose reset.
 
 #### Applications:  
 
-###### Most downloads say iOS 6+, but some might be over iOS 13(or 14,15, or even 16. I don't know).
+##### If there is no iOS/macOS version next to the link, it is unknown.
 
 `x32 apps (IPAs)`  
-`Some links here might have x64 apps in their archives, but around 90% of the apps in this section are 32x for iOS 6.`
+###### Some links here might have x64 apps in their archives, but around 90% of the apps in this section are 32x for iOS 6.`
 - [Apple Internal Apps `6+`](https://archive.org/download/troubleshoot-plan-genius-v-1.0)
 - [listing of Apple_internal.zip, `6+`](https://ia601203.us.archive.org/view_archive.php?archive=/7/items/apple-internal/Apple_internal.zip)
 - [listing of AppleInternal.rar, `most 6+`](https://ia800502.us.archive.org/view_archive.php?archive=/11/items/Apple-Internal-IPAs/AppleInternal.rar)
@@ -90,7 +89,7 @@ Just put your three fingers in the areas there, and then choose reset.
 - [iPad DemoApps, `16.4.1`](https://web.archive.org/web/20230815000000*/https://cdn.thanos.lol/demoapps.zip)
 - [iosdmpkgs, `14.5`](https://archive.org/download/iosdmpkgs)
 - [iPhone 6s dump, `9.2.1`](https://archive.org/details/imovie_202401)
-- [DemoUnit dumps; (version of IPA in alphabetical order) `17.0`, `T`, `15.2`](https://archive.org/download/appledemounit)
+- [DemoUnit dumps; (version of IPA in alphabetical order) `17.0`, ` `, `15.2`](https://archive.org/download/appledemounit)
 
 `App Store Links, x64` ([credit](https://web.archive.org/web/20240212231956/https://old.reddit.com/r/Apple_Internal/comments/1ao7u00/the_apple_internal_apps_ive_got_installed/))
 - [Seed `16.0`](https://apps.apple.com/us/app/seed/id6449049254)
