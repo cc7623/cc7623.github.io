@@ -103,6 +103,12 @@ Just put your three fingers in the areas there, and then choose reset.
 - [DemoUnit ACS `IPA, 17.0`](https://demounit.apple.com/views/com.apple.ist.acs/download)
 - [DemoUnit Network Check `IPA, 16.1`](https://demounit.apple.com/views/com.apple.ist.networkcheck/download)
 
+`Shortcuts`
+- [iCrowd App Installation `<16.0`](https://www.icloud.com/shortcuts/721d2c6b605f4f2ebfc9e14a82edb3ca)
+- [Magic Portal V.4](https://www.icloud.com/shortcuts/88676e38eb24464bbe978ef85292a7e8)
+- [MyMessage Installation `x64, unknown iOS version`](https://www.icloud.com/shortcuts/719da519c3c6484ca8ba1641adfc6bb9)
+- [Xcode Previews App, can't be turned off](https://unknownarchive.netlify.app/page11#:~:text=Xcode%20Previews%20Application%20Shortcut%C2%A0)
+
 `macOS Apps`
 - [https://archive.org/download/macOSInternalApplications `unknown version`](https://archive.org/download/macOSInternalApplications)
 - [Reupload (from above)](https://github.com/cc7623/AppleIntApps/releases/tag/3.0) (taken from 40gb appleinternal dump)
