@@ -3,14 +3,21 @@
 ###### Engaging in illegal activity is not condoned. This information is provided for __*educational purposes only*__. Use at your ***OWN RISK***.
 ###### If anything is missing or I forgot a piece of software, please [create an issue](https://github.com/cc7623/cc7623.github.io/labels/appleinternal%20addition%2Ffix).
 
-#### Sections:
+#### Sections
 [40GB AppleInternal Collection, How to extract](https://cc7623.github.io/articles/appleinternal-list#40gb-appleinternal-collection)  
 [Put Device In/Out of DemoMode](https://cc7623.github.io/articles/appleinternal-list#put-device-in-demomode)  
 [Internal Firmwar3s](https://cc7623.github.io/articles/appleinternal-list#put-device-in-demomode)  
 [Apps (DMGs) / IPAs (macOS/iOS)](https://cc7623.github.io/articles/appleinternal-list#applications)  
 [DemoLoop](https://cc7623.github.io/articles/appleinternal-list#demoloops)
 
-[In case this site gets taken down (wayback machine)](https://web.archive.org/web/20240221051026/https://cc7623.github.io/articles/appleinternal-list)
+
+#### Backup
+[In case this site gets taken down, here's a backup link](https://web.archive.org/web/20240221051026/https://cc7623.github.io/articles/appleinternal-list). New save created for each update to the list. If this site DOES get taken down, just hop on the wayback machine (previous link) to refer to it. In the meantime, check my Reddit (/u/East-Box-8015) and I will have another backup online within a day or two. If my Reddit also gets taken down, check /r/Apple_Internal subreddit.
+
+#### Quick way to distinguish apps:
+AppleInternal: all apps for apple (which are not supposed to be released to the public) are grouped under this category.  
+AppleConnect: apps which employees use for business, under main catagory AppleInternal.  
+InternalUI: apps for prototyping iOS devices, under main catagory AppleInternal.  
 
 ***
 
@@ -73,9 +80,10 @@ Just put your three fingers in the areas there, and then choose reset.
 #### Applications:  
 
 ##### If there is no iOS/macOS version next to the link, it is unknown.
+*MOST APPS HERE are for AppleConnect, which are used (or once used) by Apple employees to communicate and use in a business environment. Some apps here (Like `NetworkCheck`) are for test purposes (test device's functions and if they work properly, also named InternalUI), but most are for the communication among Apple Employees and for business. For actual InternalUI apps, check up above for the tutorial "how to install InternalUI firmware". hope this clears it up!*
 
 `x32 apps (IPAs)`  
-###### Some links here might have x64 apps in their archives, but around 90% of the apps in this section are 32x for iOS 6.`
+###### Some links here might have x64 apps in their archives, but around 90% of the apps in this section are 32x for iOS 6.
 - [Apple Internal Apps `6+`](https://archive.org/download/troubleshoot-plan-genius-v-1.0)
 - [listing of Apple_internal.zip, `6+`](https://ia601203.us.archive.org/view_archive.php?archive=/7/items/apple-internal/Apple_internal.zip)
 - [listing of AppleInternal.rar, `most 6+`](https://ia800502.us.archive.org/view_archive.php?archive=/11/items/Apple-Internal-IPAs/AppleInternal.rar)
@@ -104,9 +112,9 @@ Just put your three fingers in the areas there, and then choose reset.
 
 `Shortcuts`
 - [iCrowd App Installation `<16.0`](https://www.icloud.com/shortcuts/721d2c6b605f4f2ebfc9e14a82edb3ca)
-- [Magic Portal V.4](https://www.icloud.com/shortcuts/88676e38eb24464bbe978ef85292a7e8)
+- [Magic Portal V.4 `unknown versions`](https://www.icloud.com/shortcuts/88676e38eb24464bbe978ef85292a7e8)
 - [MyMessage Installation `x64, unknown iOS version`](https://www.icloud.com/shortcuts/719da519c3c6484ca8ba1641adfc6bb9)
-- [Xcode Previews App, can't be turned off](https://unknownarchive.netlify.app/page11#:~:text=Xcode%20Previews%20Application%20Shortcut%C2%A0)
+- [Xcode Previews App, can't be turned off `non-legacy (>10)`](https://unknownarchive.netlify.app/page11#:~:text=Xcode%20Previews%20Application%20Shortcut%C2%A0)
 
 `macOS Apps`
 - [https://archive.org/download/macOSInternalApplications `unknown version`](https://archive.org/download/macOSInternalApplications)
