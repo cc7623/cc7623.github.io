@@ -12,7 +12,7 @@
 
 
 #### Backup
-[In case this site gets taken down, here's a backup link](https://web.archive.org/web/20240221051026/https://cc7623.github.io/articles/appleinternal-list). New save created for each update to the list. If this site DOES get taken down, just hop on the wayback machine (previous link) to refer to it. In the meantime, check my Reddit (/u/East-Box-8015) and I will have another backup online within a day or two. If my Reddit also gets taken down, check /r/Apple_Internal subreddit.
+[In case this site gets taken down, here's a backup link](https://web.archive.org/web/20240221051026/https://cc7623.github.io/articles/appleinternal-list). New save created for each update to the list. If this site DOES get taken down, just hop on the wayback machine (previous link) to refer to it. In the meantime, check my Reddit (`/u/East-Box-8015`) and I will have another backup online within a day or two.
 
 #### Quick way to distinguish apps:
 AppleInternal: all apps for apple (which are not supposed to be released to the public) are grouped under this category.  
