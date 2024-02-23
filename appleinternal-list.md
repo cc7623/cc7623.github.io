@@ -1,6 +1,6 @@
 
-### All AppleInternal software
-##### Engaging in illegal activity is not condoned. This information is provided for __*educational purposes only*__. Use at your ***OWN RISK***. This list is provided *ONLY FOR REFERENCE*.
+### AppleInternal software
+##### Engaging in illegal activity is not condoned. This information is provided for __*educational purposes only*__. Use at your ***OWN RISK***. This list is given *ONLY FOR REFERENCE*.
 ##### If anything is missing or you would like to add to the list (please do, if you can), [create an issue](https://github.com/cc7623/cc7623.github.io/labels/appleinternal%20addition%2Ffix).
 
 #### Sections
