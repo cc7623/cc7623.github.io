@@ -1,6 +1,6 @@
 
-### All publicly available AppleInternal/AppleConnect/InternalUI/DemoMode software
-##### Engaging in illegal activity is not condoned. This information is provided for __*educational purposes only*__. Use at your ***OWN RISK***. THIS LIST IS PROVIDED *ONLY FOR REFERENCE*.
+### All AppleInternal software
+##### Engaging in illegal activity is not condoned. This information is provided for __*educational purposes only*__. Use at your ***OWN RISK***. This list is provided *ONLY FOR REFERENCE*.
 ##### If anything is missing or you would like to add to the list (please do, if you can), [create an issue](https://github.com/cc7623/cc7623.github.io/labels/appleinternal%20addition%2Ffix).
 
 #### Sections
@@ -9,10 +9,6 @@
 [Internal Firmwar3s](https://cc7623.github.io/articles/appleinternal-list#put-device-in-demomode)  
 [Apps (DMGs) / IPAs (macOS/iOS)](https://cc7623.github.io/articles/appleinternal-list#applications)  
 [DemoLoop](https://cc7623.github.io/articles/appleinternal-list#demoloops)
-
-
-#### Backup
-[In case this site gets taken down, here's a backup link](https://web.archive.org/web/20240221051026/https://cc7623.github.io/articles/appleinternal-list). New save created for each update to the list. *If this site DOES get taken down, just hop on the wayback machine (previous link) to refer to it. In the meantime, check my Reddit (`/u/East-Box-8015`) and I should have another backup online within a day or two.*
 
 ***
 
