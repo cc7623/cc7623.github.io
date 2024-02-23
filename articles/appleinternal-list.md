@@ -1,5 +1,5 @@
 
-## No longer updated. New list is [here](https://cc7623.github.io/list).
+## No longer updated. Moved over [here](https://cc7623.github.io/appleinternal-list).
 ### All AppleInternal/AppleConnect/InternalUI/DemoMode software
 ###### Engaging in illegal activity is not condoned. This information is provided for __*educational purposes only*__. Use at your ***OWN RISK***.
 ###### If anything is missing or I forgot a piece of software, please [create an issue](https://github.com/cc7623/cc7623.github.io/labels/appleinternal%20addition%2Ffix).
