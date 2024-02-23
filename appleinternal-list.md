@@ -1,7 +1,7 @@
 
-### All AppleInternal/AppleConnect/InternalUI/DemoMode software
-###### Engaging in illegal activity is not condoned. This information is provided for __*educational purposes only*__. Use at your ***OWN RISK***.
-###### If anything is missing or I forgot a piece of software, please [create an issue](https://github.com/cc7623/cc7623.github.io/labels/appleinternal%20addition%2Ffix).
+### All publicly available AppleInternal/AppleConnect/InternalUI/DemoMode software
+##### Engaging in illegal activity is not condoned. This information is provided for __*educational purposes only*__. Use at your ***OWN RISK***. THIS LIST IS PROVIDED *ONLY FOR REFERENCE*.
+##### If anything is missing or you would like to add to the list (please do, if you can), [create an issue](https://github.com/cc7623/cc7623.github.io/labels/appleinternal%20addition%2Ffix).
 
 #### Sections
 [40GB AppleInternal Collection, How to extract](https://cc7623.github.io/articles/appleinternal-list#40gb-appleinternal-collection)  
@@ -12,12 +12,7 @@
 
 
 #### Backup
-[In case this site gets taken down, here's a backup link](https://web.archive.org/web/20240221051026/https://cc7623.github.io/articles/appleinternal-list). New save created for each update to the list. If this site DOES get taken down, just hop on the wayback machine (previous link) to refer to it. In the meantime, check my Reddit (`/u/East-Box-8015`) and I will have another backup online within a day or two.
-
-#### Quick way to distinguish apps:
-AppleInternal: all apps for apple (which are not supposed to be released to the public) are grouped under this category.  
-AppleConnect: apps which employees use for business, under main catagory AppleInternal.  
-InternalUI: apps for prototyping iOS devices, under main catagory AppleInternal.  
+[In case this site gets taken down, here's a backup link](https://web.archive.org/web/20240221051026/https://cc7623.github.io/articles/appleinternal-list). New save created for each update to the list. *If this site DOES get taken down, just hop on the wayback machine (previous link) to refer to it. In the meantime, check my Reddit (`/u/East-Box-8015`) and I should have another backup online within a day or two.*
 
 ***
 
@@ -79,11 +74,10 @@ Just put your three fingers in the areas there, and then choose reset.
 
 #### Applications:  
 
-##### If there is no iOS/macOS version next to the link, it is unknown.
-*MOST APPS HERE are for AppleConnect, which are used (or once used) by Apple employees to communicate and use in a business environment. Some apps here (Like `NetworkCheck`) are for test purposes (test device's functions and if they work properly, also named InternalUI), but most are for the communication among Apple Employees and for business. For actual InternalUI apps, check up above for the tutorial "how to install InternalUI firmware". hope this clears it up!*
+MOST APPS HERE are for AppleConnect, which are used (or were once used) by Apple employees to communicate and use in a business environment. Some apps here (Like `NetworkCheck`) are for test purposes (to test the device's functions and if they work properly. Also goes by InternalUI.), but most are for the communication among Apple Employees and for business. For actual InternalUI apps, check up above for the tutorial "how to install InternalUI firmware".
 
-`x32 apps (IPAs)`  
-###### Some links here might have x64 apps in their archives, but around 90% of the apps in this section are 32x for iOS 6.
+##### x32 apps (IPAs)  
+###### Some links here might have x64 apps in their archives, but around 90% of the apps in this section are 32-bit for iOS 6.
 - [Apple Internal Apps `6+`](https://archive.org/download/troubleshoot-plan-genius-v-1.0)
 - [listing of Apple_internal.zip, `6+`](https://ia601203.us.archive.org/view_archive.php?archive=/7/items/apple-internal/Apple_internal.zip)
 - [listing of AppleInternal.rar, `most 6+`](https://ia800502.us.archive.org/view_archive.php?archive=/11/items/Apple-Internal-IPAs/AppleInternal.rar)
@@ -92,14 +86,14 @@ Just put your three fingers in the areas there, and then choose reset.
 - [My own upload (github, iOS `6`)](https://github.com/cc7623/AppleIntApps/releases/tag/v2.0)
 - [My own upload (archive.org, iOS `6`)](https://archive.org/details/apple-internal-collection-reupload)
 
-`x64 apps (IPAs)`
+##### x64 apps (IPAs)`
 - [DemoUnit, ACS, and NetworkCheck IPA, `unknown version`](https://archive.org/download/demo-unit-v-2.3-5496-prod)
 - [iPad DemoApps, `16.4.1`](https://web.archive.org/web/20230815000000*/https://cdn.thanos.lol/demoapps.zip)
 - [iosdmpkgs, `14.5`](https://archive.org/download/iosdmpkgs)
 - [iPhone 6s dump, `9.2.1`](https://archive.org/details/imovie_202401)
 - [DemoUnit dumps; (version of IPA in alphabetical order) `17.0`, ` `, `15.2`](https://archive.org/download/appledemounit)
 
-`App Store Links, x64` ([credit](https://web.archive.org/web/20240212231956/https://old.reddit.com/r/Apple_Internal/comments/1ao7u00/the_apple_internal_apps_ive_got_installed/))
+##### App Store Links, x64 [credit](https://web.archive.org/web/20240212231956/https://old.reddit.com/r/Apple_Internal/comments/1ao7u00/the_apple_internal_apps_ive_got_installed/)
 - [Seed `16.0`](https://apps.apple.com/us/app/seed/id6449049254)
 - [Find My Certification Asst. `16.0`](https://apps.apple.com/us/app/find-my-certification-asst/id1532296125)
 - [Car Keys Test `16.1`](https://apps.apple.com/us/app/car-keys-tests/id1635860023)
@@ -109,15 +103,15 @@ Just put your three fingers in the areas there, and then choose reset.
 - [DemoUnit `IPA, 17.0`](https://demounit.apple.com/views/com.apple.ist.DemoUnit-iOS/download)
 - [DemoUnit ACS `IPA, 17.0`](https://demounit.apple.com/views/com.apple.ist.acs/download)
 - [DemoUnit Network Check `IPA, 16.1`](https://demounit.apple.com/views/com.apple.ist.networkcheck/download)
-- [Unknown_Tag's Archive, being uploaded to archive.org `multiple versions`](https://mega.nz/folder/RIwwhYiL#gBtcgj5jfhJFuxO9bv4L2A)
+- [Unknown_Tag's Archive, being uploaded to archive.org soon `multiple versions`](https://mega.nz/folder/RIwwhYiL#gBtcgj5jfhJFuxO9bv4L2A)
 
-`Shortcuts`
+##### Shortcuts (credit to @Unknown_Tags on twitter)
 - [iCrowd App Installation `<16.0`](https://www.icloud.com/shortcuts/721d2c6b605f4f2ebfc9e14a82edb3ca)
-- [Magic Portal V.4 `unknown versions`](https://www.icloud.com/shortcuts/88676e38eb24464bbe978ef85292a7e8)
+- [Magic Portal V.4 `unknown version`](https://www.icloud.com/shortcuts/88676e38eb24464bbe978ef85292a7e8)
 - [MyMessage Installation `x64, unknown iOS version`](https://www.icloud.com/shortcuts/719da519c3c6484ca8ba1641adfc6bb9)
 - [Xcode Previews App, can't be turned off `non-legacy (>10)`](https://unknownarchive.netlify.app/page11#:~:text=Xcode%20Previews%20Application%20Shortcut%C2%A0)
 
-`macOS Apps`
+##### macOS Apps
 - [https://archive.org/download/macOSInternalApplications `unknown version`](https://archive.org/download/macOSInternalApplications)
 - [Reupload (from above)](https://github.com/cc7623/AppleIntApps/releases/tag/3.0) (taken from 40gb appleinternal dump)
 - [Random MacOS DemoApp `unknown version`](https://archive.org/details/macdoesthat)
