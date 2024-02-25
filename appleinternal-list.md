@@ -1,14 +1,16 @@
 
-### AppleInternal software
-##### Engaging in illegal activity is not condoned. This information is provided for __*educational purposes only*__. Use at your ***OWN RISK***. This list is given *ONLY FOR REFERENCE*.
-##### If anything is missing or you would like to add to the list (please do, if you can), [create an issue](https://github.com/cc7623/cc7623.github.io/labels/appleinternal%20addition%2Ffix).
+### AppleInternal List
+#### A list of a bit of AppleInternal software. Found from multiple sources- Reddit, archive.org, and Twitter. All credits to original uploaders, I just gathered it here.
+Engaging in illegal activity is not condoned. This information is provided for __*educational purposes only*__. Use at your ***OWN RISK***. If anything is missing or you would like to add to the list (please, if you can), [create an issue](https://github.com/cc7623/cc7623.github.io/labels/appleinternal%20addition%2Ffix) and I'll get to it.
+
+***
 
 #### Sections
-[40GB AppleInternal Collection, How to extract](https://cc7623.github.io/articles/appleinternal-list#40gb-appleinternal-collection)  
-[Put Device In/Out of DemoMode](https://cc7623.github.io/articles/appleinternal-list#put-device-in-demomode)  
-[Internal Firmwar3s](https://cc7623.github.io/articles/appleinternal-list#put-device-in-demomode)  
-[Apps (DMGs) / IPAs (macOS/iOS)](https://cc7623.github.io/articles/appleinternal-list#applications)  
-[DemoLoop](https://cc7623.github.io/articles/appleinternal-list#demoloops)
+[40GB AppleInternal Collection, and how to extract](https://cc7623.github.io/articles/appleinternal-list#40gb-appleinternal-collection)  
+[Put device in or out of DemoMode](https://cc7623.github.io/articles/appleinternal-list#put-device-in-demomode)  
+[Internal Firmwar3s- Switchb0ard and Int3rnalUI](https://cc7623.github.io/articles/appleinternal-list#put-device-in-demomode)  
+[DMG / IPA list](https://cc7623.github.io/articles/appleinternal-list#applications)  
+[DemoLoops (enroll and non-enroll methods)](https://cc7623.github.io/articles/appleinternal-list#demoloops)
 
 ***
 
@@ -24,7 +26,7 @@ Download [here](https://archive.org/details/apple-internal-collection).
 
 `Mac:`
 1. Double-click the DMG
-2. Click on the drive icon named "AppleInternal Collection." It should be on your desktop
+2. Click on the drive icon named "AppleInternal Collection." It should be on your desktop.
 
 `Linux:`
 1. Just double-click it.
@@ -74,20 +76,20 @@ MOST APPS HERE are for AppleConnect, which are used (or were once used) by Apple
 
 ##### x32 apps (IPAs)  
 ###### Some links here might have x64 apps in their archives, but around 90% of the apps in this section are 32-bit for iOS 6.
-- [Apple Internal Apps `6+`](https://archive.org/download/troubleshoot-plan-genius-v-1.0)
-- [listing of Apple_internal.zip, `6+`](https://ia601203.us.archive.org/view_archive.php?archive=/7/items/apple-internal/Apple_internal.zip)
-- [listing of AppleInternal.rar, `most 6+`](https://ia800502.us.archive.org/view_archive.php?archive=/11/items/Apple-Internal-IPAs/AppleInternal.rar)
+- [Apple Internal Apps `6-10`](https://archive.org/download/troubleshoot-plan-genius-v-1.0)
+- [listing of Apple_internal.zip, `6-10`](https://ia601203.us.archive.org/view_archive.php?archive=/7/items/apple-internal/Apple_internal.zip)
+- [listing of AppleInternal.rar, `6-10`](https://ia800502.us.archive.org/view_archive.php?archive=/11/items/Apple-Internal-IPAs/AppleInternal.rar)
 - [32-bit AppleInternal Apps, `6-10`](https://ia902607.us.archive.org/view_archive.php?archive=/12/items/i-os-apps-20230603-t-195539-z-001/iOS%20Apps-20230603T195539Z-001.zip)
 - [Some prototype app dumps , `6`](https://github.com/cc7623/AppleIntApps/releases/tag/v1.0)
 - [My own upload (github, iOS `6`)](https://github.com/cc7623/AppleIntApps/releases/tag/v2.0)
 - [My own upload (archive.org, iOS `6`)](https://archive.org/details/apple-internal-collection-reupload)
 
-##### x64 apps (IPAs)`
+##### x64 apps (IPAs)
 - [DemoUnit, ACS, and NetworkCheck IPA, `unknown version`](https://archive.org/download/demo-unit-v-2.3-5496-prod)
 - [iPad DemoApps, `16.4.1`](https://web.archive.org/web/20230815000000*/https://cdn.thanos.lol/demoapps.zip)
 - [iosdmpkgs, `14.5`](https://archive.org/download/iosdmpkgs)
 - [iPhone 6s dump, `9.2.1`](https://archive.org/details/imovie_202401)
-- [DemoUnit dumps; (version of IPA in alphabetical order) `17.0`, ` `, `15.2`](https://archive.org/download/appledemounit)
+- [DemoUnit dumps; (version of IPA in alphabetical order) `17.0`, `unknown`, `15.2`](https://archive.org/download/appledemounit)
 
 ##### App Store Links, x64 [credit](https://web.archive.org/web/20240212231956/https://old.reddit.com/r/Apple_Internal/comments/1ao7u00/the_apple_internal_apps_ive_got_installed/)
 - [Seed `16.0`](https://apps.apple.com/us/app/seed/id6449049254)
@@ -95,7 +97,8 @@ MOST APPS HERE are for AppleConnect, which are used (or were once used) by Apple
 - [Car Keys Test `16.1`](https://apps.apple.com/us/app/car-keys-tests/id1635860023)
 - [MagSafe Certification Asst. `15.0`](https://apps.apple.com/us/app/magsafe-certification-asst/id1533467908)
 - [Accessory Developer Assistant `16.1`](https://apps.apple.com/us/app/accessory-developer-assistant/id1635862694)
-- [GymKit Certification Assistant `16.1`](https://apps.apple.com/en/app/gymkit-certification-assistant/id1537439501)
+- [GymKit Certification Assistant `16.1`](https://apps.apple.com/de/app/gymkit-certification-assistant/id1537439501)
+- [Apple Health Studies `16.0`](https://apps.apple.com/us/app/apple-health-studies/id1666409057)
 - [DemoUnit `IPA, 17.0`](https://demounit.apple.com/views/com.apple.ist.DemoUnit-iOS/download)
 - [DemoUnit ACS `IPA, 17.0`](https://demounit.apple.com/views/com.apple.ist.acs/download)
 - [DemoUnit Network Check `IPA, 16.1`](https://demounit.apple.com/views/com.apple.ist.networkcheck/download)
@@ -111,27 +114,35 @@ MOST APPS HERE are for AppleConnect, which are used (or were once used) by Apple
 - [https://archive.org/download/macOSInternalApplications `unknown version`](https://archive.org/download/macOSInternalApplications)
 - [Reupload (from above)](https://github.com/cc7623/AppleIntApps/releases/tag/3.0) (taken from 40gb appleinternal dump)
 - [Random MacOS DemoApp `unknown version`](https://archive.org/details/macdoesthat)
-- [Pricing `v2.1.4 (app ver)`](https://archive.org/download/com.apple.ist.windward-mac)
+- [Pricing v2.1.4 `unknown version`](https://archive.org/download/com.apple.ist.windward-mac)
 - [Angry Birds Retail Demo `osx12.3`](https://archive.org/download/com.rovio.abreloaded.retaildemo)
 - [Some MacOS DemoUnit apps `unknown version`](https://archive.org/download/appledemounit)
 - [PurpleRestore 3 `unknown version`](https://archive.org/details/PurpleRestore_3)
 - [Diagnosic Resources `multiple versions`](https://archive.org/download/diagnostic-resources)
+- [Enterprise Connect 2.0.2 `unknown version`](https://archive.org/download/enterprise-connect-2.0.2)
 
 ***
 
 #### DemoLoops:
 
-[DemoLoop Videos](https://archive.org/details/iphone_portrait_202402)
+[A Few DemoLoop Videos](https://archive.org/details/iphone_portrait_202402)
 
 [AppleTV, Enroll](https://www.idownloadblog.com/2016/01/18/apple-tv-store-demo-mode/#:~:text=How%20to%20get%20into%20retail%20Demo%20Mode%20on%20Apple%20TV)
 
-[Mac Tutorial, No Enroll](https://archive.org/details/no-enroll-mac-os-demoloop-apple-store-screen-saver-tutorial) (to view files used in video, scroll down & click `SHOW ALL`. `xmlfile.xml` is from the pastebin link shown in the video. export & rename to `ScreenSaver.plist`. you will have to find the `demoloop` video by yourself for now. making a quick list of existing demoloop videos and uploading it soon.)  
+[Mac Tutorial, No Enroll](https://archive.org/details/no-enroll-mac-os-demoloop-apple-store-screen-saver-tutorial) (to view files used in video, scroll down & click `SHOW ALL`. `xmlfile.xml` is from the pastebin link shown in the video. export & rename to `ScreenSaver.plist`. you will have to find the demoloop video by yourself for now. making a quick list of existing demoloop videos and uploading it soon.)  
 
 [Mac Tutorial, Enroll](https://archive.org/details/audioless-mac-os-dcota-demounit-tutorial)
 
-[iOS Tutorial, Enroll](https://www.theiphonewiki.com/wiki/Screen_Saver#:~:text=Installation%20Link%3A%0Ahttps%3A//demoupdate.apple.com/index.html) `ONLY WORKS ON DEVICES WHICH APPLE CURRENTLY SELLS NEW OR REFURBISHED`
+[iOS Tutorial, Enroll](https://www.theiphonewiki.com/wiki/Screen_Saver#:~:text=Installation%20Link%3A%0Ahttps%3A//demoupdate.apple.com/index.html) *ONLY WORKS ON DEVICES WHICH APPLE CURRENTLY SELLS NEW OR REFURBISHED.*
 
-DemoLoops for iOS `<=16.1.2` [credit](https://twitter.com/Steph63163/status/1627215122308497408):
+[iOS Tutorial, No Enroll, Non-Jailbroken](https://twitter.com/ibatech1/status/1634896089043156992)
+1. Download [NoCodeHub](https://ibinou.github.io/-new-NoCodeHubInstaller/) on your iPhone
+2. Download StoreControl from NoCodeHub
+3. Enjoy!
+
+[iOS Tutorial, No Enroll, Requires Jailbreak (x64 devices *only*)](https://web.archive.org/web/20240224055252/https://old.reddit.com/r/Apple_Internal/comments/14bzt93/demoloop/?rdt=43013) Steph's twitter tutorial is down below:
+
+DemoLoops for iOS <=16.1.2 [credit to Steph63163](https://twitter.com/Steph63163/status/1627215122308497408):
 - Alright, here's how to get DemoLoop for iOS 16-16.1.2.  First install this profile using [Apple Configurator](https://ia800200.us.archive.org/view_archive.php?archive=/31/items/apple-partner-demo-june-2024v-1.mobileprovision_202402/Apple%20Partner%20Demo%20June%202024v1.mobileprovision.zip).
 - Then install the DemoLoop application on the following site: https://demoupdate.apple.com/index.html
 - Once acquired, using AltStore or other, install FilzaEscaped16.
