@@ -158,16 +158,18 @@ DemoLoops for iOS <=16.1.2 [credit to Steph63163](https://twitter.com/Steph63163
 
 #### Links [credit](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fb4tobsdpu1cc1.jpg%3Fwidth%3D1179%26format%3Dpjpg%26auto%3Dwebp%26s%3Dad181109c5a79bb7fc3cae8ea8c76824ae170930):
 
-- https://chirp.apple.com
-- https://esign.apple.com
-- https://asw.apple.com
-- https://appleweb.apple.com
-- https://mfi.apple.com
-- https://baseline.apple.com
-- https://plec.apple.com
-- https://unibox.apple.com
-- https://onepulse.apple.com
-- https://hrweb.apple.com
-- https://people.apple.com
-- meet://
-- tap-to-radar://new
+- [https://chirp.apple.com](https://chirp.apple.com)
+- [https://esign.apple.com](https://esign.apple.com)
+- [https://asw.apple.com](https://asw.apple.com)
+- [https://appleweb.apple.com](https://appleweb.apple.com)
+- [https://mfi.apple.com](https://mfi.apple.com)
+- [https://baseline.apple.com](https://baseline.apple.com)
+- [https://plec.apple.com](https://plec.apple.com)
+- [https://unibox.apple.com](https://unibox.apple.com)
+- [https://onepulse.apple.com](https://onepulse.apple.com)
+- [https://hrweb.apple.com](https://hrweb.apple.com)
+- [https://people.apple.com](https://people.apple.com)
+- [https://iwork.ai](https://iwork.ai) / [article](https://appleinsider.com/articles/09/01/06/apple_introduces_iwork_09_iwork_com)
+- [https://iwork.com](http://iwork.com/) / [article](https://appleinsider.com/articles/09/01/06/apple_introduces_iwork_09_iwork_com)
+- [meet://](meet://)
+- [tap-to-radar://new](tap-to-radar://new)
