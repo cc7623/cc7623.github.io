@@ -169,7 +169,7 @@ DemoLoops for iOS <=16.1.2 [credit to Steph63163](https://twitter.com/Steph63163
 - [https://onepulse.apple.com](https://onepulse.apple.com)
 - [https://hrweb.apple.com](https://hrweb.apple.com)
 - [https://people.apple.com](https://people.apple.com)
-- [https://iwork.ai](https://iwork.ai) / [article](https://appleinsider.com/articles/09/01/06/apple_introduces_iwork_09_iwork_com)
+- [https://iwork.ai](https://iwork.ai) / [article](https://appleinsider.com/articles/24/02/12/apple-buys-domain-suggesting-generative-ai-additions-may-come-to-iwork)
 - [https://iwork.com](http://iwork.com/) / [article](https://appleinsider.com/articles/09/01/06/apple_introduces_iwork_09_iwork_com)
 - [meet://](meet://)
 - [tap-to-radar://new](tap-to-radar://new)
