@@ -1,9 +1,9 @@
 title: cc7623.github.io
-description: appleinternal / jailbreaking tutorials, guides, and news
+description: cc7623
 google_analytics: G-GQ5KV8S9NE
 show_downloads: false
 # theme: jekyll-theme-console
-Retry-After: 60sec
+Retry-After: 1sec
 
 # style: dark # dark (default), light or hacker
 # listen_for_clients_preferred_style: true # false (default) or true
