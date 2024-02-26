@@ -6,12 +6,12 @@ Engaging in illegal activity is not condoned. This information is provided for _
 ***
 
 #### Sections
-[40GB AppleInternal Collection, and how to extract](https://cc7623.github.io/articles/appleinternal-list#40gb-appleinternal-collection)  
-[Put device in or out of DemoMode](https://cc7623.github.io/articles/appleinternal-list#put-device-in-demomode)  
-[Internal Firmwar3s- Switchb0ard and Int3rnalUI](https://cc7623.github.io/articles/appleinternal-list#put-device-in-demomode)  
-[DMG / IPA list](https://cc7623.github.io/articles/appleinternal-list#applications)  
-[DemoLoops (enroll and non-enroll methods)](https://cc7623.github.io/articles/appleinternal-list#demoloops)  
-[Misc. AppleInternal Links (can't be used w/out AppleConnect acct.)](https://cc7623.github.io/articles/appleinternal-list#links-credit)
+[40GB AppleInternal Collection, and how to extract](https://cc7623.github.io/appleinternal-list#40gb-appleinternal-collection)  
+[Put device in or out of DemoMode](https://cc7623.github.io/appleinternal-list#put-device-in-demomode)  
+[Internal Firmwar3s- Switchb0ard and Int3rnalUI](https://cc7623.github.io/appleinternal-list#put-device-in-demomode)  
+[DMG / IPA list](https://cc7623.github.io/appleinternal-list#applications)  
+[DemoLoops (enroll and non-enroll methods)](https://cc7623.github.io/appleinternal-list#demoloops)  
+[Misc. AppleInternal Links (can't be used w/out AppleConnect acct.)](https://cc7623.github.io/appleinternal-list#links-credit)
 
 ***
 
