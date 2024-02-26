@@ -95,6 +95,10 @@ MOST APPS HERE are for AppleConnect, which are used (or were once used) by Apple
 
 ##### App Store Links, x64 [credit](https://web.archive.org/web/20240212231956/https://old.reddit.com/r/Apple_Internal/comments/1ao7u00/the_apple_internal_apps_ive_got_installed/)
 - [Seed `16.0`](https://apps.apple.com/us/app/seed/id6449049254)
+- [Configurator `16.0`](https://apps.apple.com/us/app/apple-configurator/id1588794674)
+- [Indoor Survey `15.5`](https://apps.apple.com/us/app/indoor-survey/id994269367)
+- [Classroom `14.5`](https://apps.apple.com/us/app/classroom/id1085319084)
+- [Siri Speech Study `14.0`](https://apps.apple.com/us/app/siri-speech-study/id1564003829)
 - [Find My Certification Asst. `16.0`](https://apps.apple.com/us/app/find-my-certification-asst/id1532296125)
 - [Car Keys Test `16.1`](https://apps.apple.com/us/app/car-keys-tests/id1635860023)
 - [MagSafe Certification Asst. `15.0`](https://apps.apple.com/us/app/magsafe-certification-asst/id1533467908)
@@ -117,10 +121,10 @@ MOST APPS HERE are for AppleConnect, which are used (or were once used) by Apple
 - [Reupload (from above)](https://github.com/cc7623/AppleIntApps/releases/tag/3.0) (taken from 40gb appleinternal dump)
 - [Random MacOS DemoApp `unknown version`](https://archive.org/details/macdoesthat)
 - [Pricing v2.1.4 `unknown version`](https://archive.org/download/com.apple.ist.windward-mac)
-- [Angry Birds Retail Demo `osx12.3`](https://archive.org/download/com.rovio.abreloaded.retaildemo)
+- [Angry Birds Retail Demo `MacOSX12.3`](https://archive.org/download/com.rovio.abreloaded.retaildemo)
 - [Some MacOS DemoUnit apps `unknown version`](https://archive.org/download/appledemounit)
 - [PurpleRestore 3 `unknown version`](https://archive.org/details/PurpleRestore_3)
-- [Diagnosic Resources `multiple versions`](https://archive.org/download/diagnostic-resources)
+- [Diagnosic Resources `unknown version(s)`](https://archive.org/download/diagnostic-resources)
 - [Enterprise Connect 2.0.2 `unknown version`](https://archive.org/download/enterprise-connect-2.0.2)
 
 ***
