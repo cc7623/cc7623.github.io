@@ -1,6 +1,6 @@
 
 ### AppleInternal List
-#### A list of a bit of AppleInternal software. Found from multiple sources- Reddit, archive.org, and Twitter. All credits to original uploaders, I just gathered it here.
+#### A list of a bit of AppleInternal software. Found from multiple sources- [Reddit](https://www.reddit.com/r/Apple_Internal/), [archive.org](https://archive.org/search?query=apple+internal&page=2&not%5B%5D=subject%3A%22GitHub%22&not%5B%5D=subject%3A%22git%22&and%5B%5D=mediatype%3A%22software%22&and%5B%5D=mediatype%3A%22movies%22&and%5B%5D=year%3A%5B2007+TO+2024%5D), and [Twitter](https://twitter.com/cc7623_/following) *(note- there are more people which have uploaded software, I just forgot to credit them here. All credits to original uploaders.).*
 Engaging in illegal activity is not condoned. This information is provided for __*educational purposes only*__. Use at your ***OWN RISK***. If anything is missing or you would like to add to the list (please, if you can), [create an issue](https://github.com/cc7623/cc7623.github.io/labels/appleinternal%20addition%2Ffix) and I'll get to it.
 
 ***
@@ -10,7 +10,8 @@ Engaging in illegal activity is not condoned. This information is provided for _
 [Put device in or out of DemoMode](https://cc7623.github.io/articles/appleinternal-list#put-device-in-demomode)  
 [Internal Firmwar3s- Switchb0ard and Int3rnalUI](https://cc7623.github.io/articles/appleinternal-list#put-device-in-demomode)  
 [DMG / IPA list](https://cc7623.github.io/articles/appleinternal-list#applications)  
-[DemoLoops (enroll and non-enroll methods)](https://cc7623.github.io/articles/appleinternal-list#demoloops)
+[DemoLoops (enroll and non-enroll methods)](https://cc7623.github.io/articles/appleinternal-list#demoloops)  
+[Misc. AppleInternal Links (can't be used w/out AppleConnect acct.)](https://cc7623.github.io/articles/appleinternal-list#links-credit)
 
 ***
 
@@ -72,7 +73,7 @@ Just put your three fingers in the areas there, and then choose reset.
 
 #### Applications:  
 
-MOST APPS HERE are for AppleConnect, which are used (or were once used) by Apple employees to communicate and use in a business environment. Some apps here (Like `NetworkCheck`) are for test purposes (to test the device's functions and if they work properly. Also goes by InternalUI.), but most are for the communication among Apple Employees and for business. For actual InternalUI apps, check up above for the tutorial "how to install InternalUI firmware".
+MOST APPS HERE are for AppleConnect, which are used (or were once used) by Apple employees to communicate and use in a business environment. Some apps here (*Like `NetworkCheck`*) are for test purposes (*Also goes by InternalUI*) or DemoUnit apps (*installed on demo devices which are displayed in the Apple Store*), but most are for the communication among Apple Employees and for business. For actual InternalUI apps, check up above for the tutorial "how to install InternalUI firmware".
 
 ##### x32 apps (IPAs)  
 ###### Some links here might have x64 apps in their archives, but around 90% of the apps in this section are 32-bit for iOS 6.
@@ -90,6 +91,7 @@ MOST APPS HERE are for AppleConnect, which are used (or were once used) by Apple
 - [iosdmpkgs, `14.5`](https://archive.org/download/iosdmpkgs)
 - [iPhone 6s dump, `9.2.1`](https://archive.org/details/imovie_202401)
 - [DemoUnit dumps; (version of IPA in alphabetical order) `17.0`, `unknown`, `15.2`](https://archive.org/download/appledemounit)
+- [Meet iPhone/iPad(4.4.0.8), Face ID Demo(2.0.0), DemoLoop(5.6.1) `unknown version(s)`](https://archive.org/details/ipa_20240226)
 
 ##### App Store Links, x64 [credit](https://web.archive.org/web/20240212231956/https://old.reddit.com/r/Apple_Internal/comments/1ao7u00/the_apple_internal_apps_ive_got_installed/)
 - [Seed `16.0`](https://apps.apple.com/us/app/seed/id6449049254)
@@ -147,3 +149,21 @@ DemoLoops for iOS <=16.1.2 [credit to Steph63163](https://twitter.com/Steph63163
 - Then install the DemoLoop application on the following site: https://demoupdate.apple.com/index.html
 - Once acquired, using AltStore or other, install FilzaEscaped16.
 - After that, when Filza is installed, get this [ApplicationSupport](https://archive.org/details/application-support_202402) folder, unzip it and add it instead of the existing one in the following directory: `/Var/mobile/Containers/Data/Application/com.Apple.ist.DemoLoop/Library`
+
+***
+
+#### Links [credit](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fb4tobsdpu1cc1.jpg%3Fwidth%3D1179%26format%3Dpjpg%26auto%3Dwebp%26s%3Dad181109c5a79bb7fc3cae8ea8c76824ae170930):
+
+- https://chirp.apple.com
+- https://esign.apple.com
+- https://asw.apple.com
+- https://appleweb.apple.com
+- https://mfi.apple.com
+- https://baseline.apple.com
+- https://plec.apple.com
+- https://unibox.apple.com
+- https://onepulse.apple.com
+- https://hrweb.apple.com
+- https://people.apple.com
+- meet://
+- tap-to-radar://new
