@@ -98,7 +98,13 @@ MOST APPS HERE are for AppleConnect, which are used (or were once used) by Apple
 - [".app" dumps `14.0`](https://archive.org/details/apple-internal-app-dumps)
 
 ##### App Store Links, x64 [credit](https://web.archive.org/web/20240212231956/https://old.reddit.com/r/Apple_Internal/comments/1ao7u00/the_apple_internal_apps_ive_got_installed/)
-- [Seed `16.0`](https://apps.apple.com/us/app/seed/id6449049254)
+- [SEED `16.0`](https://apps.apple.com/us/app/seed/id6449049254)
+- [Reality Composer `17.0`](https://apps.apple.com/us/app/reality-composer/id1462358802)
+- [Apple Research `15.0`](https://apps.apple.com/us/app/apple-research/id1463884356)
+- [Apple Music for Artists `16.0`](https://apps.apple.com/us/app/apple-music-for-artists/id1366467972)
+- [App Store Connect `15.0`](https://apps.apple.com/us/app/app-store-connect/id1234793120)
+- [Apple Developer `16.0`](https://apps.apple.com/us/app/apple-developer/id640199958)
+- [Testflight `14.0`](https://apps.apple.com/us/app/testflight/id899247664)
 - [JAMF Self-Service `15.0`](https://apps.apple.com/us/app/jamf-self-service/id718509958)
 - [Configurator `16.0`](https://apps.apple.com/us/app/apple-configurator/id1588794674)
 - [Indoor Survey `15.5`](https://apps.apple.com/us/app/indoor-survey/id994269367)
@@ -115,10 +121,11 @@ MOST APPS HERE are for AppleConnect, which are used (or were once used) by Apple
 - [DemoUnit Network Check `IPA, 16.1`](https://demounit.apple.com/views/com.apple.ist.networkcheck/download)
 - [Unknown_Tag's Archive, being uploaded to archive.org soon `multiple versions`](https://mega.nz/folder/RIwwhYiL#gBtcgj5jfhJFuxO9bv4L2A)
 
-##### Shortcuts (credit to @Unknown_Tags on twitter)
+##### Shortcuts (credit to @Unknown_Tags on twitter, mores shortcuts are [here](https://unknownarchive.univer.se/shortcuts))
 - [iCrowd App Installation `<16.0`](https://www.icloud.com/shortcuts/721d2c6b605f4f2ebfc9e14a82edb3ca)
 - [Magic Portal V.4 `unknown version`](https://www.icloud.com/shortcuts/88676e38eb24464bbe978ef85292a7e8)
 - [MyMessage Installation `x64, unknown version`](https://www.icloud.com/shortcuts/719da519c3c6484ca8ba1641adfc6bb9)
+- [Internal Downloads `unknown version`](https://www.icloud.com/shortcuts/c389265109794743bbfd85acf135c9e1)
 - [Xcode Previews App, can't be turned off `non-legacy (>10)`](https://unknownarchive.netlify.app/page11#:~:text=Xcode%20Previews%20Application%20Shortcut%C2%A0)
 
 ##### macOS Apps
@@ -169,6 +176,7 @@ DemoLoops for iOS <=16.1.2 [credit to Steph63163](https://twitter.com/Steph63163
 - [https://asw.apple.com](https://asw.apple.com)
 - [https://appleweb.apple.com](https://appleweb.apple.com)
 - [https://mfi.apple.com](https://mfi.apple.com)
+- [https://sb.apple.com](https://sb.apple.com)
 - [https://baseline.apple.com](https://baseline.apple.com)
 - [https://plec.apple.com](https://plec.apple.com)
 - [https://unibox.apple.com](https://unibox.apple.com)
