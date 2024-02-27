@@ -1,7 +1,8 @@
 
 ### AppleInternal List
-#### A list of a bit of AppleInternal software. Found from multiple sources- [Reddit](https://www.reddit.com/r/Apple_Internal/), [archive.org](https://archive.org/search?query=apple+internal&page=2&not%5B%5D=subject%3A%22GitHub%22&not%5B%5D=subject%3A%22git%22&and%5B%5D=mediatype%3A%22software%22&and%5B%5D=mediatype%3A%22movies%22&and%5B%5D=year%3A%5B2007+TO+2024%5D), and [Twitter](https://twitter.com/cc7623_/following) *(note- there are more people which have uploaded software, I just forgot to credit them here. All credits to original uploaders.).*
+#### A list of a bit of AppleInternal software. Found from multiple sources- [Reddit](https://www.reddit.com/r/Apple_Internal/), [archive.org](https://archive.org/search?query=apple+internal&page=2&not%5B%5D=subject%3A%22GitHub%22&not%5B%5D=subject%3A%22git%22&and%5B%5D=mediatype%3A%22software%22&and%5B%5D=mediatype%3A%22movies%22&and%5B%5D=year%3A%5B2007+TO+2024%5D), [Twitter](https://twitter.com/cc7623_/following), and [Telegram](https://t.me/s/AppleInternalSoft/154). *(note- there are more people which have uploaded software, I just forgot to credit them here. All credits to original uploaders.).*
 Engaging in illegal activity is not condoned. This information is provided for __*educational purposes only*__. Use at your ***OWN RISK***. If anything is missing or you would like to add to the list (please, if you can), [create an issue](https://github.com/cc7623/cc7623.github.io/labels/appleinternal%20addition%2Ffix) and I'll get to it.
+(huge amount of software coming soon!)
 
 ***
 
@@ -92,9 +93,11 @@ MOST APPS HERE are for AppleConnect, which are used (or were once used) by Apple
 - [iPhone 6s dump, `9.2.1`](https://archive.org/details/imovie_202401)
 - [DemoUnit dumps; (version of IPA in alphabetical order) `17.0`, `unknown`, `15.2`](https://archive.org/download/appledemounit)
 - [Meet iPhone/iPad(4.4.0.8), Face ID Demo(2.0.0), DemoLoop(5.6.1) `unknown version(s)`](https://archive.org/details/ipa_20240226)
+- [".app" dumps `multiple/unknown versions`](https://archive.org/details/apple-internal-app-dumps)
 
 ##### App Store Links, x64 [credit](https://web.archive.org/web/20240212231956/https://old.reddit.com/r/Apple_Internal/comments/1ao7u00/the_apple_internal_apps_ive_got_installed/)
 - [Seed `16.0`](https://apps.apple.com/us/app/seed/id6449049254)
+- [JAMF Self-Service `15.0`](https://apps.apple.com/us/app/jamf-self-service/id718509958)
 - [Configurator `16.0`](https://apps.apple.com/us/app/apple-configurator/id1588794674)
 - [Indoor Survey `15.5`](https://apps.apple.com/us/app/indoor-survey/id994269367)
 - [Classroom `14.5`](https://apps.apple.com/us/app/classroom/id1085319084)
@@ -126,6 +129,7 @@ MOST APPS HERE are for AppleConnect, which are used (or were once used) by Apple
 - [PurpleRestore 3 `unknown version`](https://archive.org/details/PurpleRestore_3)
 - [Diagnosic Resources `unknown version(s)`](https://archive.org/download/diagnostic-resources)
 - [Enterprise Connect 2.0.2 `unknown version`](https://archive.org/download/enterprise-connect-2.0.2)
+- [PurplePRO_0.1.1b1 `unknown version`](https://mega.nz/file/yUIQTRqB#M9FYAJ-8vPgfw4wTet6gDoOHBNql78akskWPTKz4kDk)
 
 ***
 
@@ -169,6 +173,7 @@ DemoLoops for iOS <=16.1.2 [credit to Steph63163](https://twitter.com/Steph63163
 - [https://onepulse.apple.com](https://onepulse.apple.com)
 - [https://hrweb.apple.com](https://hrweb.apple.com)
 - [https://people.apple.com](https://people.apple.com)
+- [https://demounit.apple.com](https://demounit.apple.com)
 - [https://iwork.ai](https://iwork.ai) / [article](https://appleinsider.com/articles/24/02/12/apple-buys-domain-suggesting-generative-ai-additions-may-come-to-iwork)
 - [https://iwork.com](http://iwork.com/) / [article](https://appleinsider.com/articles/09/01/06/apple_introduces_iwork_09_iwork_com)
 - [meet://](meet://)
