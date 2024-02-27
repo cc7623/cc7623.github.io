@@ -2,7 +2,7 @@
 ### AppleInternal List
 #### A list of a bit of AppleInternal software. Found from multiple sources- Reddit, archive.org, Twitter, and Telegram. *Note- there are more people which have uploaded software, I just forgot to credit them here. All credits to original uploaders.*
 Engaging in illegal activity is not condoned. This information is provided for __*educational purposes only*__. Use at your ***OWN RISK***. If anything is missing or you would like to add to the list (please, if you can), [create an issue](https://github.com/cc7623/cc7623.github.io/labels/appleinternal%20addition%2Ffix) and I'll get to it.
-(huge amount of software coming soon! will be up in around 1-2 weeks.)
+[//]: # (hello!)
 
 ***
 
