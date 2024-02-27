@@ -1,6 +1,6 @@
 
 ## No longer updated. Moved over [here](https://cc7623.github.io/appleinternal-list).
-### All AppleInternal/AppleConnect/InternalUI/DemoMode software
+<!---### All AppleInternal/AppleConnect/InternalUI/DemoMode software
 ###### Engaging in illegal activity is not condoned. This information is provided for __*educational purposes only*__. Use at your ***OWN RISK***.
 ###### If anything is missing or I forgot a piece of software, please [create an issue](https://github.com/cc7623/cc7623.github.io/labels/appleinternal%20addition%2Ffix).
 
@@ -147,3 +147,5 @@ DemoLoops for iOS `<=16.1.2` [credit](https://twitter.com/Steph63163/status/1627
 - Then install the DemoLoop application on the following site: https://demoupdate.apple.com/index.html
 - Once acquired, using AltStore or other, install FilzaEscaped16.
 - After that, when Filza is installed, get this [ApplicationSupport](https://archive.org/details/application-support_202402) folder, unzip it and add it instead of the existing one in the following directory: `/Var/mobile/Containers/Data/Application/com.Apple.ist.DemoLoop/Library`
+
+!--->
