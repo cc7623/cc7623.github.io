@@ -1,8 +1,8 @@
 
 ### AppleInternal List
-#### A list of a bit of AppleInternal software. Found from multiple sources- [Reddit](https://www.reddit.com/r/Apple_Internal/), [archive.org](https://archive.org/search?query=apple+internal&page=2&not%5B%5D=subject%3A%22GitHub%22&not%5B%5D=subject%3A%22git%22&and%5B%5D=mediatype%3A%22software%22&and%5B%5D=mediatype%3A%22movies%22&and%5B%5D=year%3A%5B2007+TO+2024%5D), [Twitter](https://twitter.com/cc7623_/following), and [Telegram](https://t.me/s/AppleInternalSoft/154). *(note- there are more people which have uploaded software, I just forgot to credit them here. All credits to original uploaders.).*
+#### A list of a bit of AppleInternal software. Found from multiple sources- Reddit, archive.org, Twitter, and Telegram. *Note- there are more people which have uploaded software, I just forgot to credit them here. All credits to original uploaders.*
 Engaging in illegal activity is not condoned. This information is provided for __*educational purposes only*__. Use at your ***OWN RISK***. If anything is missing or you would like to add to the list (please, if you can), [create an issue](https://github.com/cc7623/cc7623.github.io/labels/appleinternal%20addition%2Ffix) and I'll get to it.
-(huge amount of software coming soon!)
+(huge amount of software coming soon! will be up in around 1-2 weeks.)
 
 ***
 
@@ -74,7 +74,9 @@ Just put your three fingers in the areas there, and then choose reset.
 
 #### Applications:  
 
-MOST APPS HERE are for AppleConnect, which are used (or were once used) by Apple employees to communicate and use in a business environment. Some apps here (*Like `NetworkCheck`*) are for test purposes (*Also goes by InternalUI*) or DemoUnit apps (*installed on demo devices which are displayed in the Apple Store*), but most are for the communication among Apple Employees and for business. For actual InternalUI apps, check up above for the tutorial "how to install InternalUI firmware".
+MOST APPS HERE are for AppleConnect, which are used (or were once used) by Apple employees to communicate and use in a business environment. Some apps here are for prototype purposes (*Also goes by InternalUI*) or DemoUnit apps (*installed on demo devices which are displayed in the Apple Store*), but most are for the communication among Apple Employees and are for business. For actual InternalUI apps, check up above for the tutorial "how to install InternalUI firmware".
+
+(`Unknown` versions aren't unknown- there are either too many to look through or I do not have enough time to manually add each 'n' every iOS version.)
 
 ##### x32 apps (IPAs)  
 ###### Some links here might have x64 apps in their archives, but around 90% of the apps in this section are 32-bit for iOS 6.
@@ -82,6 +84,7 @@ MOST APPS HERE are for AppleConnect, which are used (or were once used) by Apple
 - [listing of Apple_internal.zip, `6-10`](https://ia601203.us.archive.org/view_archive.php?archive=/7/items/apple-internal/Apple_internal.zip)
 - [listing of AppleInternal.rar, `6-10`](https://ia800502.us.archive.org/view_archive.php?archive=/11/items/Apple-Internal-IPAs/AppleInternal.rar)
 - [32-bit AppleInternal Apps, `6-10`](https://ia902607.us.archive.org/view_archive.php?archive=/12/items/i-os-apps-20230603-t-195539-z-001/iOS%20Apps-20230603T195539Z-001.zip)
+- [Google Drive Backup Backups `unknown`](https://archive.org/details/i-os-apps-20240227-t-053954-z-001)
 - [Some prototype app dumps , `6`](https://github.com/cc7623/AppleIntApps/releases/tag/v1.0)
 - [My own upload (github, iOS `6`)](https://github.com/cc7623/AppleIntApps/releases/tag/v2.0)
 - [My own upload (archive.org, iOS `6`)](https://archive.org/details/apple-internal-collection-reupload)
@@ -116,7 +119,7 @@ MOST APPS HERE are for AppleConnect, which are used (or were once used) by Apple
 ##### Shortcuts (credit to @Unknown_Tags on twitter)
 - [iCrowd App Installation `<16.0`](https://www.icloud.com/shortcuts/721d2c6b605f4f2ebfc9e14a82edb3ca)
 - [Magic Portal V.4 `unknown version`](https://www.icloud.com/shortcuts/88676e38eb24464bbe978ef85292a7e8)
-- [MyMessage Installation `x64, unknown iOS version`](https://www.icloud.com/shortcuts/719da519c3c6484ca8ba1641adfc6bb9)
+- [MyMessage Installation `x64, unknown version`](https://www.icloud.com/shortcuts/719da519c3c6484ca8ba1641adfc6bb9)
 - [Xcode Previews App, can't be turned off `non-legacy (>10)`](https://unknownarchive.netlify.app/page11#:~:text=Xcode%20Previews%20Application%20Shortcut%C2%A0)
 
 ##### macOS Apps
