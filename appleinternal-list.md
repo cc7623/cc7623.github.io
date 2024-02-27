@@ -95,7 +95,7 @@ MOST APPS HERE are for AppleConnect, which are used (or were once used) by Apple
 - [iPhone 6s dump, `9.2.1`](https://archive.org/details/imovie_202401)
 - [DemoUnit dumps; (version of IPA in alphabetical order) `17.0`, `unknown`, `15.2`](https://archive.org/download/appledemounit)
 - [Meet iPhone/iPad(4.4.0.8), Face ID Demo(2.0.0), DemoLoop(5.6.1) `unknown version(s)`](https://archive.org/details/ipa_20240226)
-- [".app" dumps `multiple/unknown versions`](https://archive.org/details/apple-internal-app-dumps)
+- [".app" dumps `14.0`](https://archive.org/details/apple-internal-app-dumps)
 
 ##### App Store Links, x64 [credit](https://web.archive.org/web/20240212231956/https://old.reddit.com/r/Apple_Internal/comments/1ao7u00/the_apple_internal_apps_ive_got_installed/)
 - [Seed `16.0`](https://apps.apple.com/us/app/seed/id6449049254)
