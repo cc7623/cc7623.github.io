@@ -99,9 +99,11 @@ MOST APPS HERE are for AppleConnect, which are used (or were once used) by Apple
 - [iPhone 6s dump, `9.2.1`](https://archive.org/details/imovie_202401)
 - [DemoUnit dumps; (version of IPA in alphabetical order) `17.0`, `unknown`, `15.2`](https://archive.org/download/appledemounit)
 - [Meet iPhone/iPad(4.4.0.8), Face ID Demo(2.0.0), DemoLoop(5.6.1) `unknown version(s)`](https://archive.org/details/ipa_20240226)
-- [PearlStoreDemo/FaceID `unknown version`](https://web.archive.org/web/20221130114944/https://cdn.discordapp.com/attachments/928854715603746886/1047315894906400909/pearlstoredemo.ipa)
-- [MesaStoreDemo/TouchID 3.2.0 `unknown version`](https://archive.org/details/com.apple.MesaStoreDemo)
-- [.app dumps `14.0`](https://archive.org/details/apple-internal-app-dumps)
+- [FaceID Demo `unknown app ver./iOS ver.`](https://web.archive.org/web/20221130114944/https://cdn.discordapp.com/attachments/928854715603746886/1047315894906400909/pearlstoredemo.ipa)
+- [TouchID Demo 3.2.0 `unknown version`](https://archive.org/details/com.apple.MesaStoreDemo)
+- [Unknown_Tag's Archive (mega.nz) `multiple versions`](https://mega.nz/folder/RIwwhYiL#gBtcgj5jfhJFuxO9bv4L2A)
+- [Unknown_Tag's Archive (archive.org, FINALLY!) `multiple versions`](https://archive.org/details/unknowns-archive)
+- [Internal .app dumps `14.0`](https://archive.org/details/apple-internal-app-dumps)
 
 ##### App Store Links, x64 [credit](https://web.archive.org/web/20240212231956/https://old.reddit.com/r/Apple_Internal/comments/1ao7u00/the_apple_internal_apps_ive_got_installed/)
 - [SEED `16.0`](https://apps.apple.com/us/app/seed/id6449049254)
@@ -125,8 +127,6 @@ MOST APPS HERE are for AppleConnect, which are used (or were once used) by Apple
 - [DemoUnit `IPA, 17.0`](https://demounit.apple.com/views/com.apple.ist.DemoUnit-iOS/download)
 - [DemoUnit ACS `IPA, 17.0`](https://demounit.apple.com/views/com.apple.ist.acs/download)
 - [DemoUnit Network Check `IPA, 16.1`](https://demounit.apple.com/views/com.apple.ist.networkcheck/download)
-- [Unknown_Tag's Archive (mega.nz) `multiple versions`](https://mega.nz/folder/RIwwhYiL#gBtcgj5jfhJFuxO9bv4L2A)
-- [Unknown_Tag's Archive (archive.org, FINALLY!) `multiple versions`](https://archive.org/details/unknowns-archive)
 
 ##### Shortcuts (credit to @Unknown_Tags on twitter, more shortcuts are [here](https://unknownarchive.univer.se/shortcuts))
 - [iCrowd App Installation `<16.0`](https://www.icloud.com/shortcuts/721d2c6b605f4f2ebfc9e14a82edb3ca)
