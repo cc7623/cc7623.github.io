@@ -13,7 +13,7 @@ Demo Apps coming soon in the next few hours.
 [Internal Firmwar3s- Switchb0ard and Int3rnalUI](https://cc7623.github.io/appleinternal-list#put-device-in-demomode)  
 [DMG / IPA list](https://cc7623.github.io/appleinternal-list#applications)  
 [DemoLoops (enroll and non-enroll methods)](https://cc7623.github.io/appleinternal-list#demoloops)  
-[Misc. AppleInternal Links (can't be used w/out AppleConnect acct.)](https://cc7623.github.io/appleinternal-list#links-credit)
+[Links (can't be used w/out AppleConnect acct.)](https://cc7623.github.io/appleinternal-list#links-credit)
 
 ***
 
