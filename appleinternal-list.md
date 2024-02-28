@@ -124,7 +124,7 @@ MOST APPS HERE are for AppleConnect, which are used (or were once used) by Apple
 - [Unknown_Tag's Archive (mega.nz) `multiple versions`](https://mega.nz/folder/RIwwhYiL#gBtcgj5jfhJFuxO9bv4L2A)
 - [Unknown_Tag's Archive (archive.org, FINALLY!) `multiple versions`](https://archive.org/details/unknowns-archive)
 
-##### Shortcuts (credit to @Unknown_Tags on twitter, mores shortcuts are [here](https://unknownarchive.univer.se/shortcuts))
+##### Shortcuts (credit to @Unknown_Tags on twitter, more shortcuts are [here](https://unknownarchive.univer.se/shortcuts))
 - [iCrowd App Installation `<16.0`](https://www.icloud.com/shortcuts/721d2c6b605f4f2ebfc9e14a82edb3ca)
 - [Magic Portal V.4 `unknown version`](https://www.icloud.com/shortcuts/88676e38eb24464bbe978ef85292a7e8)
 - [MyMessage Installation `x64, unknown version`](https://www.icloud.com/shortcuts/719da519c3c6484ca8ba1641adfc6bb9)
