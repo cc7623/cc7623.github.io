@@ -75,9 +75,11 @@ Just put your three fingers in the areas there, and then choose reset.
 
 #### Applications:  
 
+It takes a long time to look for these so you don't have to, a follow would be appreciated :)
+
 MOST APPS HERE are for AppleConnect, which are used (or were once used) by Apple employees to communicate and use in a business environment. Some apps here are for prototype purposes (*Also goes by InternalUI*) or DemoUnit apps (*installed on demo devices which are displayed in the Apple Store*), but most are for the communication among Apple Employees and are for business. For actual InternalUI apps, check up above for the tutorial "how to install InternalUI firmware".
 
-(`Unknown` versions aren't unknown- there are either too many to look through or I do not have enough time to manually add each 'n' every iOS version.)
+(`Unknown` versions aren't unknown- there are either too many to look through or I do not have enough time to manually add each and every iOS version.)
 
 ##### x32 apps (IPAs)  
 ###### Some links here might have x64 apps in their archives, but around 90% of the apps in this section are 32-bit for iOS 6.
