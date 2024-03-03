@@ -3,14 +3,18 @@
 #### A list of a bit of AppleInternal software. Found from multiple sources- Reddit, archive.org, Twitter, and Telegram. *Note- there are more people which have uploaded software, I just forgot to credit them here. All credits to original uploaders.*
 Engaging in illegal activity is not condoned. This information is provided for __*educational purposes only*__. Use at your ***OWN RISK***. If anything is missing or you would like to add to the list (please, if you can), [create an issue](https://github.com/cc7623/cc7623.github.io/labels/appleinternal%20addition%2Ffix) and I'll get to it.
 
-Demo Apps (iOS 14/15) coming soon.
+```
+Hooooly cow, I just stumbled across a whole ton of software!
+I'll slowly archive it and upload over a long period of time. Expect frequent updates.
+-cc7623, 2024-03-03, 12.22am
+```
 
 ***
 
 #### Sections
 [40GB AppleInternal Collection, and how to extract](https://cc7623.github.io/appleinternal-list#40gb-appleinternal-collection)  
 [Put device in or out of DemoMode](https://cc7623.github.io/appleinternal-list#put-device-in-demomode)  
-[Internal Firmwar3s- Switchb0ard and Int3rnalUI](https://cc7623.github.io/appleinternal-list#put-device-in-demomode)  
+[Firmwares/Updates](https://cc7623.github.io/appleinternal-list#internaluiswitchboarddemo-firmwares)  
 [DMG / IPA list](https://cc7623.github.io/appleinternal-list#applications)  
 [DemoLoops (enroll and non-enroll methods)](https://cc7623.github.io/appleinternal-list#demoloops)  
 [Links (can't be used w/out AppleConnect acct.)](https://cc7623.github.io/appleinternal-list#links-credit)
@@ -67,9 +71,49 @@ Just put your three fingers in the areas there, and then choose reset.
 
 #### InternalUI/Switchboard/Demo Firmwares
 
-- [How to install InternalUI Firmwar3s](https://cc7623.github.io/internaluifirmware.html)  
-- [Sw1tchB0ard/Dem0 Firmwar3s](https://archive.org/download/appintfirmwar3s)  
-- [InternalUI Dumps](https://cc7623.github.io/internalui-list)  
+- [How to install InternalUI Firmwares](https://cc7623.github.io/internaluifirmware.html)  
+- [Sw1tchBoard/Demo Firmwares](https://archive.org/download/appintfirmwar3s)
+
+InternalUI Dumps:  
+- iPhone 4S: [9A2306f, iOS 5.0](https://iarchive.app/Download/9A2306f.zpaq)
+- iPhone 5: [11A465, iOS 7.0](https://iarchive.app/Download/11A465.dmg)
+- iPhone 6S Plus: [15C50, iOS 11.0.2](https://iarchive.app/Download/15C50.zpaq)
+- iPhone 8: [17A508, iOS 13.0](https://iarchive.app/Download/17A508.tar.gz)
+- iPhone X: [16C49, iOS 12.1.1](https://iarchive.app/Download/16C49.tar.gz) / [17A512, iOS 13.0](https://iarchive.app/Download/17A512.tar.gz)
+- iPhone XS: [16B92, iOS 12.1](https://iarchive.app/Download/16B92.zpaq)
+- iPhone XS Max: [17B45a, iOS 13.2](https://iarchive.app/Download/17B45a.zpa)
+- iPhone 11: [18A188, iOS 14.0](https://iarchive.app/Download/18A188.tar.gz)
+- iPhone 12 Pro: [18C57, iOS 14.3](https://iarchive.app/Download/18C57.tar.gz)  
+- iPad 2: [11B554a, iOS 7.0.4](https://iarchive.app/Download/11B554a.zip)  
+- iPod Touch 4: [8B117, iOS 4.1](https://iarchive.app/Download/8B117.zpaq)
+
+NonUI Dumps:
+- iPhone 2G: [1A420](https://iarchive.app/Download/1A420.tar.bz2)
+- iPhone 3GS: [8A2180g](https://iarchive.app/Download/8A2180g_3GS.ipsw) / [9B3176n](https://iarchive.app/Download/9B3176n_3GS.ipsw)
+- iPhone 4: [8A133](https://iarchive.app/Download/8A133.zip) / [8A2180g](https://iarchive.app/Download/8A2180g_4.ipsw) / [9B3176n](https://iarchive.app/Download/9B3176n_4.ipsw)
+- iPhone 4S: [9A2264r](https://iarchive.app/Download/9A2264r.zpaq) / [10A23941a](https://iarchive.app/Download/10A23941a.zpaq)
+- iPhone 5: [10A23110z](https://iarchive.app/Download/10A23110z.tar.gz) / [10A316](https://iarchive.app/Download/10A316.zpaq)
+- iPhone 5C: [11A63840h](https://iarchive.app/Download/11A63840h.dmg) / [11A93840l](https://iarchive.app/Download/11A93840l.zpaq) / [11D31620l](https://iarchive.app/Download/11D31620l.dmg) / [11D31620u](https://iarchive.app/Download/11D31620u.zpaq)
+- iPhone 5S: [11A24580o](https://iarchive.app/Download/11A24580o.zip) / [11A24581c](https://iarchive.app/Download/11A24581c.zpaq)
+- iPhone 6: [12A93311h](https://iarchive.app/Download/12A93311h.zip) / [12A93650o](https://iarchive.app/Download/12A93650o.zip) / [12A93651a](https://iarchive.app/Download/12A93651a.zpaq)
+- iPhone 6S: [13A93051l](https://iarchive.app/Download/13A93051l.zip)
+- iPhone 7: [14A93012r](https://iarchive.app/Download/14A93012r.zpaq) / [14Z1062](https://iarchive.app/Download/14Z1062.zip)
+- iPhone 8: [15A93720r](https://iarchive.app/Download/15A93720r.zpaq) / [15A93261h](https://iarchive.app/Download/15A93261h.tgz)
+- iPhone 8 Plus: [15A23061c](https://iarchive.app/Download/15A23061c.tar.gz)
+- iPhone X: [15A783601y](https://iarchive.app/Download/15A783601y.zip)
+- iPhone XR: [16A13580x](https://iarchive.app/Download/16A13580x.tar.xz) / [16A13580z](https://iarchive.app/Download/16A13580z.zpaq) / [16A13581a](https://iarchive.app/Download/16A13581a.zpaq)
+- iPad 2: [8F3191d](https://iarchive.app/Download/8F3191d.dmg)
+- iPad 5: [14E61810k](https://iarchive.app/Download/14E61810k.tar.gz) / [14F60900l](https://iarchive.app/Download/14F60900l.zpaq)
+- iPad 6: [15E61120i](https://iarchive.app/Download/15E61120i.tar.gz)
+- iPad Mini 1: [10A63971b](https://iarchive.app/Download/10A63971b.dmg)
+- iPod Touch 6: [12H10570d](https://iarchive.app/Download/12H10570d.tar.xz)
+- Watch Series 1: [14S32871w](https://iarchive.app/Download/14S32871w.dmg)
+- T2 Security Chip: [16P25070u](https://iarchive.app/Download/16P25070u.zpaq)
+
+Internal OTA Updates (credits to [@Endermanch](https://www.youtube.com/@Endermanch)):
+- [iPhone 5S, iOS 7](http://appldnld.apple.com/iOS7/031-3154.20140204.D0c34/com_apple_MobileAsset_SoftwareUpdate/4f43251820ad962540755d270efc2fa2ec6bf1b0.zip)
+- [iPhone 4S, iOS 7](http://appldnld.apple.com/iOS7/031-3154.20140204.D0c34/com_apple_MobileAsset_SoftwareUpdate/7f76d243a8371570b999e51b68186679c6294dc0.zip)
+- [iPhone 5C, iOS 7](http://appldnld.apple.com/iOS7/031-3154.20140204.D0c34/com_apple_MobileAsset_SoftwareUpdate/4f43251820ad962540755d270efc2fa2ec6bf1b0.zip)
 
 ***
 
