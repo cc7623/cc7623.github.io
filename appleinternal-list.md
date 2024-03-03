@@ -101,8 +101,8 @@ MOST APPS HERE are for AppleConnect, which are used (or were once used) by Apple
 - [Meet iPhone/iPad(4.4.0.8), Face ID Demo(2.0.0), DemoLoop(5.6.1) `unknown version(s)`](https://archive.org/details/ipa_20240226)
 - [FaceID Demo `unknown app ver./iOS ver.`](https://web.archive.org/web/20221130114944/https://cdn.discordapp.com/attachments/928854715603746886/1047315894906400909/pearlstoredemo.ipa)
 - [TouchID Demo 3.2.0 `unknown version`](https://archive.org/details/com.apple.MesaStoreDemo)
-- [Unknown_Tag's Archive (mega.nz) `multiple versions`](https://mega.nz/folder/RIwwhYiL#gBtcgj5jfhJFuxO9bv4L2A)
-- [Unknown_Tag's Archive (archive.org, FINALLY!) `multiple versions`](https://archive.org/details/unknowns-archive)
+- [Unknown_Tag's Archive (original, mega.nz) `multiple versions`](https://mega.nz/folder/RIwwhYiL#gBtcgj5jfhJFuxO9bv4L2A)
+- [Unknown_Tag's Archive (reuploaded, archive.org) `multiple versions`](https://archive.org/download/unknown-tags-archive)
 - [Internal .app dumps `14.0`](https://archive.org/details/apple-internal-app-dumps)
 
 ##### App Store Links, x64 [credit](https://web.archive.org/web/20240212231956/https://old.reddit.com/r/Apple_Internal/comments/1ao7u00/the_apple_internal_apps_ive_got_installed/)
@@ -128,12 +128,13 @@ MOST APPS HERE are for AppleConnect, which are used (or were once used) by Apple
 - [DemoUnit ACS `IPA, 17.0`](https://demounit.apple.com/views/com.apple.ist.acs/download)
 - [DemoUnit Network Check `IPA, 16.1`](https://demounit.apple.com/views/com.apple.ist.networkcheck/download)
 
-##### Shortcuts (credit to @Unknown_Tags on twitter, more shortcuts are [here](https://unknownarchive.univer.se/shortcuts))
-- [iCrowd App Installation `<16.0`](https://www.icloud.com/shortcuts/721d2c6b605f4f2ebfc9e14a82edb3ca)
-- [Magic Portal V.4 `unknown version`](https://www.icloud.com/shortcuts/88676e38eb24464bbe978ef85292a7e8)
-- [MyMessage Installation `x64, unknown version`](https://www.icloud.com/shortcuts/719da519c3c6484ca8ba1641adfc6bb9)
-- [Internal Downloads `unknown version`](https://www.icloud.com/shortcuts/c389265109794743bbfd85acf135c9e1)
-- [Xcode Previews App, can't be turned off `non-legacy (>10)`](https://unknownarchive.netlify.app/page11#:~:text=Xcode%20Previews%20Application%20Shortcut%C2%A0)
+##### Shortcuts [credit for most of them from @Unknown_Tags](https://twitter.com/Unknown_tags), more shortcuts from him are [here](https://unknownarchive.univer.se/shortcuts)
+- [iCrowd App Installation `iOS <16.0`](https://www.icloud.com/shortcuts/721d2c6b605f4f2ebfc9e14a82edb3ca)
+- [Magic Portal V.4 `iOS unknown version`](https://www.icloud.com/shortcuts/88676e38eb24464bbe978ef85292a7e8)
+- [MyMessage Installation `iOS x64, unknown version`](https://www.icloud.com/shortcuts/719da519c3c6484ca8ba1641adfc6bb9)
+- [Internal Downloads `iOS unknown version`](https://www.icloud.com/shortcuts/c389265109794743bbfd85acf135c9e1)
+- [Xcode Previews App, can't be turned off `iOS non-legacy (>10)`](https://unknownarchive.netlify.app/page11#:~:text=Xcode%20Previews%20Application%20Shortcut%C2%A0)
+- [Put AppleInternal Folders on Mac `macOS, unknown version`](https://www.icloud.com/shortcuts/0d1146fc06db4cb4b7781e1526a4edbc), from [@timi2506](https://twitter.com/timi2506)
 
 ##### macOS Apps
 - [https://archive.org/download/macOSInternalApplications `unknown version`](https://archive.org/download/macOSInternalApplications)
