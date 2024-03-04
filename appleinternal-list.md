@@ -15,7 +15,7 @@ I'll slowly archive it and upload over a long period of time.
 [40GB AppleInternal Collection, and how to extract](https://cc7623.github.io/appleinternal-list#40gb-appleinternal-collection)  
 [Put device in or out of DemoMode](https://cc7623.github.io/appleinternal-list#put-device-in-demomode)  
 [Firmwares/Updates](https://cc7623.github.io/appleinternal-list#internaluiswitchboarddemo-firmwares)  
-[DMG / IPA list](https://cc7623.github.io/appleinternal-list#applications)  
+[Applications](https://cc7623.github.io/appleinternal-list#applications)  
 [DemoLoops (enroll and non-enroll methods)](https://cc7623.github.io/appleinternal-list#demoloops)  
 [Links (can't be used w/out AppleConnect acct.)](https://cc7623.github.io/appleinternal-list#links-credit)
 
