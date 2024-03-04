@@ -4,9 +4,9 @@
 Engaging in illegal activity is not condoned. This information is provided for __*educational purposes only*__. Use at your ***OWN RISK***. If anything is missing or you would like to add to the list (please, if you can), [create an issue](https://github.com/cc7623/cc7623.github.io/labels/appleinternal%20addition%2Ffix) and I'll get to it.
 
 ```
-Hooooly cow, I just stumbled across a whole ton of software!
-I'll slowly archive it and upload over a long period of time. Expect frequent updates.
--cc7623, 2024-03-03, 12.22am
+Just came across a whole ton of software...
+I'll slowly archive it and upload over a long period of time.
+-cc7623, 2024-03-03 11.56pm
 ```
 
 ***
@@ -207,6 +207,19 @@ MOST APPS HERE are for AppleConnect, which are used (or were once used) by Apple
 [iOS Tutorial, Enroll](https://www.theiphonewiki.com/wiki/Screen_Saver#:~:text=Installation%20Link%3A%0Ahttps%3A//demoupdate.apple.com/index.html) *ONLY WORKS ON DEVICES WHICH APPLE CURRENTLY SELLS NEW OR REFURBISHED.*
 
 [iOS Tutorial, No Enroll, Non-Jailbroken `14.0 - 16.1.2`](https://github.com/swifticul/StoreControl)
+1. Download the [StoreControl](https://github.com/swifticul/StoreControl/releases/latest) IPA.
+2. Download the mobileprovision profile from [here](https://web.archive.org/web/20240304053546/https://raw.githubusercontent.com/swifticul/StoreControl/main/Downloads/Profiles/profile.mobileprovision).
+3. Download [AppleConfigurator2](https://apps.apple.com/us/app/apple-configurator/id1037126344?mt=12) for MacOS or [iMazing](https://downloads.imazing.com/windows/iMazing/iMazing2forWindows.exe) for Windows.
+4. AppleConfigurator:
+  - Connect iOS device to your Mac
+  - Once you see the device pop up, drag and drop the mobileprovision file onto the image of your device.
+  - Restart your iOS device.
+5. iMazing:
+  - Connect iOS device to your Mac
+  - Once you see the device pop up, drag and drop the mobileprovision file onto the image of your device. If prompted, select the Settings icon with the name "Profiles" as the target.
+  - Restart your iOS device.
+6. Go to [https://demoupdate.apple.com/](https://demoupdate.apple.com/) to install DemoLoop.
+
 
 [iOS Tutorial, No Enroll, Requires Jailbreak (x64 devices *only*)](https://web.archive.org/web/20240224055252/https://old.reddit.com/r/Apple_Internal/comments/14bzt93/demoloop/?rdt=43013) Steph's twitter tutorial is down below:
 
