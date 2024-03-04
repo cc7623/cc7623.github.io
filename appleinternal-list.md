@@ -206,10 +206,7 @@ MOST APPS HERE are for AppleConnect, which are used (or were once used) by Apple
 
 [iOS Tutorial, Enroll](https://www.theiphonewiki.com/wiki/Screen_Saver#:~:text=Installation%20Link%3A%0Ahttps%3A//demoupdate.apple.com/index.html) *ONLY WORKS ON DEVICES WHICH APPLE CURRENTLY SELLS NEW OR REFURBISHED.*
 
-[iOS Tutorial, No Enroll, Non-Jailbroken](https://twitter.com/ibatech1/status/1634896089043156992)
-1. Download [NoCodeHub](https://ibinou.github.io/-new-NoCodeHubInstaller/) on your iPhone
-2. Download StoreControl from NoCodeHub
-3. Enjoy!
+[iOS Tutorial, No Enroll, Non-Jailbroken `14.0 - 16.1.2`](https://github.com/swifticul/StoreControl)
 
 [iOS Tutorial, No Enroll, Requires Jailbreak (x64 devices *only*)](https://web.archive.org/web/20240224055252/https://old.reddit.com/r/Apple_Internal/comments/14bzt93/demoloop/?rdt=43013) Steph's twitter tutorial is down below:
 
