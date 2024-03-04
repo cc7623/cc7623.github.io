@@ -152,6 +152,7 @@ MOST APPS HERE are for AppleConnect, which are used (or were once used) by Apple
 ##### App Store Links, x64 [credit](https://web.archive.org/web/20240212231956/https://old.reddit.com/r/Apple_Internal/comments/1ao7u00/the_apple_internal_apps_ive_got_installed/)
 - [SEED `16.0`](https://apps.apple.com/us/app/seed/id6449049254)
 - [Reality Composer `17.0`](https://apps.apple.com/us/app/reality-composer/id1462358802)
+- [Business Essentials `15.0`](https://apps.apple.com/us/app/apple-business-essentials/id1588151344)
 - [Apple Research `15.0`](https://apps.apple.com/us/app/apple-research/id1463884356)
 - [Apple Music for Artists `16.0`](https://apps.apple.com/us/app/apple-music-for-artists/id1366467972)
 - [App Store Connect `15.0`](https://apps.apple.com/us/app/app-store-connect/id1234793120)
