@@ -178,7 +178,7 @@ MOST APPS HERE are for AppleConnect, which are used (or were once used) by Apple
 - [MyMessage Installation `iOS x64, unknown version`](https://www.icloud.com/shortcuts/719da519c3c6484ca8ba1641adfc6bb9)
 - [Internal Downloads `iOS unknown version`](https://www.icloud.com/shortcuts/c389265109794743bbfd85acf135c9e1)
 - [Xcode Previews App, can't be turned off `iOS non-legacy (>10)`](https://unknownarchive.netlify.app/page11#:~:text=Xcode%20Previews%20Application%20Shortcut%C2%A0)
-- [Put AppleInternal Folders on Mac `macOS, unknown version`](https://www.icloud.com/shortcuts/0d1146fc06db4cb4b7781e1526a4edbc), from [@timi2506](https://twitter.com/timi2506)
+- [Setup AppleInternal Folders on Mac `macOS, unknown version`](https://www.icloud.com/shortcuts/0d1146fc06db4cb4b7781e1526a4edbc), from [@timi2506](https://twitter.com/timi2506)
 
 ##### macOS Apps
 - [https://archive.org/download/macOSInternalApplications `unknown version`](https://archive.org/download/macOSInternalApplications)
