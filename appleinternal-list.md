@@ -4,8 +4,8 @@
 Engaging in illegal activity is not condoned. This information is provided for __*educational purposes only*__. Use at your ***OWN RISK***. If anything is missing or you would like to add to the list (please, if you can), [create an issue](https://github.com/cc7623/cc7623.github.io/labels/appleinternal%20addition%2Ffix) and I'll get to it.
 
 ```
-Demo Apps (iOS 14 & 15) coming soon.
--cc7623, 2024-03-10 12.41pm
+Added InternalUI instructions for MacOS, uploading Demo Apps now
+-cc7623, 2024-03-11 12.47pm
 ```
 
 ***
@@ -70,8 +70,84 @@ Just put your three fingers in the areas there, and then choose reset.
 
 #### InternalUI/Switchboard/Demo Firmwares
 
-- [How to install InternalUI Firmwares](https://cc7623.github.io/internaluifirmware.html)  
-- [Sw1tchBoard/Demo Firmwares](https://archive.org/download/appintfirmwar3s)
+[How to install InternalUI Firmwares](https://cc7623.github.io/internaluifirmware.html):
+
+```
+WARNING! IF SOMETHING GOES WRONG, YOUR
+DEVICE WILL HAVE TO BE RESET. ONLY ATTEMPT THIS ON A TEST DEVICE OR SECONDARY DEVICE.
+Check down below for an InternalUI build. NONUI DUMPS WILL NOT WORK.
+
+This tutorial has been tested for iOS 13 and 7. It might work on other versions as well.
+Visit the link above where you can download the InternalUI builds.
+This will take up from 2GB extra to 6GB extra.
+
+========PART I: INSTALLING INTERNAL SETTINGS========
+
+1. Download InternalUI dump (link above)
+2. Extract it (7zip or WinRAR work)
+3. In root folder [DEVICE], create a folder called “AppleInternal” (don’t include these “”)
+4. Go to /AppleInternal/ [DUMP] and copy the Library folder to
+/AppleInternal/ [DEVICE]
+
+5. Go to /System/library/CoreServices/systemversion.plist [DEVICE]
+6. Add “ReleaseType” string = “Internal” and “ProductType” string = “Internal”
+
+<key>ReleaseType</key>
+<string>Internal</string>
+<key>ProductType</key>
+<string>Internal</string>
+
+7. Go to /System/Library/PrivateFrameworks [DUMP]
+
+8. Copy everything in there to /System/Library/PrivateFrameworks [DEVICE]
+USE 3UTOOLS! DO NOT USE iFUNBOX! IT WILL REPLACE EVERYTHING WITHOUT ASKING.
+DO NOT PRESS REPLACE! JUST SKIP ANY DUPLICATE FOLDERS/FILES.
+9. Open a terminal for your device. Mterm or SSH works. Run:
+$ su
+$ alpine (if asked for passcode)
+$ ldrestart
+10. Done.
+
+========PART II: INSTALLING APPS========
+
+11. Go to http://ios-repo-updates.com
+12. Search Appsync Unified, then download the latest available .deb file.
+
+FOR IOS 7:
+"You don't have to edit anything in Appsync package,
+just install the latest version of Appsync Unified. [...]"
+(italic text taken from Reddit)
+
+NOT IOS 7:
+13. Change the name from .deb to .zip and extract it
+14. Find the control file and change the firmware to 30
+15. Rezip the folder and rename to .deb
+16. Install it via Filza or iFile
+
+17. Copy everything from /AppleInternal/Applications in your dump to /Applications/ on device
+
+FOR IOS 7:
+"[...] Also, after copying over all the internal apps,
+make sure to open terminal on the iPhone, cd to /Applications/ and run "chown 755 ." (without quotes, include period), otherwise all internal apps would
+crash with exit code 13." After running chown, run uicache and reboot.
+(italic text taken from Reddit)
+
+18. Run these commands via SSH or MTerminal:
+$ su
+$ alpine (if needs password)
+$ ldrestart (wait for respring)
+$ uicache
+19. Reboot.
+20. Done. Some apps might not launch on some versions of iOS.
+
+CREDIT: @angelXwind (twitter) for appsync, @ThermalDOE (twitter) for parts of method, @itstrant (twitter) for most writing, and /u/Andreyhg (Reddit) for iOS 7 app instructions.
+```
+
+#### [How to](https://archive.org/details/videoplayback_20240310_2212) install InternalUI on MacOS // [credit](https://twitter.com/timi2506/status/1762188612513198157)
+For the video above, [download](https://www.icloud.com/shortcuts/7469466c176445f3ab36e4c8ba87ab65) the shortcut on your iPhone or iPad.
+
+
+[Sw1tchBoard/Demo Firmwares](https://archive.org/download/appintfirmwar3s)
 
 InternalUI Dumps:  
 - iPhone 4S: [9A2306f, iOS 5.0](https://iarchive.app/Download/9A2306f.zpaq)
