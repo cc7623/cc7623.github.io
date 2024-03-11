@@ -4,7 +4,7 @@
 Engaging in illegal activity is not condoned. This information is provided for __*educational purposes only*__. Use at your ***OWN RISK***. If anything is missing or you would like to add to the list (please, if you can), [create an issue](https://github.com/cc7623/cc7623.github.io/labels/appleinternal%20addition%2Ffix) and I'll get to it.
 
 ```
-Added InternalUI instructions for MacOS, uploading Demo Apps now
+Added InternalUI instructions for MacOS and Platoon for Artists. Uploading Demo Apps now...
 -cc7623, 2024-03-11 12.47pm
 ```
 
@@ -229,6 +229,7 @@ MOST APPS HERE are for AppleConnect, which are used (or were once used) by Apple
 - [Reality Composer `17.0`](https://apps.apple.com/us/app/reality-composer/id1462358802)
 - [Business Essentials `15.0`](https://apps.apple.com/us/app/apple-business-essentials/id1588151344)
 - [Apple Research `15.0`](https://apps.apple.com/us/app/apple-research/id1463884356)
+- [Platoon for Artists `13.0`](https://apps.apple.com/us/app/platoon-for-artists/id1550671751)
 - [Apple Music for Artists `16.0`](https://apps.apple.com/us/app/apple-music-for-artists/id1366467972)
 - [App Store Connect `15.0`](https://apps.apple.com/us/app/app-store-connect/id1234793120)
 - [Apple Developer `16.0`](https://apps.apple.com/us/app/apple-developer/id640199958)
