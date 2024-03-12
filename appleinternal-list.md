@@ -24,18 +24,17 @@ Added InternalUI instructions for MacOS and Platoon for Artists. Uploading Demo 
 
 Download [here](https://archive.org/details/apple-internal-collection).  
 
-========How to extract it?========  
-`Windows:`  
+Windows:  
 1. Download LinuxFileViewer or Transmac.
 2. Right click the DMG file and open.
 (Thanks to [/u/Codix_](https://www.reddit.com/r/Apple_Internal/comments/tfvwh1/comment/kjbn81z/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button).)
 
-`Mac:`
+Mac:
 1. Double-click the DMG
-2. Click on the drive icon named "AppleInternal Collection." It should be on your desktop.
+2. Click on the drive icon named "AppleInternal Collection". It should be on your desktop.
 
-`Linux:`
-1. Just double-click it.
+Linux:
+1. Just double-click it, and it should extract itself.
 
 ***
 
@@ -70,9 +69,9 @@ Just put your three fingers in the areas there, and then choose reset.
 
 #### InternalUI/Switchboard/Demo Firmwares
 
-[How to install InternalUI Firmwares](https://cc7623.github.io/internaluifirmware.html):
-
-```
+[How to install InternalUI Firmwares for iOS](https://cc7623.github.io/internaluifirmware.html) (tutorial below)
+<details>
+  <summary>iOS tutorial</summary>
 WARNING! IF SOMETHING GOES WRONG, YOUR
 DEVICE WILL HAVE TO BE RESET. ONLY ATTEMPT THIS ON A TEST DEVICE OR SECONDARY DEVICE.
 Check down below for an InternalUI build. NONUI DUMPS WILL NOT WORK.
@@ -83,6 +82,7 @@ This will take up from 2GB extra to 6GB extra.
 
 ========PART I: INSTALLING INTERNAL SETTINGS========
 
+```
 1. Download InternalUI dump (link above)
 2. Extract it (7zip or WinRAR work)
 3. In root folder [DEVICE], create a folder called “AppleInternal” (don’t include these “”)
@@ -142,10 +142,17 @@ $ uicache
 
 CREDIT: @angelXwind (twitter) for appsync, @ThermalDOE (twitter) for parts of method, @itstrant (twitter) for most writing, and /u/Andreyhg (Reddit) for iOS 7 app instructions.
 ```
+</details>
 
-#### [How to](https://archive.org/details/videoplayback_20240310_2212) install InternalUI on MacOS // [credit](https://twitter.com/timi2506/status/1762188612513198157)
-For the video above, [download](https://www.icloud.com/shortcuts/7469466c176445f3ab36e4c8ba87ab65) the shortcut on your iPhone or iPad.
+<details>
+  <summary>MacOS tutorial</summary>
 
+Credit to [@timi2506](https://twitter.com/timi2506/status/1762188612513198157).
+
+Click on the thumbnail below to watch the tutorial.  
+[![](https://archive.org/download/videoplayback_20240310_2212/videoplayback_20240310_2212.thumbs/videoplayback_000090.jpg)](https://ia800202.us.archive.org/31/items/videoplayback_20240310_2212/videoplayback.mp4)  
+Here is the [download](https://www.icloud.com/shortcuts/7469466c176445f3ab36e4c8ba87ab65) for the shortcut.
+</details>
 
 [Sw1tchBoard/Demo Firmwares](https://archive.org/download/appintfirmwar3s)
 
@@ -158,8 +165,8 @@ InternalUI Dumps:
 - iPhone XS: [16B92, iOS 12.1](https://iarchive.app/Download/16B92.zpaq)
 - iPhone XS Max: [17B45a, iOS 13.2](https://iarchive.app/Download/17B45a.zpa)
 - iPhone 11: [18A188, iOS 14.0](https://iarchive.app/Download/18A188.tar.gz)
-- iPhone 12 Pro: [18C57, iOS 14.3](https://iarchive.app/Download/18C57.tar.gz)  
-- iPad 2: [11B554a, iOS 7.0.4](https://iarchive.app/Download/11B554a.zip)  
+- iPhone 12 Pro: [18C57, iOS 14.3](https://iarchive.app/Download/18C57.tar.gz)
+- iPad 2: [11B554a, iOS 7.0.4](https://iarchive.app/Download/11B554a.zip)
 - iPod Touch 4: [8B117, iOS 4.1](https://iarchive.app/Download/8B117.zpaq)
 
 NonUI Dumps:
@@ -193,8 +200,6 @@ Internal OTA Updates (credits to [@Endermanch](https://www.youtube.com/@Enderman
 ***
 
 #### Applications:  
-
-It takes a long time to look for these so you don't have to, a follow would be appreciated :)
 
 MOST APPS HERE are for AppleConnect, which are used (or were once used) by Apple employees to communicate and use in a business environment. Some apps here are for prototype purposes (*Also goes by InternalUI*) or DemoUnit apps (*installed on demo devices which are displayed in the Apple Store*), but most are for the communication among Apple Employees and are for business. For actual InternalUI apps, check up above for the tutorial "how to install InternalUI firmware".
 
@@ -283,7 +288,10 @@ MOST APPS HERE are for AppleConnect, which are used (or were once used) by Apple
 
 [iOS Tutorial, Enroll](https://www.theiphonewiki.com/wiki/Screen_Saver#:~:text=Installation%20Link%3A%0Ahttps%3A//demoupdate.apple.com/index.html) *ONLY WORKS ON DEVICES WHICH APPLE CURRENTLY SELLS NEW OR REFURBISHED.*
 
-[iOS Tutorial, No Enroll, Non-Jailbroken `14.0 - 16.1.2`](https://github.com/swifticul/StoreControl)
+[iOS Tutorial, No Enroll, Non-Jailbroken `14.0 - 16.1.2` (tutorial below)](https://github.com/swifticul/StoreControl)
+<details>
+  <summary>DemoLoops for iOS 14.0 - 16.1.2 (Non-Jailbroken, No Enroll)</summary>
+  
 1. Download the [StoreControl](https://github.com/swifticul/StoreControl/releases/latest) IPA.
 2. Download the mobileprovision profile from [here](https://web.archive.org/web/20240304053546/https://raw.githubusercontent.com/swifticul/StoreControl/main/Downloads/Profiles/profile.mobileprovision).
 3. Download [AppleConfigurator2](https://apps.apple.com/us/app/apple-configurator/id1037126344?mt=12) for MacOS or [iMazing](https://downloads.imazing.com/windows/iMazing/iMazing2forWindows.exe) for Windows.
@@ -296,15 +304,19 @@ MOST APPS HERE are for AppleConnect, which are used (or were once used) by Apple
   - Once you see the device pop up, drag and drop the mobileprovision file onto the image of your device. If prompted, select the Settings icon with the name "Profiles" as the target.
   - Restart your iOS device.
 6. Go to [https://demoupdate.apple.com/](https://demoupdate.apple.com/) to install DemoLoop.
-
+</details>
 
 [iOS Tutorial, No Enroll, Requires Jailbreak (x64 devices *only*)](https://web.archive.org/web/20240224055252/https://old.reddit.com/r/Apple_Internal/comments/14bzt93/demoloop/?rdt=43013) Steph's twitter tutorial is down below:
 
-DemoLoops for iOS <=16.1.2 [credit to Steph63163](https://twitter.com/Steph63163/status/1627215122308497408):
+<details>
+  <summary>DemoLoops for iOS <=16.1.2 (Jailbroken, No Enroll) @Steph63163</summary>
+    
+[Credit to Steph63163](https://twitter.com/Steph63163/status/1627215122308497408):
 - Alright, here's how to get DemoLoop for iOS 16-16.1.2.  First install this profile using [Apple Configurator](https://ia800200.us.archive.org/view_archive.php?archive=/31/items/apple-partner-demo-june-2024v-1.mobileprovision_202402/Apple%20Partner%20Demo%20June%202024v1.mobileprovision.zip).
-- Then install the DemoLoop application on the following site: https://demoupdate.apple.com/index.html
+- Then install the DemoLoop application on the following site: [https://demoupdate.apple.com/index.html](https://demoupdate.apple.com/index.html)
 - Once acquired, using AltStore or other, install FilzaEscaped16.
 - After that, when Filza is installed, get this [ApplicationSupport](https://archive.org/details/application-support_202402) folder, unzip it and add it instead of the existing one in the following directory: `/Var/mobile/Containers/Data/Application/com.Apple.ist.DemoLoop/Library`
+</details>
 
 ***
 
