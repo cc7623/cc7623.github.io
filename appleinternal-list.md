@@ -4,19 +4,18 @@
 Engaging in illegal activity is not condoned. This information is provided for __*educational purposes only*__. Use at your ***OWN RISK***. If anything is missing or you would like to add to the list (please, if you can), [create an issue](https://github.com/cc7623/cc7623.github.io/labels/appleinternal%20addition%2Ffix) and I'll get to it.
 
 ```
-Added InternalUI instructions for MacOS and Platoon for Artists. Uploading Demo Apps now...
--cc7623, 2024-03-11 12.47pm
+Updated! Finally added Demo Apps, more IPAs, and a MacOS InternalUI tutorial.
+2024-03-13 01.20pm
 ```
 
 ***
 
 #### Sections
-[40GB AppleInternal Collection, and how to extract](https://cc7623.github.io/appleinternal-list#40gb-appleinternal-collection)  
 [Put device in or out of DemoMode](https://cc7623.github.io/appleinternal-list#put-device-in-demomode)  
-[Firmwares/Updates](https://cc7623.github.io/appleinternal-list#internaluiswitchboarddemo-firmwares)  
-[Applications](https://cc7623.github.io/appleinternal-list#applications)  
+[Firmwares and Updates](https://cc7623.github.io/appleinternal-list#internaluiswitchboarddemo-firmwares)  
+[Applications (macOS and iOS)](https://cc7623.github.io/appleinternal-list#applications)  
 [DemoLoops (enroll and non-enroll methods)](https://cc7623.github.io/appleinternal-list#demoloops)  
-[Links (can't be used w/out AppleConnect acct.)](https://cc7623.github.io/appleinternal-list#links-credit)
+[AppleInternal Links (`***.apple.com`)](https://cc7623.github.io/appleinternal-list#links-credit)
 
 ***
 
@@ -80,9 +79,9 @@ This tutorial has been tested for iOS 13 and 7. It might work on other versions 
 Visit the link above where you can download the InternalUI builds.
 This will take up from 2GB extra to 6GB extra.
 
+```
 ========PART I: INSTALLING INTERNAL SETTINGS========
 
-```
 1. Download InternalUI dump (link above)
 2. Extract it (7zip or WinRAR work)
 3. In root folder [DEVICE], create a folder called “AppleInternal” (don’t include these “”)
@@ -211,7 +210,7 @@ MOST APPS HERE are for AppleConnect, which are used (or were once used) by Apple
 - [listing of Apple_internal.zip, `6-10`](https://ia601203.us.archive.org/view_archive.php?archive=/7/items/apple-internal/Apple_internal.zip)
 - [listing of AppleInternal.rar, `6-10`](https://ia800502.us.archive.org/view_archive.php?archive=/11/items/Apple-Internal-IPAs/AppleInternal.rar)
 - [32-bit AppleInternal Apps, `6-10`](https://ia902607.us.archive.org/view_archive.php?archive=/12/items/i-os-apps-20230603-t-195539-z-001/iOS%20Apps-20230603T195539Z-001.zip)
-- [Google Drive Backup Backups `unknown`](https://archive.org/details/i-os-apps-20240227-t-053954-z-001)
+- [Google Drive Backup `6-10`](https://archive.org/details/i-os-apps-20240227-t-053954-z-001)
 - [Some prototype app dumps , `6`](https://github.com/cc7623/AppleIntApps/releases/tag/v1.0)
 - [My own upload (github, iOS `6`)](https://github.com/cc7623/AppleIntApps/releases/tag/v2.0)
 - [My own upload (archive.org, iOS `6`)](https://archive.org/details/apple-internal-collection-reupload)
@@ -221,15 +220,19 @@ MOST APPS HERE are for AppleConnect, which are used (or were once used) by Apple
 - [iPad DemoApps, `16.4.1`](https://web.archive.org/web/20230815000000*/https://cdn.thanos.lol/demoapps.zip)
 - [iosdmpkgs, `14.5`](https://archive.org/download/iosdmpkgs)
 - [iPhone 6s dump, `9.2.1`](https://archive.org/details/imovie_202401)
-- [DemoUnit dumps; (version of IPA in alphabetical order) `17.0`, `unknown`, `15.2`](https://archive.org/download/appledemounit)
-- [Meet iPhone/iPad(4.4.0.8), Face ID Demo(2.0.0), DemoLoop(5.6.1) `unknown version(s)`](https://archive.org/details/ipa_20240226)
-- [FaceID Demo `unknown app ver./iOS ver.`](https://web.archive.org/web/20221130114944/https://cdn.discordapp.com/attachments/928854715603746886/1047315894906400909/pearlstoredemo.ipa)
+- [Demo Apps `14.0`](https://archive.org/details/demoapps-ios14)
+- [Demo Apps `15.0`](https://archive.org/details/ios15-demoapps)
+- [DemoUnit dumps `3 IPAs, unknown versions`](https://archive.org/download/appledemounit)
+- [Meet iPhone/iPad(4.4.0.8), Face ID Demo(2.0.0), DemoLoop(5.6.1) `unknown versions`](https://archive.org/details/ipa_20240226)
+- [FaceID Demo `unknown version`](https://web.archive.org/web/20221130114944/https://cdn.discordapp.com/attachments/928854715603746886/1047315894906400909/pearlstoredemo.ipa)
 - [TouchID Demo 3.2.0 `unknown version`](https://archive.org/details/com.apple.MesaStoreDemo)
 - [Unknown_Tag's Archive (original, mega.nz) `multiple versions`](https://mega.nz/folder/RIwwhYiL#gBtcgj5jfhJFuxO9bv4L2A)
 - [Unknown_Tag's Archive (reuploaded, archive.org) `multiple versions`](https://archive.org/download/unknown-tags-archive)
+- [Unknown Tag's InternalUI Archive `multiple versions`](https://archive.org/details/internalui-archive)
 - [Internal .app dumps `14.0`](https://archive.org/details/apple-internal-app-dumps)
 
-##### App Store Links, x64 [credit](https://web.archive.org/web/20240212231956/https://old.reddit.com/r/Apple_Internal/comments/1ao7u00/the_apple_internal_apps_ive_got_installed/)
+##### App Store Links, x64 [credit](https://web.archive.org/web/20240212231956/https://old.reddit.com/r/Apple_Internal/comments/1ao7u00/the_apple_internal_apps_ive_got_installed/)  
+Minimum versions might change anytime. If they do, please [open an issue](https://github.com/cc7623/cc7623.github.io/labels/appleinternal%20addition%2Ffix) and it will get fixed.
 - [SEED `16.0`](https://apps.apple.com/us/app/seed/id6449049254)
 - [Reality Composer `17.0`](https://apps.apple.com/us/app/reality-composer/id1462358802)
 - [Business Essentials `15.0`](https://apps.apple.com/us/app/apple-business-essentials/id1588151344)
@@ -254,16 +257,16 @@ MOST APPS HERE are for AppleConnect, which are used (or were once used) by Apple
 - [DemoUnit ACS `IPA, 17.0`](https://demounit.apple.com/views/com.apple.ist.acs/download)
 - [DemoUnit Network Check `IPA, 16.1`](https://demounit.apple.com/views/com.apple.ist.networkcheck/download)
 
-##### Shortcuts [credit for most of them from @Unknown_Tags](https://twitter.com/Unknown_tags), more shortcuts from him are [here](https://unknownarchive.univer.se/shortcuts)
-- [iCrowd App Installation `iOS <16.0`](https://www.icloud.com/shortcuts/721d2c6b605f4f2ebfc9e14a82edb3ca)
-- [Magic Portal V.4 `iOS unknown version`](https://www.icloud.com/shortcuts/88676e38eb24464bbe978ef85292a7e8)
-- [MyMessage Installation `iOS x64, unknown version`](https://www.icloud.com/shortcuts/719da519c3c6484ca8ba1641adfc6bb9)
-- [Internal Downloads `iOS unknown version`](https://www.icloud.com/shortcuts/c389265109794743bbfd85acf135c9e1)
-- [Xcode Previews App, can't be turned off `iOS non-legacy (>10)`](https://unknownarchive.netlify.app/page11#:~:text=Xcode%20Previews%20Application%20Shortcut%C2%A0)
-- [Setup AppleInternal Folders on Mac `macOS, unknown version`](https://www.icloud.com/shortcuts/0d1146fc06db4cb4b7781e1526a4edbc), from [@timi2506](https://twitter.com/timi2506)
+##### Shortcuts
+- [iCrowd App Installation `iOS <16.0`](https://www.icloud.com/shortcuts/721d2c6b605f4f2ebfc9e14a82edb3ca) [@Unknown_Tags](https://twitter.com/Unknown_tags)
+- [Magic Portal V.4 `iOS unknown version`](https://www.icloud.com/shortcuts/88676e38eb24464bbe978ef85292a7e8) [@Unknown_Tags](https://twitter.com/Unknown_tags)
+- [MyMessage Installation `iOS x64, unknown version`](https://www.icloud.com/shortcuts/719da519c3c6484ca8ba1641adfc6bb9) [@Unknown_Tags](https://twitter.com/Unknown_tags)
+- [Internal Downloads `iOS unknown version`](https://www.icloud.com/shortcuts/c389265109794743bbfd85acf135c9e1) [@Unknown_Tags](https://twitter.com/Unknown_tags)
+- [Xcode Previews App, can't be turned off `iOS non-legacy (>10)`](https://unknownarchive.netlify.app/page11#:~:text=Xcode%20Previews%20Application%20Shortcut%C2%A0) [@Unknown_Tags](https://twitter.com/Unknown_tags)
+- [Setup AppleInternal Folders on Mac `macOS, unknown version`](https://www.icloud.com/shortcuts/0d1146fc06db4cb4b7781e1526a4edbc) [@timi2506](https://twitter.com/timi2506)
 
 ##### macOS Apps
-- [https://archive.org/download/macOSInternalApplications `unknown version`](https://archive.org/download/macOSInternalApplications)
+- [macOSInternalApplications `unknown version`](https://archive.org/download/macOSInternalApplications)
 - [Reupload (from above)](https://github.com/cc7623/AppleIntApps/releases/tag/3.0) (taken from 40gb appleinternal dump)
 - [Random MacOS DemoApp `unknown version`](https://archive.org/details/macdoesthat)
 - [Pricing v2.1.4 `unknown version`](https://archive.org/download/com.apple.ist.windward-mac)
@@ -288,7 +291,7 @@ MOST APPS HERE are for AppleConnect, which are used (or were once used) by Apple
 
 [iOS Tutorial, Enroll](https://www.theiphonewiki.com/wiki/Screen_Saver#:~:text=Installation%20Link%3A%0Ahttps%3A//demoupdate.apple.com/index.html) *ONLY WORKS ON DEVICES WHICH APPLE CURRENTLY SELLS NEW OR REFURBISHED.*
 
-[iOS Tutorial, No Enroll, Non-Jailbroken `14.0 - 16.1.2` (tutorial below)](https://github.com/swifticul/StoreControl)
+[iOS Tutorial, No Enroll, Non-Jailbroken `14.0 - 16.1.2`](https://github.com/swifticul/StoreControl) (tutorial below)
 <details>
   <summary>DemoLoops for iOS 14.0 - 16.1.2 (Non-Jailbroken, No Enroll)</summary>
   
