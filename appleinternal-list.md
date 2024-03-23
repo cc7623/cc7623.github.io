@@ -12,7 +12,7 @@ Updated! Finally added Demo Apps, more IPAs, and a MacOS InternalUI tutorial.
 
 #### Sections
 [Put device in or out of DemoMode](https://cc7623.github.io/appleinternal-list#put-device-in-demomode)  
-[Firmwares and Updates](https://cc7623.github.io/appleinternal-list#internaluiswitchboarddemo-firmwares)  
+[Firmwares, Updates, and InternalUI](https://cc7623.github.io/appleinternal-list#internaluiswitchboarddemo-firmwares)  
 [Applications (macOS and iOS)](https://cc7623.github.io/appleinternal-list#applications)  
 [DemoLoops (enroll and non-enroll methods)](https://cc7623.github.io/appleinternal-list#demoloops)  
 [AppleInternal Links (`***.apple.com`)](https://cc7623.github.io/appleinternal-list#links-credit)
