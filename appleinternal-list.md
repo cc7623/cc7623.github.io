@@ -71,6 +71,7 @@ Just put your three fingers in the areas there, and then choose reset.
 [How to install InternalUI Firmwares for iOS](https://cc7623.github.io/internaluifirmware.html) (tutorial below)
 <details>
   <summary>iOS tutorial</summary>
+
 WARNING! IF SOMETHING GOES WRONG, YOUR
 DEVICE WILL HAVE TO BE RESET. ONLY ATTEMPT THIS ON A TEST DEVICE OR SECONDARY DEVICE.
 Check down below for an InternalUI build. NONUI DUMPS WILL NOT WORK.
@@ -145,6 +146,7 @@ CREDIT: @angelXwind (twitter) for appsync, @ThermalDOE (twitter) for parts of me
 
 <details>
   <summary>MacOS tutorial</summary>
+
 
 Credit to [@timi2506](https://twitter.com/timi2506/status/1762188612513198157).
 
