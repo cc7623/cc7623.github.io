@@ -37,14 +37,14 @@ Linux:
 
 ***
 
-#### Put device in DemoMode:
+#### Put device in DemoMode (iOS/macOS):
 
-WARNING- This will erase all data on the device and you might not be able to unenroll.
+WARNING- This will erase all data on the device and you risk permanently locking your device into demomode.
 
 *1 - go to demounit.Apple.com ( on a spare device not on the one you wanna install demo mode on )  
 2 - sign in with your Apple ID  
 3 - install the app  
-4 - choose a random Apple Store ( doesn’t matter )  
+4 - choose a random Apple Store ( doesn’t matter ) **for downloading demo content (apps) choose a UK store. for just the demoloop, choose a US store** [credit](https://web.archive.org/web/20240326000212/https://old.reddit.com/r/Apple_Internal/comments/14w3wk3/putting_device_in_demo_mode/jrgddgq/?context=3)  
 5 - tap enroll a new device  
 6 - click manual entry  
 7 - enter the serial number of your device ( the device you’re trying to put demo mode on )  
@@ -57,9 +57,10 @@ WARNING- This will erase all data on the device and you might not be able to une
 ([credit](https://web.archive.org/web/20240205022229/http://web.archive.org/screenshot/https://www.reddit.com/r/Apple_Internal/comments/13ixfa7/comment/jkehx91/?utm_name=web3xcss))
 
 #### Get device out of DemoMode
+Go to the admin menu (three fingers in the corner. picture link at the bottom)
+Press unenroll, it will work fine! However, if the store is enrolled in the Demo Device Lock Theft Deterrence Program, you have to use the web app, which you don't have the password to, so you can't unenroll it.  
 
-- Go to the admin menu (three fingers in the corner. picture link at the bottom)
-- Press unenroll, it will work fine! However, if the store is enrolled in the Demo Device Lock Theft Deterrence Program, you have to use the web app, which you don't have the password to, so you can't unenroll it.  
+Unenroll for iOS: (macos coming soon)
 Here is an image on how to do the admin menu:  
 Just put your three fingers in the areas there, and then choose reset.  
 [https://imgur.com/a/yOlphSe](https://web.archive.org/web/20240205021858/http://web.archive.org/screenshot/https://imgur.com/a/yOlphSe) (2nd image)
